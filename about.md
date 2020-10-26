@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Viral immunopathologist, high-dimensional cytometry and analysis specialist at the Sydney Cytometry Core Research Facility at the University of Sydney. ISAC Marylou Ingram Scholar.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[thomas.ashhurst@sydney.edu.au](mailto:thomas.ashhurst@sydney.edu.au)
