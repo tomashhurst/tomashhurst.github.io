@@ -5,12 +5,7 @@ permalink: /about/
 
 **Thomas Myles Ashhurst, Ph.D.**
 
-Immunologist, high-dimensional cytometry specialist, and internationally recognised leader in the application of high-dimensional cytometry technologies and analysis to the study of infectious disease and immunity.
-
-[Sydney Cytometry Facility](https://sydneycytometry.org.au), 
-The University of Sydney.
-
-[ISAC Marylou Ingram Scholar](https://isac-net.org/page/ThomasAshhurstBio).
+Immunologist and high-dimensional cytometry specialist at the [Sydney Cytometry Facility](https://sydneycytometry.org.au), The University of Sydney. Internationally recognised leader in the application of high-dimensional cytometry technologies and analysis to the study of infectious disease and immunity. [ISAC Marylou Ingram Scholar](https://isac-net.org/page/ThomasAshhurstBio).
 
 **Qualifications**
 
