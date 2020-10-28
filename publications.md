@@ -4,10 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-*For a full list, please see [Google Scholar](http://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0001-7269-7773).*
-
----
-
 **Book - 'Mass cytometry: methods and protocols'**
 
 [Mass Cytometry: Methods and Protocols](https://www.springer.com/gp/book/9781493994533). HM McGuire, TM Ashhurst. 2019. Springer New York.
