@@ -8,9 +8,16 @@ permalink: /about/
 
 Immunologist, high-dimensional cytometry specialist, and internationally recognised leader in the application of high-dimensional cytometry technologies and analysis to the study of infectious disease and immunity.
 
-Sydney Cytometry Facility, The University of Sydney
+[Sydney Cytometry Facility](https://sydneycytometry.org.au), 
+The University of Sydney
 
 ISAC Marylou Ingram Scholar.
+
+**Qualifications**
+
+Ph.D. in Medicine (Pathology). The University of Sydney, 2020.
+
+B.Sc. (hons) in Science. The University of Sydney, 2011.
 
 ---
 
@@ -31,3 +38,11 @@ ISAC Marylou Ingram Scholar.
 
 **ISAC Scholar profile page**:
 [https://isac-net.org/page/ThomasAshhurstBio](https://isac-net.org/page/ThomasAshhurstBio)
+
+---
+
+**Sydney Cytometry Extranet**:
+[https://sydneycytometry.org.au/wiki-launch](https://sydneycytometry.org.au/wiki-launch)
+
+**Spectre Home Page**:
+[https://github.com/ImmuneDynamics/Spectre](https://github.com/ImmuneDynamics/Spectre)
