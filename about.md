@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+
 ---
 
 **Thomas Myles Ashhurst, Ph.D.**
