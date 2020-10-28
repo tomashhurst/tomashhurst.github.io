@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About/Contact
-permalink: /contact/
+permalink: /about/
 ---
 
 **Thomas Myles Ashhurst, Ph.D.**
