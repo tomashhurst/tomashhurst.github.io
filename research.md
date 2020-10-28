@@ -6,6 +6,8 @@ permalink: /research/
 
 ---
 
+<br />
+
 ***Mapping dynamic immunity across time, space, and disease***
 
 <br />
