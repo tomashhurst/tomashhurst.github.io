@@ -40,5 +40,6 @@ permalink: /publications/
 
 ---
 
-**2014 - 2018**
+**Publications - 2014 to 2018**
+
 [...](http://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en)
