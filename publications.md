@@ -8,6 +8,8 @@ permalink: /publications/
 
 For an actively linked list, please see [Google Scholar](http://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0001-7269-7773).
 
+<br />
+
 **Books**
 
 ---
