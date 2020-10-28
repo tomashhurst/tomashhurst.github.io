@@ -6,13 +6,17 @@ permalink: /publications/
 
 ---
 
-**Book - 'Mass cytometry: methods and protocols'**
+For an actively linked list, please see [Google Scholar](http://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0001-7269-7773).
+
+**Books**
+
+---
 
 [Mass Cytometry: Methods and Protocols](https://www.springer.com/gp/book/9781493994533). HM McGuire, TM Ashhurst. 2019. Springer New York.
 
 <br />
 
-**Publications - 2020**
+**Articles**
 
 ---
 
@@ -23,13 +27,6 @@ permalink: /publications/
 [IgG3+ B cells are associated with the development of multiple sclerosis](https://onlinelibrary.wiley.com/doi/abs/10.1002/cti2.1133). F Marsh‐Wakefield, T Ashhurst, S Trend, HM McGuire, P Juillard, A Zinger, ... Clinical & Translational Immunology 9 (5), e01133
 
 [Contribution of STAT1 to innate and adaptive immunity during type I interferon-mediated lethal virus infection](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008525&rev=1). SR Jung, TM Ashhurst, PK West, B Viengkhou, NJC King, IL Campbell, ... PLoS Pathogens 16 (4), e1008525
-
-<br />
-
-
-**Publications - 2019**
-
----
 
 [Zika virus encephalitis in immunocompetent mice is dominated by innate immune cells and does not require T or B cells](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5). E Hayashida, ZL Ling, TM Ashhurst, B Viengkhou, SR Jung, ... Journal of Neuroinflammation 16 (1), 1-15
 
@@ -42,7 +39,6 @@ permalink: /publications/
 [Analysis of the murine bone marrow hematopoietic system using mass and flow cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). TM Ashhurst, DA Cox, AL Smith, NJC King. Mass Cytometry, 159-192
 
 [Staining of phosphorylated signalling markers protocol for mass cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_10). D Shinko, TM Ashhurst, HM McGuire, KA Charles. Mass Cytometry, 139-146
-
 
 <br />
 
