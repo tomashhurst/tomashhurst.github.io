@@ -42,4 +42,4 @@ permalink: /publications/
 
 **Publications - 2014 to 2018**
 
-[...](http://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en)
+[Google Scholar](http://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en)
