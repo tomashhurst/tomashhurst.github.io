@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Thomas Myles Ashhurst, Ph.D.
+**Thomas Myles Ashhurst, Ph.D.**
 
 Immunologist, high-dimensional cytometry specialist, and internationally recognised leader in the application of high-dimensional cytometry technologies and analysis to the study of infectious disease and immunity.
 
