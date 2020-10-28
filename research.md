@@ -6,6 +6,8 @@ permalink: /research/
 
 ---
 
+***Mapping dynamic immunity across time, space, and disease***
+
 ![Research](https://wiki.centenary.org.au/download/attachments/151797099/Screen%20Shot%202020-10-28%20at%203.38.50%20pm.png?version=1&modificationDate=1603860014731&api=v2)
 
 <br />
@@ -14,7 +16,7 @@ permalink: /research/
 
 ---
 
-My research concerns developing and applying high-dimensional cytometry technologies and analysis tools to map dynamic immune responses over time, space, and disease.
+My research involves developing and applying high-dimensional cytometry technologies and analysis tools to map dynamic immune responses over time, space, and disease.
 
 **High-dimensional cytometry technologies**: high-dimensional [flow cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37), [spectral cytometry](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211), [mass cytometry/CyTOF](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12), Imaging Mass Cytometry (IMC). **Computational analysis approaches**: [Spectre](https://github.com/ImmuneDynamics/Spectre) analysis platform, time-series clustering using the [ChronoClust](https://www.sciencedirect.com/science/article/pii/S0950705119300796) algorithm, single cell segmentation and [spatial analysis of IMC data](https://wiki.centenary.org.au/x/nP5DCg). **Application to disease**: [immune-modulation](https://stm.sciencemag.org/content/6/219/219ra7.short), viral encephalitis ([West Nile virus](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246), [Zika virus](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5)), systemic viral infection ([Lymphocytic choriomeningitis virus, LCMV](https://jvi.asm.org/content/91/22/e01219-17.short)).
 
