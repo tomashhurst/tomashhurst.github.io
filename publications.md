@@ -8,11 +8,11 @@ permalink: /publications/
 
 ---
 
-**Mass cytometry: methods and protocols**
+**Book - 'Mass cytometry: methods and protocols'**
 
 [Mass Cytometry: Methods and Protocols](https://www.springer.com/gp/book/9781493994533). HM McGuire, TM Ashhurst. 2019. Springer New York.
 
-**2020**
+**Publications - 2020**
 
 [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). TM Ashhurst, F Marsh-Wakefield, GH Putri, AG Spiteri, D Shinko, ... bioRxiv
 
@@ -22,7 +22,7 @@ permalink: /publications/
 
 [Contribution of STAT1 to innate and adaptive immunity during type I interferon-mediated lethal virus infection](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008525&rev=1). SR Jung, TM Ashhurst, PK West, B Viengkhou, NJC King, IL Campbell, ... PLoS Pathogens 16 (4), e1008525
 
-**2019**
+**Publications - 2019**
 
 [Zika virus encephalitis in immunocompetent mice is dominated by innate immune cells and does not require T or B cells](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5). E Hayashida, ZL Ling, TM Ashhurst, B Viengkhou, SR Jung, ... Journal of Neuroinflammation 16 (1), 1-15
 
