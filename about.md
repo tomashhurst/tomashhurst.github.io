@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### Contact
+Viral immunopathologist, high-dimensional cytometry and analysis specialist at the Sydney Cytometry Core Research Facility at the University of Sydney. ISAC Marylou Ingram Scholar.
 
 Email: 
 [thomas.ashhurst@sydney.edu.au](mailto:thomas.ashhurst@sydney.edu.au)
