@@ -4,19 +4,28 @@ title: About
 permalink: /about/
 ---
 
-Viral immunopathologist, high-dimensional cytometry and analysis specialist at the Sydney Cytometry Core Research Facility at the University of Sydney. ISAC Marylou Ingram Scholar.
+Thomas Myles Ashhurst, Ph.D.
 
-Email: 
+Immunologist, high-dimensional cytometry specialist, and internationally recognised leader in the application of high-dimensional cytometry technologies and analysis to the study of infectious disease and immunity.
+
+Sydney Cytometry Facility, The University of Sydney
+
+ISAC Marylou Ingram Scholar.
+
+**Email**: 
 [thomas.ashhurst@sydney.edu.au](mailto:thomas.ashhurst@sydney.edu.au)
 
-Github: 
+**Github**: 
 [https://github.com/tomashhurst](https://github.com/tomashhurst)
 
-Twitter:
+**Twitter**:
 [https://twitter.com/TomAsh_1](https://twitter.com/TomAsh_1)
 
-ORCID:
+**ORCID**:
 [https://orcid.org/0000-0001-7269-7773](https://orcid.org/0000-0001-7269-7773)
 
-Google Scholar: 
+**Google Scholar**: 
 [http://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en](http://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en)
+
+**ISAC Scholar profile page**:
+[https://isac-net.org/page/ThomasAshhurstBio](https://isac-net.org/page/ThomasAshhurstBio)
