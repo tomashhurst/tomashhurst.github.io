@@ -8,6 +8,10 @@ permalink: /publications/
 
 ---
 
+**Mass cytometry: methods and protocols**
+
+[Mass Cytometry: Methods and Protocols](https://www.springer.com/gp/book/9781493994533). HM McGuire, TM Ashhurst. 2019. Springer New York.
+
 **2020**
 
 [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). TM Ashhurst, F Marsh-Wakefield, GH Putri, AG Spiteri, D Shinko, ... bioRxiv
@@ -18,3 +22,19 @@ permalink: /publications/
 
 [Contribution of STAT1 to innate and adaptive immunity during type I interferon-mediated lethal virus infection](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008525&rev=1). SR Jung, TM Ashhurst, PK West, B Viengkhou, NJC King, IL Campbell, ... PLoS Pathogens 16 (4), e1008525
 
+**2019**
+
+[Zika virus encephalitis in immunocompetent mice is dominated by innate immune cells and does not require T or B cells](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5). E Hayashida, ZL Ling, TM Ashhurst, B Viengkhou, SR Jung, ... Journal of Neuroinflammation 16 (1), 1-15
+
+[Dimensionality Reduction for Clustering and Cluster Tracking of Cytometry Data](https://link.springer.com/chapter/10.1007/978-3-030-30490-4_50). GH Putri, MN Read, I Koprinska, TM Ashhurst, NJC King. International Conference on Artificial Neural Networks, 624-640
+
+[ChronoClust: Density-based clustering and cluster tracking in high-dimensional time-series data](https://www.sciencedirect.com/science/article/pii/S0950705119300796). GH Putri, MN Read, I Koprinska, D Singh, U Röhm, TM Ashhurst, ... Knowledge-Based Systems 174, 9-26
+
+[Cyt‐Geist: Current and future challenges in cytometry: Reports of the CYTO 2018 conference workshops](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.23777). K Czechowska, J Lannigan, L Wang, J Arcidiacono, TM Ashhurst, ... Cytometry Part A 95 (6), 598-644
+
+[Analysis of the murine bone marrow hematopoietic system using mass and flow cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). TM Ashhurst, DA Cox, AL Smith, NJC King. Mass Cytometry, 159-192
+
+[Staining of phosphorylated signalling markers protocol for mass cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_10). D Shinko, TM Ashhurst, HM McGuire, KA Charles. Mass Cytometry, 139-146
+
+**2014 - 2018**
+[...[(http://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en)
