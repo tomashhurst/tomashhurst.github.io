@@ -27,6 +27,9 @@ B.Sc. (hons) in Science. The University of Sydney, 2011.
 **Twitter**:
 [https://twitter.com/TomAsh_1](https://twitter.com/TomAsh_1)
 
+**Research Gate**
+[https://www.researchgate.net/profile/Thomas_Ashhurst](https://www.researchgate.net/profile/Thomas_Ashhurst)
+
 **ORCID**:
 [https://orcid.org/0000-0001-7269-7773](https://orcid.org/0000-0001-7269-7773)
 
