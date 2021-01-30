@@ -11,7 +11,8 @@ Oz Single Cell 2020 - Computational biology:
 
 ACS and ASI 'High-Dimensional Analysis Roadshow 2020: 
 - [ASI Newsletter report](https://www.immunology.org.au/files/Newsletter_pdfs/ASI017_Dec_2020.pdf#page=35) (page 35)
-- [Recordings for ASI/ACS members](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/)
+- [Recording of the 'Clustering and Dimensionality Reduction' talk](https://youtu.be/MSIDmYhqe5g)
+- [Recordings for all talks](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/) (available to ASI/ACS members)
 - [ASI 'Systems Immunologty' special interest group page](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/)
 
 Fluidigm Webinar 2020: 
