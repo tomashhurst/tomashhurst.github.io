@@ -18,10 +18,10 @@ Recorded talks and seminars can be found on [this page](https://tomashhurst.gith
 - [Mass cytometry: methods and protocols, chapter 12](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). Analysis of the Murine Bone Marrow Hematopoietic System Using Mass and Flow Cytometry.
 
 #### Spectre R package ####
-A computational toolkit in R for the integration, exploration, and analysis of high-dimensional single-cell cytometry data.
+*A computational toolkit in R for the integration, exploration, and analysis of high-dimensional single-cell cytometry data.*
 - [Github page](https://wiki.centenary.org.au/display/SPECTRE)
 - [Protocols page](https://wiki.centenary.org.au/display/SPECTRE)
 
 #### Sydney Cytometry 'extranet' ####
-A Sydney Cytometry internal website with a variety of computational and spatial analysis protocols. 
-- [Extranet](https://sydneycytometry.org.au/wiki-launch). *Requires access request approval*.
+*A Sydney Cytometry internal website with a variety of computational and spatial analysis protocols.*
+- [Extranet](https://sydneycytometry.org.au/wiki-launch). Requires access request approval.
