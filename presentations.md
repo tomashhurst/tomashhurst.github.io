@@ -4,8 +4,6 @@ title: Recorded Presentations
 permalink: /presentations/
 ---
 
-**Recorded presentations**
-
 ---
 
 Oz Single Cell 2020: [Computational biology](https://youtu.be/poEDERGXrQw?t=3154).
