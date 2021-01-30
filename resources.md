@@ -8,6 +8,8 @@ permalink: /resources/
 
 Recorded talks and seminars can be found on [this page](https://tomashhurst.github.io/presentations/).
 
+<br />
+
 #### Laboratory resources ####
 
 [Panel design guidelines](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37): *guidelines for designing high-dimensional flow cytometry panels.*
