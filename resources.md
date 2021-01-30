@@ -10,16 +10,26 @@ Recorded talks and seminars can be found on [this page](https://tomashhurst.gith
 
 <br />
 
+#### Panel design resources ####
+
+Panel design guidelines for high-dimensional flow panels
+- [Current Protocols in Immunology, Unit 5.4](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract): Basic panel design.
+- [Current Protocols in Immunology, Unit 5.8](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37): High-dimensional panel design
+
+<br />
+
 #### Laboratory resources ####
 
-[Panel design guidelines](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37): *guidelines for designing high-dimensional flow cytometry panels.*
-
-[Bone marrow immune cell analysis](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12): *protocols and guidelines for analysing murine bone marrow cells by mass or flow cytometry*
+Analysis of the Murine Bone Marrow Hematopoietic System Using Mass and Flow Cytometry
+- [Mass cytometry: methods and protocols, chapter 12](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12).
 
 <br />
 
 #### Analysis resources ####
 
-[Spectre Home Page](https://wiki.centenary.org.au/display/SPECTRE): *The home page for the Spectre R package - a computational toolkit in R for the integration, exploration, and analysis of high-dimensional single-cell cytometry data.*
+Spectre: a computational toolkit in R for the integration, exploration, and analysis of high-dimensional single-cell cytometry data.
+- [Github page](https://wiki.centenary.org.au/display/SPECTRE)
+- [Protocols page](https://wiki.centenary.org.au/display/SPECTRE)
 
-[Sydney Cytometry Extranet](https://sydneycytometry.org.au/wiki-launch): *A Sydney Cytometry internal website with a variety of cytometry and analysis protocols.*
+Computational and spatial analysis protocols
+- [Sydney Cytometry Extranet](https://sydneycytometry.org.au/wiki-launch). *A Sydney Cytometry internal website with a variety of cytometry and analysis protocols.*
