@@ -11,16 +11,6 @@ Online publication lists can be found on [Google Scholar](http://scholar.google.
 <br />
 
 
-**Recorded presentations**
-
----
-
-[Oz Single Cell 2020](https://youtu.be/poEDERGXrQw?t=3154). Computational biology.
-
-[Fluidigm Webinar](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics). High-dimensional cytometry and imaging technologyes.
-
-<br />
-
 **Books**
 
 ---
