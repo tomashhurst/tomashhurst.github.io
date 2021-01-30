@@ -1,12 +1,23 @@
 ---
 layout: page
-title: Publications
+title: Publications and presentations
 permalink: /publications/
 ---
 
 ---
 
 Online lists can be found on [Google Scholar](http://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0001-7269-7773), or [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date).
+
+<br />
+
+
+**Recorded presentations**
+
+---
+
+[Oz Single Cell 2020](https://youtu.be/poEDERGXrQw?t=3154). Computational biology.
+
+[Fluidigm Webinar](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics). High-dimensional cytometry and imaging technologyes.
 
 <br />
 
