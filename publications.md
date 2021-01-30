@@ -56,4 +56,4 @@ Online lists can be found on [Google Scholar](http://scholar.google.com.au/citat
 
 ---
 
-[Google Scholar](http://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0001-7269-7773), or [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date).
+See: [Google Scholar](http://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0001-7269-7773), or [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date).
