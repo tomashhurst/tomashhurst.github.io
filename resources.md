@@ -6,7 +6,7 @@ permalink: /resources/
 
 ---
 
-Recorded talks and seminars can be found on [this page](https://tomashhurst.github.io/presentations/).
+*Recorded talks and seminars can be found on [this page](https://tomashhurst.github.io/presentations/).*
 
 <br />
 
