@@ -7,4 +7,5 @@ title: Oz Single Cell webinar series 2020: computational biology - deeper insigh
 
 ---
 
-[Recording on YouTube](https://youtu.be/poEDERGXrQw?t=3151)
+Talk recording:
+- [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre.](https://youtu.be/poEDERGXrQw?t=3151)
