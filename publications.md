@@ -23,6 +23,8 @@ Online publication lists can be found on [Google Scholar](http://scholar.google.
 
 ---
 
+[Using single-cell cytometry to illustrate integrated multi-perspective evaluation of clustering algorithms using Pareto fronts](https://doi.org/10.1093/bioinformatics/btab038). 2021. GH Putri, I Koprinska, TM Ashhurst, NJC King, MN Read. Bioinformatics
+
 [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). 2020. TM Ashhurst*, F Marsh-Wakefield*, GH Putri*, AG Spiteri, D Shinko, ... bioRxiv
 
 [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold*, TM Ashhurst*, AL Smith, NJC King. Cytometry Part A
