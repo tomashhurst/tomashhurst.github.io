@@ -23,6 +23,8 @@ Online publication lists can be found on [Google Scholar](http://scholar.google.
 
 ---
 
+[Integrated immune dynamics define correlates of COVID-19 severity and antibody responses](https://doi.org/10.1016/j.xcrm.2021.100208). 2021. M Koutsakos, LC Rowntree, L Hensen, ... TM Ashhurst, ... K Kedzierska. Cell Reports Medicine. 
+
 [Using single-cell cytometry to illustrate integrated multi-perspective evaluation of clustering algorithms using Pareto fronts](https://doi.org/10.1093/bioinformatics/btab038). 2021. GH Putri, I Koprinska, TM Ashhurst, NJC King, MN Read. Bioinformatics
 
 [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). 2020. TM Ashhurst*, F Marsh-Wakefield*, GH Putri*, AG Spiteri, D Shinko, ... bioRxiv
