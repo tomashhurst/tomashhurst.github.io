@@ -15,7 +15,7 @@ Online publication lists can be found on [Google Scholar](http://scholar.google.
 
 ---
 
-[Mass Cytometry: Methods and Protocols](https://link.springer.com/book/10.1007/978-1-4939-9454-0). HM McGuire, TM Ashhurst. 2019. Springer New York.
+[Mass Cytometry: Methods and Protocols](https://link.springer.com/book/10.1007/978-1-4939-9454-0). HM McGuire, TM Ashhurst (eds). 2019. Springer New York.
 
 <br />
 
