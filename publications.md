@@ -53,7 +53,7 @@ Online publication lists can be found on [Google Scholar](http://scholar.google.
 
 [Varicella zoster virus productively infects human natural killer cells and manipulates phenotype](https://journals.plos.org/plospathogens/article?rev=1&id=10.1371/journal.ppat.1006999). 2018. TM Campbell, BP McSharry, M Steain, TM Ashhurst, B Slobedman, ... PLoS pathogens 14 (4), e1006999
 
-[IRF9 Prevents CD8+ T cell exhaustion in an extrinsic manner during acute Lymphocytic choriomeningitis virus infection](https://jvi.asm.org/content/91/22/e01219-17.short). 2018. M Huber, T Suprunenko, T Ashhurst, F Marbach, H Raifer, S Wolff, ... Journal of Virology 91 (22)
+[IRF9 Prevents CD8+ T cell exhaustion in an extrinsic manner during acute Lymphocytic choriomeningitis virus infection](https://jvi.asm.org/content/91/22/e01219-17.short). 2017. M Huber, T Suprunenko, T Ashhurst, F Marbach, H Raifer, S Wolff, ... Journal of Virology 91 (22)
 
 [High‐Dimensional Fluorescence Cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). 2017. TM Ashhurst, AL Smith, NJC King. Current Protocols in Immunology 119 (1), 5.8. 1-5.8. 38
 
