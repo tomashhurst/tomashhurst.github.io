@@ -19,7 +19,7 @@ Online publication lists can be found on [Google Scholar](http://scholar.google.
 
 <br />
 
-**Publications - 2017 to 2021**
+**Publications**
 
 ---
 
@@ -57,10 +57,20 @@ Online publication lists can be found on [Google Scholar](http://scholar.google.
 
 [High‐Dimensional Fluorescence Cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). 2017. TM Ashhurst, AL Smith, NJC King. Current Protocols in Immunology 119 (1), 5.8. 1-5.8. 38
 
+[Defective inflammatory monocyte development in IRF8-deficient mice abrogates migration to the West Nile virus-infected brain](https://www.karger.com/Article/Abstract/365972). 2015. RL Terry, C Deffrasnes, DR Getts, C Minten, C Van Vreden, TM Ashhurst, ... Journal of innate immunity 7 (1), 102-112
+
+[The plasticity of inflammatory monocyte responses to the inflamed central nervous system](https://www.sciencedirect.com/science/article/pii/S0008874914001117). 2014. TM Ashhurst, C van Vreden, P Niewold, NJC King. Cellular immunology 291 (1-2), 49-57
+
+[Therapeutic inflammatory monocyte modulation using immune-modifying microparticles](https://stm.sciencemag.org/content/6/219/219ra7.short). 2014. DR Getts, RL Terry, MT Getts, C Deffrasnes, M Müller, C van Vreden, ... Science translational medicine 6 (219), 219ra7-219ra7
+
+[Antiviral macrophage responses in flavivirus encephalitis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3928696/). 2013. TM Ashhurst, C Van Vreden, L Munoz-Erazo, P Niewold, K Watabe, ... The Indian journal of medical research 138 (5), 632
+
+[Targeted blockade in lethal West Nile virus encephalitis indicates a crucial role for very late antigen (VLA)-4-dependent recruitment of nitric oxide-producing macrophages](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246). 2012. DR Getts, RL Terry, MT Getts, M Müller, S Rana, C Deffrasnes, ... Journal of Neuroinflammation 9 (1), 246
+
 <br />
 
-**Publications - 2014 to 2016**
+**Other**
 
----
+[High-dimensional single cell mass cytometry (CyTOF) comes to Australia with the establishment of the Ramaciotti Facility for Human Systems Biology](https://www.immunology.org.au/files/Newsletter_pdfs/ASI_NL_March_2015.pdf). 2015. T Ashhurst, N King, A Smith, BF de St Groth. ASI Newsletter.
 
-See: [Google Scholar](http://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0001-7269-7773), or [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date).
+<br />
