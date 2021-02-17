@@ -40,7 +40,7 @@ Key papers:
 
 **Application to disease**: 
 
-We apply our high-dimensional technologies and analysis approaches to the study of a number of diseases, including [Immune profiling in COVID-19](https://doi.org/10.1016/j.xcrm.2021.100208), therapeutic [immune-modulation of inflammatory disease](https://stm.sciencemag.org/content/6/219/219ra7.short), viral encephalitis ([West Nile virus](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246), [Zika virus](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5)), systemic viral infection ([Lymphocytic choriomeningitis virus, LCMV](https://jvi.asm.org/content/91/22/e01219-17.short)).
+We apply our high-dimensional technologies and analysis approaches to the study of a number of diseases, including [immune profiling in COVID-19](https://doi.org/10.1016/j.xcrm.2021.100208), therapeutic [immune-modulation of inflammatory disease](https://stm.sciencemag.org/content/6/219/219ra7.short), viral encephalitis ([West Nile virus](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246), [Zika virus](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5)), systemic viral infection ([Lymphocytic choriomeningitis virus, LCMV](https://jvi.asm.org/content/91/22/e01219-17.short)).
 
 Key papers:
 
