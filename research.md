@@ -20,7 +20,7 @@ My research involves developing and applying high-dimensional cytometry technolo
 
 **High-dimensional cytometry technologies**: 
 
-A key focus of ours is the development and implimentation of high-dimensional cytometry technologies and assays, including high-dimensional [flow cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37), [spectral cytometry](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211), [mass cytometry/CyTOF](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12), and Imaging Mass Cytometry (IMC). 
+A key focus of ours is the development and implimentation of high-dimensional cytometry technologies and assays, including high-dimensional [flow cytometry](https://sydneycytometry.org.au/flowcytometry), [spectral cytometry](https://sydneycytometry.org.au/flowcytometry), [mass cytometry/CyTOF](https://sydneycytometry.org.au/masscytometry/cytof), and [Imaging Mass Cytometry](https://sydneycytometry.org.au/masscytometry/imc) (IMC). 
 
 *Key papers: flow & spectral cytometry*
 - [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold*, TM Ashhurst*, AL Smith, NJC King. Cytometry Part A
@@ -30,6 +30,9 @@ A key focus of ours is the development and implimentation of high-dimensional cy
 - [Mass Cytometry: Methods and Protocols](https://link.springer.com/book/10.1007/978-1-4939-9454-0). HM McGuire, TM Ashhurst (eds). 2019. Springer New York.
 - [Analysis of the murine bone marrow hematopoietic system using mass and flow cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). 2019. TM Ashhurst, DA Cox, AL Smith, NJC King. Mass Cytometry, 159-192
 - [Staining of phosphorylated signalling markers protocol for mass cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_10). 2019. D Shinko, TM Ashhurst, HM McGuire, KA Charles. Mass Cytometry, 139-146
+
+*Imaging mass cytometry*
+- IMC analysis using [SpectreMAP](https://wiki.centenary.org.au/x/nP5DCg)
 
 <br />
 
