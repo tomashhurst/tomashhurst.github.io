@@ -58,7 +58,7 @@ We apply our high-dimensional technologies and analysis approaches to the study 
 
 *Viral disease*:
 
--[Contribution of STAT1 to innate and adaptive immunity during type I interferon-mediated lethal virus infection](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008525&rev=1). 2020. SR Jung, TM Ashhurst, PK West, B Viengkhou, NJC King, IL Campbell, ... PLoS Pathogens 16 (4), e1008525
+- [Contribution of STAT1 to innate and adaptive immunity during type I interferon-mediated lethal virus infection](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008525&rev=1). 2020. SR Jung, TM Ashhurst, PK West, B Viengkhou, NJC King, IL Campbell, ... PLoS Pathogens 16 (4), e1008525
 - [Varicella zoster virus productively infects human natural killer cells and manipulates phenotype](https://journals.plos.org/plospathogens/article?rev=1&id=10.1371/journal.ppat.1006999). 2018. TM Campbell, BP McSharry, M Steain, TM Ashhurst, B Slobedman, ... PLoS pathogens 14 (4), e1006999
 - [IRF9 Prevents CD8+ T cell exhaustion in an extrinsic manner during acute Lymphocytic choriomeningitis virus infection](https://jvi.asm.org/content/91/22/e01219-17.short). 2017. M Huber, T Suprunenko, T Ashhurst, F Marbach, H Raifer, S Wolff, ... Journal of Virology 91 (22)
 
