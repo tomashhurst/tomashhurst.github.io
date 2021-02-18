@@ -16,6 +16,8 @@ permalink: /research/
 
 My research involves developing and applying high-dimensional cytometry technologies and analysis tools to map dynamic immune responses over time, space, and disease.
 
+<br />
+
 **High-dimensional cytometry technologies**: 
 
 A key focus of ours is the development and implimentation of high-dimensional cytometry technologies and assays, including high-dimensional [flow cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37), [spectral cytometry](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211), [mass cytometry/CyTOF](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12), and Imaging Mass Cytometry (IMC). 
@@ -28,6 +30,8 @@ A key focus of ours is the development and implimentation of high-dimensional cy
 - [Analysis of the murine bone marrow hematopoietic system using mass and flow cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). 2019. TM Ashhurst, DA Cox, AL Smith, NJC King. Mass Cytometry, 159-192
 - [Staining of phosphorylated signalling markers protocol for mass cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_10). 2019. D Shinko, TM Ashhurst, HM McGuire, KA Charles. Mass Cytometry, 139-146
 
+<br />
+
 **Computational analysis approaches**: 
 
 In order to sufficiently analyse the high-dimensional datasets, we have developed a number of computational analysis approaches, including the [Spectre](https://github.com/ImmuneDynamics/Spectre) analysis platform in R, time-series clustering using the [ChronoClust](https://www.sciencedirect.com/science/article/pii/S0950705119300796) algorithm, and [single cell segmentation and spatial analysis of IMC data](https://wiki.centenary.org.au/x/nP5DCg). 
@@ -37,6 +41,7 @@ In order to sufficiently analyse the high-dimensional datasets, we have develope
 - [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). 2020. TM Ashhurst*, F Marsh-Wakefield*, GH Putri*, AG Spiteri, D Shinko, ... bioRxiv
 - [ChronoClust: Density-based clustering and cluster tracking in high-dimensional time-series data](https://www.sciencedirect.com/science/article/pii/S0950705119300796). 2019. GH Putri, MN Read, I Koprinska, D Singh, U Röhm, TM Ashhurst, ... Knowledge-Based Systems 174, 9-26
 
+<br />
 
 **Application to disease**: 
 
