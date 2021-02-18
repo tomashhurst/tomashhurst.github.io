@@ -43,6 +43,7 @@ In order to sufficiently analyse the high-dimensional datasets, we have develope
 
 - [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). 2020. TM Ashhurst*, F Marsh-Wakefield*, GH Putri*, AG Spiteri, D Shinko, ... bioRxiv
 - [ChronoClust: Density-based clustering and cluster tracking in high-dimensional time-series data](https://www.sciencedirect.com/science/article/pii/S0950705119300796). 2019. GH Putri, MN Read, I Koprinska, D Singh, U Röhm, TM Ashhurst, ... Knowledge-Based Systems 174, 9-26
+- Analysis protocols and resources can be found on the [Spectre Home Page](https://github.com/ImmuneDynamics/Spectre)
 
 <br />
 
