@@ -23,7 +23,7 @@ My research involves developing and applying high-dimensional cytometry technolo
 A key focus of ours is the development and implimentation of high-dimensional cytometry technologies and assays, including high-dimensional [flow cytometry](https://sydneycytometry.org.au/flowcytometry), [spectral cytometry](https://sydneycytometry.org.au/flowcytometry), [mass cytometry/CyTOF](https://sydneycytometry.org.au/masscytometry/cytof), and [Imaging Mass Cytometry](https://sydneycytometry.org.au/masscytometry/imc) (IMC). 
 
 *Flow and spectral cytometry*
-- [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold*, TM Ashhurst*, AL Smith, NJC King. Cytometry Part A
+- [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold, TM Ashhurst, AL Smith, NJC King. Cytometry Part A
 - [High‐Dimensional Fluorescence Cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). 2017. TM Ashhurst, AL Smith, NJC King. Current Protocols in Immunology 119 (1), 5.8. 1-5.8. 38
 
 *Mass cytometry*
