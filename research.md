@@ -47,27 +47,29 @@ In order to sufficiently analyse the high-dimensional datasets, we have develope
 
 We apply our high-dimensional technologies and analysis approaches to the study of a number of diseases, including [immune profiling in COVID-19](https://doi.org/10.1016/j.xcrm.2021.100208), therapeutic [immune-modulation of inflammatory disease](https://stm.sciencemag.org/content/6/219/219ra7.short), viral encephalitis ([West Nile virus](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246), [Zika virus](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5)), systemic viral infection ([Lymphocytic choriomeningitis virus, LCMV](https://jvi.asm.org/content/91/22/e01219-17.short)).
 
-*Key papers: COVID-19*
+*COVID-19*
 
 - [Integrated immune dynamics define correlates of COVID-19 severity and antibody responses](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7). 2021. M Koutsakos, LC Rowntree, L Hensen, ... TM Ashhurst, ... K Kedzierska. Cell Reports Medicine. 
 
-*Key papers: Immune modulation*
+*Immune modulation*
 
 - [Therapeutic inflammatory monocyte modulation using immune-modifying microparticles](https://stm.sciencemag.org/content/6/219/219ra7.short). 2014. DR Getts, RL Terry, MT Getts, C Deffrasnes, M Müller, C van Vreden, ... Science translational medicine 6 (219), 219ra7-219ra7
 
-*Key papers: Viral encephalitis*
+*Viral encephalitis*
 
 - [Zika virus encephalitis in immunocompetent mice is dominated by innate immune cells and does not require T or B cells](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5). 2019. E Hayashida, ZL Ling, TM Ashhurst, B Viengkhou, SR Jung, ... Journal of Neuroinflammation 16 (1), 1-15
 - [Defective inflammatory monocyte development in IRF8-deficient mice abrogates migration to the West Nile virus-infected brain](https://www.karger.com/Article/Abstract/365972). 2015. RL Terry, C Deffrasnes, DR Getts, C Minten, C Van Vreden, TM Ashhurst, ... Journal of innate immunity 7 (1), 102-112
+- [The plasticity of inflammatory monocyte responses to the inflamed central nervous system](https://www.sciencedirect.com/science/article/pii/S0008874914001117). 2014. TM Ashhurst, C van Vreden, P Niewold, NJC King. Cellular immunology 291 (1-2), 49-57
+- [Antiviral macrophage responses in flavivirus encephalitis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3928696/). 2013. TM Ashhurst, C Van Vreden, L Munoz-Erazo, P Niewold, K Watabe, ... The Indian journal of medical research 138 (5), 632
 - [Targeted blockade in lethal West Nile virus encephalitis indicates a crucial role for very late antigen (VLA)-4-dependent recruitment of nitric oxide-producing macrophages](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246). 2012. DR Getts, RL Terry, MT Getts, M Müller, S Rana, C Deffrasnes, ... Journal of Neuroinflammation 9 (1), 246
 
-*Key papers: Viral disease*
+*Viral disease*
 
 - [Contribution of STAT1 to innate and adaptive immunity during type I interferon-mediated lethal virus infection](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008525&rev=1). 2020. SR Jung, TM Ashhurst, PK West, B Viengkhou, NJC King, IL Campbell, ... PLoS Pathogens 16 (4), e1008525
 - [Varicella zoster virus productively infects human natural killer cells and manipulates phenotype](https://journals.plos.org/plospathogens/article?rev=1&id=10.1371/journal.ppat.1006999). 2018. TM Campbell, BP McSharry, M Steain, TM Ashhurst, B Slobedman, ... PLoS pathogens 14 (4), e1006999
 - [IRF9 Prevents CD8+ T cell exhaustion in an extrinsic manner during acute Lymphocytic choriomeningitis virus infection](https://jvi.asm.org/content/91/22/e01219-17.short). 2017. M Huber, T Suprunenko, T Ashhurst, F Marbach, H Raifer, S Wolff, ... Journal of Virology 91 (22)
 
-*Key papers: Other immunology*
+*Other immunology*
 
 - [Intrapulmonary vaccination with delta-inulin adjuvant stimulates non-polarised chemotactic signalling and diverse cellular interaction](https://doi.org/10.1038/s41385-021-00379-6). 2021. KC Ferrell, EL Stewart, C Counoupas, TM Ashhurst, WJ Britton, N Petrovsky, JA Triccas. Mucosal Immunology.
 - [IgG3+ B cells are associated with the development of multiple sclerosis](https://onlinelibrary.wiley.com/doi/abs/10.1002/cti2.1133). 2020. F Marsh‐Wakefield, T Ashhurst, S Trend, HM McGuire, P Juillard, A Zinger, ... Clinical & Translational Immunology 9 (5), e0113
