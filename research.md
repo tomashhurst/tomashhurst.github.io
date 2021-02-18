@@ -32,7 +32,8 @@ A key focus of ours is the development and implimentation of high-dimensional cy
 - [Staining of phosphorylated signalling markers protocol for mass cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_10). 2019. D Shinko, TM Ashhurst, HM McGuire, KA Charles. Mass Cytometry, 139-146
 
 *Imaging mass cytometry*
-- IMC analysis using [SpectreMAP](https://wiki.centenary.org.au/x/nP5DCg)
+- Our IMC protocols and analysis approaches can be found on the [Sydney Cytometry extranet](https://sydneycytometry.org.au/wiki-launch) or the [SpectreMAP page](https://wiki.centenary.org.au/x/nP5DCg)
+- Details of our IMC work can be seen in this [Oz Single Cell presentation on computational biology (2020)](https://youtu.be/poEDERGXrQw?t=3151) or [Fluidigm webinar (2020)](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics)
 
 <br />
 
