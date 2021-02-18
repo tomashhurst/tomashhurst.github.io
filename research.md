@@ -57,9 +57,9 @@ We apply our high-dimensional technologies and analysis approaches to the study 
 
 *Viral encephalitis*:
 
-- [Targeted blockade in lethal West Nile virus encephalitis indicates a crucial role for very late antigen (VLA)-4-dependent recruitment of nitric oxide-producing macrophages](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246). 2012. DR Getts, RL Terry, MT Getts, M Müller, S Rana, C Deffrasnes, ... Journal of Neuroinflammation 9 (1), 246
 - [Zika virus encephalitis in immunocompetent mice is dominated by innate immune cells and does not require T or B cells](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5). 2019. E Hayashida, ZL Ling, TM Ashhurst, B Viengkhou, SR Jung, ... Journal of Neuroinflammation 16 (1), 1-15
 - [Defective inflammatory monocyte development in IRF8-deficient mice abrogates migration to the West Nile virus-infected brain](https://www.karger.com/Article/Abstract/365972). 2015. RL Terry, C Deffrasnes, DR Getts, C Minten, C Van Vreden, TM Ashhurst, ... Journal of innate immunity 7 (1), 102-112
+- [Targeted blockade in lethal West Nile virus encephalitis indicates a crucial role for very late antigen (VLA)-4-dependent recruitment of nitric oxide-producing macrophages](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246). 2012. DR Getts, RL Terry, MT Getts, M Müller, S Rana, C Deffrasnes, ... Journal of Neuroinflammation 9 (1), 246
 
 *Viral disease*:
 
@@ -67,7 +67,7 @@ We apply our high-dimensional technologies and analysis approaches to the study 
 - [Varicella zoster virus productively infects human natural killer cells and manipulates phenotype](https://journals.plos.org/plospathogens/article?rev=1&id=10.1371/journal.ppat.1006999). 2018. TM Campbell, BP McSharry, M Steain, TM Ashhurst, B Slobedman, ... PLoS pathogens 14 (4), e1006999
 - [IRF9 Prevents CD8+ T cell exhaustion in an extrinsic manner during acute Lymphocytic choriomeningitis virus infection](https://jvi.asm.org/content/91/22/e01219-17.short). 2017. M Huber, T Suprunenko, T Ashhurst, F Marbach, H Raifer, S Wolff, ... Journal of Virology 91 (22)
 
-*Immunology*:
+*Other immunology*:
 
 - [Intrapulmonary vaccination with delta-inulin adjuvant stimulates non-polarised chemotactic signalling and diverse cellular interaction](https://doi.org/10.1038/s41385-021-00379-6). 2021. KC Ferrell, EL Stewart, C Counoupas, TM Ashhurst, WJ Britton, N Petrovsky, JA Triccas. Mucosal Immunology.
 - [IgG3+ B cells are associated with the development of multiple sclerosis](https://onlinelibrary.wiley.com/doi/abs/10.1002/cti2.1133). 2020. F Marsh‐Wakefield, T Ashhurst, S Trend, HM McGuire, P Juillard, A Zinger, ... Clinical & Translational Immunology 9 (5), e0113
