@@ -13,19 +13,25 @@ permalink: /resources/
 - Presentation: [Mapping Immunity Across Time, Space and Disease State (Fluidigm webinar, 2020)](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics). Featured on the Fluidigm '[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)' page.
 - Presentation: [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://youtu.be/poEDERGXrQw?t=3151). Spectre presentation (Oz Single Cell 2020 - Computational biology).
 
-**Panel design**
+## Technologies ##
+
+**Flow and spectral cytometry**
 
 - Paper: [Basic panel design](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract). Current Protocols in Immunology, Unit 5.4
 - Paper: [High-dimensional panel design](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). Current Protocols in Immunology, Unit 5.8
+- Tutorial: [The impact of adjusting PMT voltages on spillover and compensation](https://sydneycytometry.org.au/seminars-and-tutorials).
+- Paper: [Voltage setting](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). Current Protocols in Immunology, Unit 5.8
 
-**Staining protocols**
+**Mass cytometry (CyTOF)**
 
+- Book: [Mass cytometry: methods and protocols](https://link.springer.com/book/10.1007/978-1-4939-9454-0). HM McGuire, TM Ashhurst (eds). 2019. Springer New York. A collection of mass cytometry protocols covering facility setup, panel design, reagent preparation, sample preparation, data analysis, and a range of specific applications. 
 - Paper: [Mass and flow cytometry staining protocol for mouse bone marrow](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). Mass cytometry: methods and protocols, chapter 12. Analysis of the Murine Bone Marrow Hematopoietic System Using Mass and Flow Cytometry.
 
-**Technology resources**
+**Imaging Mass Cytometry (IMC)**
 
-- Tutorial: [The impact of adjusting PMT voltages on spillover and compensation](https://sydneycytometry.org.au/seminars-and-tutorials).
-- Paper: [High-dimensional panels](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). Current Protocols in Immunology, Unit 5.8
+- Webpage: [Sydney Cytometry Extranet](https://sydneycytometry.org.au/wiki-launch). A Sydney Cytometry internal website with a variety of IMC protocols. Requires access request approval.
+
+## Analysis ##
 
 **Spectre R package**
 
