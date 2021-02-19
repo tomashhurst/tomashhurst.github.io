@@ -11,7 +11,7 @@ permalink: /resources/
 **Technology and research application overview**
 
 - Presentation: [Mapping Immunity Across Time, Space and Disease State (Fluidigm webinar, 2020)](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics). Featured on the Fluidigm '[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)' page.
-- Presentation: [Spectre presentation (Oz Single Cell 2020 - Computational biology)](https://youtu.be/poEDERGXrQw?t=3151). Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre.
+- Presentation: [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://youtu.be/poEDERGXrQw?t=3151). Spectre presentation (Oz Single Cell 2020 - Computational biology).
 
 **Panel design**
 
@@ -24,7 +24,7 @@ permalink: /resources/
 
 **Technology resources**
 
-- Webinar: [The impact of adjusting PMT voltages on spillover and compensation](https://sydneycytometry.org.au/seminars-and-tutorials).
+- Tutorial: [The impact of adjusting PMT voltages on spillover and compensation](https://sydneycytometry.org.au/seminars-and-tutorials).
 - Paper: [High-dimensional panels](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). Current Protocols in Immunology, Unit 5.8
 
 **Spectre R package**
