@@ -6,7 +6,7 @@ permalink: /resources/
 
 ---
 
-![Antibodies](https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/Antibodies.png?raw=true)
+![Antibodies](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Antibodies.png)
 
 #### Panel design protocols ####
 - [Current Protocols in Immunology, Unit 5.4](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract): Basic panel design.
