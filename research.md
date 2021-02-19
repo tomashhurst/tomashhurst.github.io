@@ -16,6 +16,8 @@ My research involves developing and applying high-dimensional cytometry technolo
 
 ### High-dimensional cytometry technologies ###
 
+---
+
 ![HD](https://wiki.centenary.org.au/download/attachments/156532772/Lasers%20banner2.png?version=1&modificationDate=1582385433600&api=v2)
 
 A key focus of ours is the development and implimentation of high-dimensional cytometry technologies and assays, including high-dimensional [flow cytometry](https://sydneycytometry.org.au/flowcytometry), [spectral cytometry](https://sydneycytometry.org.au/flowcytometry), [mass cytometry/CyTOF](https://sydneycytometry.org.au/masscytometry/cytof), and [Imaging Mass Cytometry](https://sydneycytometry.org.au/masscytometry/imc) (IMC). Key papers:
@@ -37,6 +39,8 @@ A key focus of ours is the development and implimentation of high-dimensional cy
 
 ### Computational analysis approaches ###
 
+---
+
 ![Comp](https://wiki.centenary.org.au/download/attachments/146080606/Screen%20Shot%202020-10-22%20at%2012.25.13%20pm.png?version=1&modificationDate=1603369521998&api=v2)
 
 In order to sufficiently analyse the high-dimensional datasets, we have developed a number of computational analysis approaches, including the [Spectre](https://github.com/ImmuneDynamics/Spectre) analysis platform in R, time-series clustering using the [ChronoClust](https://www.sciencedirect.com/science/article/pii/S0950705119300796) algorithm, and [single cell segmentation and spatial analysis of IMC data](https://wiki.centenary.org.au/x/nP5DCg). Key papers:
@@ -48,6 +52,8 @@ In order to sufficiently analyse the high-dimensional datasets, we have develope
 <br />
 
 ### Application to disease ###
+
+---
 
 ![COVID](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Publication%202.png)
 
