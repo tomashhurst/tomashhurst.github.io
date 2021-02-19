@@ -6,8 +6,6 @@ permalink: /presentations/
 
 ---
 
-<br />
-
 ![Presentations](https://pbs.twimg.com/media/D9hd-5sXYAI8ErG?format=jpg&name=4096x4096)
 
 <br />
