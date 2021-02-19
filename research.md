@@ -10,7 +10,7 @@ permalink: /research/
 
 ---
 
-**Overview**
+**Research overview**
 
 My research involves developing and applying high-dimensional cytometry technologies and analysis tools to map dynamic immune responses over time, space, and disease. I apply these approaches to the study of immunology and infectious disease, including emerging pathogens such as [SARS-CoV-2/COVID-19](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7), [Zika virus encephalitis](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5), and [West Nile virus encephalitis](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246).
 
