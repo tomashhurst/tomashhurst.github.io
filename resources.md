@@ -21,6 +21,11 @@ permalink: /resources/
 
 - Paper: [Mass and flow cytometry staining protocol for mouse bone marrow](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). Mass cytometry: methods and protocols, chapter 12. Analysis of the Murine Bone Marrow Hematopoietic System Using Mass and Flow Cytometry.
 
+**Technology resources**
+
+- Webinar: [The impact of adjusting PMT voltages on spillover and compensation](https://sydneycytometry.org.au/seminars-and-tutorials).
+- Paper: [High-dimensional panels](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). Current Protocols in Immunology, Unit 5.8
+
 **Spectre R package**
 
 - Webpage: [Spectre Home Page](https://wiki.centenary.org.au/display/SPECTRE). A computational toolkit in R for the integration, exploration, and analysis of high-dimensional single-cell cytometry data.
