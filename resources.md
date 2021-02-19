@@ -6,7 +6,7 @@ permalink: /resources/
 
 ---
 
-![Presentations](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Presentations.jpeg)
+![Presentations](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/IMC.jpg)
 
 **Technology and research application overview**
 
