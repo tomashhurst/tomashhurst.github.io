@@ -49,11 +49,11 @@ We apply our high-dimensional technologies and analysis approaches to the study 
 
 *COVID-19*
 
-- [Integrated immune dynamics define correlates of COVID-19 severity and antibody responses](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7). 2021. M Koutsakos, LC Rowntree, L Hensen, ... TM Ashhurst, ... K Kedzierska. Cell Reports Medicine. 
+- [Integrated immune dynamics define correlates of COVID-19 severity and antibody responses](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7). 2021. M Koutsakos, LC Rowntree, L Hensen, ... TM Ashhurst, ... K Kedzierska. Cell Reports Medicine. *News items: [Doherty Institute News](https://www.doherty.edu.au/news-events/news/mapping-an-effective-immune-response-to-covid-19), [Medical Xpress](https://medicalxpress.com/news/2021-02-effective-immune-response-covid-.html), [Herald Sun](https://www.heraldsun.com.au/coronavirus/melbourne-experts-uncover-why-covid-affects-people-differently/news-story/ed5ffb9604c1b4db776503562e494f71), [Ticker](https://twitter.com/tickerNEWSau/status/1359991653243572224?s=20)*.
 
 *Immune modulation*
 
-- [Therapeutic inflammatory monocyte modulation using immune-modifying microparticles](https://stm.sciencemag.org/content/6/219/219ra7.short). 2014. DR Getts, RL Terry, MT Getts, C Deffrasnes, M Müller, C van Vreden, ... Science translational medicine 6 (219), 219ra7-219ra7
+- [Therapeutic inflammatory monocyte modulation using immune-modifying microparticles](https://stm.sciencemag.org/content/6/219/219ra7.short). 2014. DR Getts, RL Terry, MT Getts, C Deffrasnes, M Müller, C van Vreden, ... Science translational medicine 6 (219), 219ra7-219ra7. *News items: [ABC News](http://www.abc.net.au/science/articles/2014/01/16/3926376.htm), [The Guardian](http://www.theguardian.com/world/2014/jan/16/heart-attack-damage-can-be-reduced-with-a-simple-injection-say-experts)*.
 
 *Viral encephalitis*
 
