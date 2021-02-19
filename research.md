@@ -12,6 +12,8 @@ My research involves developing and applying high-dimensional cytometry technolo
 
 ![Research](https://wiki.centenary.org.au/download/attachments/151797099/Screen%20Shot%202020-10-28%20at%203.38.50%20pm.png?version=1&modificationDate=1603860014731&api=v2)
 
+---
+
 <br />
 
 **High-dimensional cytometry technologies**: 
