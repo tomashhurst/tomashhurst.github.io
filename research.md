@@ -16,7 +16,7 @@ My research involves developing and applying high-dimensional cytometry technolo
 
 ---
 
-![HD](https://wiki.centenary.org.au/download/attachments/156532772/Lasers%20banner2.png?version=1&modificationDate=1582385433600&api=v2)
+![HD](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Tech.png)
 
 A key focus of ours is the development and implimentation of high-dimensional cytometry technologies and assays, including high-dimensional [flow cytometry](https://sydneycytometry.org.au/flowcytometry), [spectral cytometry](https://sydneycytometry.org.au/flowcytometry), [mass cytometry/CyTOF](https://sydneycytometry.org.au/masscytometry/cytof), and [Imaging Mass Cytometry](https://sydneycytometry.org.au/masscytometry/imc) (IMC). Key papers:
 
