@@ -10,30 +10,30 @@ permalink: /resources/
 
 **Technology and research application overview**
 
-- [Mapping Immunity Across Time, Space and Disease State (Fluidigm webinar, 2020)](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics). Featured on the Fluidigm '[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)' page.
+- Presentation: [Mapping Immunity Across Time, Space and Disease State (Fluidigm webinar, 2020)](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics). Featured on the Fluidigm '[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)' page.
 
 **Panel design**
 
-- [Basic panel design](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract).Current Protocols in Immunology, Unit 5.4
-- [High-dimensional panel design](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37).Current Protocols in Immunology, Unit 5.8
+- Paper: [Basic panel design](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract).Current Protocols in Immunology, Unit 5.4
+- Paper: [High-dimensional panel design](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37).Current Protocols in Immunology, Unit 5.8
 
 **Staining protocols**
 
-- [Mass and flow cytometry staining protocol for mouse bone marrow](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). Mass cytometry: methods and protocols, chapter 12. Analysis of the Murine Bone Marrow Hematopoietic System Using Mass and Flow Cytometry.
+- Paper: [Mass and flow cytometry staining protocol for mouse bone marrow](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). Mass cytometry: methods and protocols, chapter 12. Analysis of the Murine Bone Marrow Hematopoietic System Using Mass and Flow Cytometry.
 
 **Computational analysis**
 
-- [Sydney Cytometry Extranet](https://sydneycytometry.org.au/wiki-launch). A Sydney Cytometry internal website with a variety of computational and spatial analysis protocols. Requires access request approval.
-- ['Clustering and Dimensionality Reduction' talk](https://youtu.be/MSIDmYhqe5g). One of the talks from the [ACS/ASI High-Dimensional Analysis Homeshow](https://tomashhurst.github.io/homeshow/).
+- Webpage: [Sydney Cytometry Extranet](https://sydneycytometry.org.au/wiki-launch). A Sydney Cytometry internal website with a variety of computational and spatial analysis protocols. Requires access request approval.
+- Presentation: ['Clustering and Dimensionality Reduction' talk](https://youtu.be/MSIDmYhqe5g). One of the talks from the [ACS/ASI High-Dimensional Analysis Homeshow](https://tomashhurst.github.io/homeshow/).
 
 **Spectre R package**
 
-- [Spectre Home Page](https://wiki.centenary.org.au/display/SPECTRE). A computational toolkit in R for the integration, exploration, and analysis of high-dimensional single-cell cytometry data.
-- [Spectre presentation (Oz Single Cell 2020 - Computational biology)](https://youtu.be/poEDERGXrQw?t=3151). Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre.
+- Webpage: [Spectre Home Page](https://wiki.centenary.org.au/display/SPECTRE). A computational toolkit in R for the integration, exploration, and analysis of high-dimensional single-cell cytometry data.
+- Presentation: [Spectre presentation (Oz Single Cell 2020 - Computational biology)](https://youtu.be/poEDERGXrQw?t=3151). Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre.
 
 **ACS and ASI 'High-Dimensional Analysis Roadshow 2020:** 
 
-- [ASI Newsletter report](https://www.immunology.org.au/files/Newsletter_pdfs/ASI017_Dec_2020.pdf#page=35) (page 35)
-- [Recording of the 'Clustering and Dimensionality Reduction' talk](https://youtu.be/MSIDmYhqe5g)
-- [Recordings for all talks](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/) (available to ASI/ACS members)
-- [ASI 'Systems Immunologty' special interest group page](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/)
+- Presentation: [Recording of the 'Clustering and Dimensionality Reduction' talk](https://youtu.be/MSIDmYhqe5g)
+- Presentation: [Recordings for all talks](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/) (available to ASI/ACS members)
+- Editorial: [ASI Newsletter report](https://www.immunology.org.au/files/Newsletter_pdfs/ASI017_Dec_2020.pdf#page=35) (page 35)
+- Webpage: [ASI 'Systems Immunologty' special interest group page](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/)
