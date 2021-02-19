@@ -6,7 +6,7 @@ permalink: /presentations/
 
 ---
 
-![Presentations](https://pbs.twimg.com/media/D9hd-5sXYAI8ErG?format=jpg&name=4096x4096)
+![Presentations](https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/Presentations.jpeg?raw=true)
 
 <br />
 
