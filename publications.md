@@ -15,11 +15,15 @@ permalink: /publications/
 
 #### Books #### 
 
+---
+
 [Mass Cytometry: Methods and Protocols](https://link.springer.com/book/10.1007/978-1-4939-9454-0). HM McGuire, TM Ashhurst (eds). 2019. Springer New York.
 
 <br />
 
 #### Publications #### 
+
+---
 
 Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, AJ Mitchell, SE Norton, TM Ashhurst, JKH Leman, JM Roberts, JE Harte, HM McGuire, RA Kemp. Immunology & Cell Biology, *accepted*.
 
@@ -72,6 +76,8 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 <br />
 
 #### Other #### 
+
+---
 
 [High-dimensional single cell mass cytometry (CyTOF) comes to Australia with the establishment of the Ramaciotti Facility for Human Systems Biology](https://www.immunology.org.au/files/Newsletter_pdfs/ASI_NL_March_2015.pdf). 2015. T Ashhurst, N King, A Smith, BF de St Groth. ASI Newsletter.
 
