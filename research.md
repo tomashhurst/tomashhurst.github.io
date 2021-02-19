@@ -8,6 +8,10 @@ permalink: /research/
 
 ![Research](https://wiki.centenary.org.au/download/attachments/151797099/Screen%20Shot%202020-10-28%20at%203.38.50%20pm.png?version=1&modificationDate=1603860014731&api=v2)
 
+<br />
+
+**Overview**: 
+
 My research involves developing and applying high-dimensional cytometry technologies and analysis tools to map dynamic immune responses over time, space, and disease. I apply these approaches to the study of immunology and infectious disease, including emerging pathogens such as [SARS-CoV-2/COVID-19](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7), [Zika virus encephalitis](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5), and [West Nile virus encephalitis](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246).
 
 <br />
