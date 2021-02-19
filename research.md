@@ -12,7 +12,7 @@ My research involves developing and applying high-dimensional cytometry technolo
 
 <br />
 
-### High-dimensional cytometry technologies ###
+### High-dimensional cytometry and imaging technologies ###
 
 ---
 
