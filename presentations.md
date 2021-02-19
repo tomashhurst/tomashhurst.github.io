@@ -20,4 +20,4 @@ permalink: /presentations/
 - [ASI 'Systems Immunologty' special interest group page](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/)
 
 #### Fluidigm Webinar 2020: #### 
-- [Mapping Immunity Across Time, Space and Disease State](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics).
+- [Mapping Immunity Across Time, Space and Disease State](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics). Featured on the Fluidigm '[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)' page.
