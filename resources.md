@@ -6,6 +6,10 @@ permalink: /resources/
 
 ---
 
+![Antibodies](https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/Antibodies.png?raw=true)
+
+<br />
+
 *Recorded talks and seminars can be found on [this page](https://tomashhurst.github.io/presentations/).*
 
 #### Panel design protocols ####
