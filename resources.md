@@ -37,7 +37,7 @@ permalink: /resources/
 - Webpage: [Sydney Cytometry Extranet](https://sydneycytometry.org.au/wiki-launch). A Sydney Cytometry internal website with a variety of computational and spatial analysis protocols. Requires access request approval.
 - Presentation: ['Clustering and Dimensionality Reduction' talk](https://youtu.be/MSIDmYhqe5g). One of the talks from the [ACS/ASI High-Dimensional Analysis Homeshow](https://tomashhurst.github.io/homeshow/).
 
-**ACS and ASI 'High-Dimensional Analysis Roadshow 2020:** 
+**ACS and ASI 'High-Dimensional Analysis Roadshow 2020** 
 
 - Presentation: [Recording of the 'Clustering and Dimensionality Reduction' talk](https://youtu.be/MSIDmYhqe5g)
 - Presentation: [Recordings for all talks](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/) (available to ASI/ACS members)
