@@ -10,10 +10,6 @@ permalink: /resources/
 
 <br />
 
-*Recorded talks and seminars can be found on [this page](https://tomashhurst.github.io/presentations/).*
-
-<br />
-
 #### Panel design protocols ####
 - [Current Protocols in Immunology, Unit 5.4](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract): Basic panel design.
 - [Current Protocols in Immunology, Unit 5.8](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37): High-dimensional panel design.
@@ -28,3 +24,5 @@ permalink: /resources/
 #### Spectre R package ####
 - [Spectre Home Page](https://wiki.centenary.org.au/display/SPECTRE). A computational toolkit in R for the integration, exploration, and analysis of high-dimensional single-cell cytometry data.
 - [Presentation, Oz Single Cell 2020](https://youtu.be/poEDERGXrQw?t=3148). Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre.
+
+*Recorded talks and seminars can be found on [this page](https://tomashhurst.github.io/presentations/).*
