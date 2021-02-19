@@ -10,7 +10,7 @@ permalink: /research/
 
 <br />
 
-**Overview**: 
+**Overview**
 
 My research involves developing and applying high-dimensional cytometry technologies and analysis tools to map dynamic immune responses over time, space, and disease. I apply these approaches to the study of immunology and infectious disease, including emerging pathogens such as [SARS-CoV-2/COVID-19](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7), [Zika virus encephalitis](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5), and [West Nile virus encephalitis](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246).
 
@@ -20,7 +20,7 @@ My research involves developing and applying high-dimensional cytometry technolo
 
 <br />
 
-**High-dimensional cytometry technologies**: 
+**High-dimensional cytometry technologies**
 
 A key focus of ours is the development and implimentation of high-dimensional cytometry technologies and assays, including high-dimensional [flow cytometry](https://sydneycytometry.org.au/flowcytometry), [spectral cytometry](https://sydneycytometry.org.au/flowcytometry), [mass cytometry/CyTOF](https://sydneycytometry.org.au/masscytometry/cytof), and [Imaging Mass Cytometry](https://sydneycytometry.org.au/masscytometry/imc) (IMC). Key papers:
 
@@ -39,7 +39,7 @@ A key focus of ours is the development and implimentation of high-dimensional cy
 
 <br />
 
-**Computational analysis approaches**: 
+**Computational analysis approaches**
 
 In order to sufficiently analyse the high-dimensional datasets, we have developed a number of computational analysis approaches, including the [Spectre](https://github.com/ImmuneDynamics/Spectre) analysis platform in R, time-series clustering using the [ChronoClust](https://www.sciencedirect.com/science/article/pii/S0950705119300796) algorithm, and [single cell segmentation and spatial analysis of IMC data](https://wiki.centenary.org.au/x/nP5DCg). Key papers:
 
@@ -49,7 +49,7 @@ In order to sufficiently analyse the high-dimensional datasets, we have develope
 
 <br />
 
-**Application to disease**: 
+**Application to disease**
 
 We apply our high-dimensional technologies and analysis approaches to the study of a number of diseases, including [immune profiling in COVID-19](https://doi.org/10.1016/j.xcrm.2021.100208), therapeutic [immune-modulation of inflammatory disease](https://stm.sciencemag.org/content/6/219/219ra7.short), viral encephalitis ([West Nile virus](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246), [Zika virus](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5)), systemic viral infection ([Lymphocytic choriomeningitis virus, LCMV](https://jvi.asm.org/content/91/22/e01219-17.short)). Key papers:
 
