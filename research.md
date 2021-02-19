@@ -16,7 +16,7 @@ My research involves developing and applying high-dimensional cytometry technolo
 
 ### High-dimensional cytometry technologies ###
 
-![HD](https://wiki.centenary.org.au/display/SPECTRAL?preview=/156532772/157274147/Lasers%20banner2.png)
+![HD](https://wiki.centenary.org.au/download/attachments/156532772/Lasers%20banner2.png?version=1&modificationDate=1582385433600&api=v2)
 
 A key focus of ours is the development and implimentation of high-dimensional cytometry technologies and assays, including high-dimensional [flow cytometry](https://sydneycytometry.org.au/flowcytometry), [spectral cytometry](https://sydneycytometry.org.au/flowcytometry), [mass cytometry/CyTOF](https://sydneycytometry.org.au/masscytometry/cytof), and [Imaging Mass Cytometry](https://sydneycytometry.org.au/masscytometry/imc) (IMC). Key papers:
 
@@ -37,7 +37,7 @@ A key focus of ours is the development and implimentation of high-dimensional cy
 
 ### Computational analysis approaches ###
 
-![Comp](https://wiki.centenary.org.au/display/SPECTRE?preview=/146080606/176853907/Screen%20Shot%202020-10-22%20at%2012.25.13%20pm.png)
+![Comp](https://wiki.centenary.org.au/download/attachments/146080606/Screen%20Shot%202020-10-22%20at%2012.25.13%20pm.png?version=1&modificationDate=1603369521998&api=v2)
 
 In order to sufficiently analyse the high-dimensional datasets, we have developed a number of computational analysis approaches, including the [Spectre](https://github.com/ImmuneDynamics/Spectre) analysis platform in R, time-series clustering using the [ChronoClust](https://www.sciencedirect.com/science/article/pii/S0950705119300796) algorithm, and [single cell segmentation and spatial analysis of IMC data](https://wiki.centenary.org.au/x/nP5DCg). Key papers:
 
@@ -49,7 +49,7 @@ In order to sufficiently analyse the high-dimensional datasets, we have develope
 
 ### Application to disease ###
 
-![COVID](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/COVID%20image%20wide.png)
+![COVID](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Publication%202.png)
 
 We apply our high-dimensional technologies and analysis approaches to the study of a number of diseases, including [immune profiling in COVID-19](https://doi.org/10.1016/j.xcrm.2021.100208), therapeutic [immune-modulation of inflammatory disease](https://stm.sciencemag.org/content/6/219/219ra7.short), viral encephalitis ([West Nile virus](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246), [Zika virus](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5)), systemic viral infection ([Lymphocytic choriomeningitis virus, LCMV](https://jvi.asm.org/content/91/22/e01219-17.short)). Key papers:
 
