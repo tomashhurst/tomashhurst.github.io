@@ -59,3 +59,8 @@ permalink: /resources/
 - Presentation: [Recordings for all talks](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/) (available to ASI/ACS members)
 - Editorial: [ASI Newsletter report](https://www.immunology.org.au/files/Newsletter_pdfs/ASI017_Dec_2020.pdf#page=35) (page 35)
 - Webpage: [ASI 'Systems Immunologty' special interest group page](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/)
+
+<div style="clear: left;">
+    <p style="float: left;"><img src="http://placekitten.com/g/200/200" height="200" width="200" border="1px"></p>
+    <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
+</div>
