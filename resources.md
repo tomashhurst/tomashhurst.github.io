@@ -60,12 +60,16 @@ permalink: /resources/
 - Webpage: [Spectre Home Page](https://wiki.centenary.org.au/display/SPECTRE). A computational toolkit in R for the integration, exploration, and analysis of high-dimensional single-cell cytometry data.
 - Presentation: [Spectre presentation (Oz Single Cell 2020 - Computational biology)](https://youtu.be/poEDERGXrQw?t=3151). Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre.
 
+<br />
+
 *Computational analysis*
 
 ![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Clusters.png)
 
 - Webpage: [Sydney Cytometry Extranet](https://sydneycytometry.org.au/wiki-launch). A Sydney Cytometry internal website with a variety of computational and spatial analysis protocols. Requires access request approval.
 - Presentation: ['Clustering and Dimensionality Reduction' talk](https://youtu.be/MSIDmYhqe5g). One of the talks from the [ACS/ASI High-Dimensional Analysis Homeshow](https://tomashhurst.github.io/homeshow/).
+
+<br />
 
 *ACS and ASI 'High-Dimensional Analysis Roadshow 2020*
 
