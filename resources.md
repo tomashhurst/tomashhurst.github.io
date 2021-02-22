@@ -6,7 +6,7 @@ permalink: /resources/
 
 ---
 
-![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/CyTOF%20close.png)
+![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Presentations.jpeg)
 
 ### Technology and research application overview ###
 
@@ -23,6 +23,8 @@ permalink: /resources/
 
 *Flow and spectral cytometry*
 
+![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Tech.png)
+
 - Paper: [Basic panel design](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract). Current Protocols in Immunology, Unit 5.4
 - Paper: [High-dimensional panel design](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). Current Protocols in Immunology, Unit 5.8
 - Tutorial: [The impact of adjusting PMT voltages on spillover and compensation](https://sydneycytometry.org.au/seminars-and-tutorials).
@@ -30,16 +32,22 @@ permalink: /resources/
 
 *Mass cytometry (CyTOF)*
 
+![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/CyTOF%20close.png)
+
 - Book: [Mass cytometry: methods and protocols](https://link.springer.com/book/10.1007/978-1-4939-9454-0). HM McGuire, TM Ashhurst (eds). 2019. Springer New York. A collection of mass cytometry protocols covering facility setup, panel design, reagent preparation, sample preparation, data analysis, and a range of specific applications. 
 - Paper: [Mass and flow cytometry staining protocol for mouse bone marrow](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). Mass cytometry: methods and protocols, chapter 12. Analysis of the Murine Bone Marrow Hematopoietic System Using Mass and Flow Cytometry.
 
 *Imaging Mass Cytometry (IMC)*
+
+![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/IMC.jpg)
 
 - Webpage: [Sydney Cytometry Extranet](https://sydneycytometry.org.au/wiki-launch). A Sydney Cytometry internal website with a variety of IMC protocols. Requires access request approval.
 
 <br />
 
 ### Analysis ###
+
+![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Spectre.png)
 
 ---
 
