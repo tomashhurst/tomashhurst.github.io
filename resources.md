@@ -30,12 +30,16 @@ permalink: /resources/
 - Tutorial: [The impact of adjusting PMT voltages on spillover and compensation](https://sydneycytometry.org.au/seminars-and-tutorials).
 - Paper: [Voltage setting](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). Current Protocols in Immunology, Unit 5.8
 
+<br />
+
 *Mass cytometry (CyTOF)*
 
 ![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/CyTOF%20close.png)
 
 - Book: [Mass cytometry: methods and protocols](https://link.springer.com/book/10.1007/978-1-4939-9454-0). HM McGuire, TM Ashhurst (eds). 2019. Springer New York. A collection of mass cytometry protocols covering facility setup, panel design, reagent preparation, sample preparation, data analysis, and a range of specific applications. 
 - Paper: [Mass and flow cytometry staining protocol for mouse bone marrow](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). Mass cytometry: methods and protocols, chapter 12. Analysis of the Murine Bone Marrow Hematopoietic System Using Mass and Flow Cytometry.
+
+<br />
 
 *Imaging Mass Cytometry (IMC)*
 
