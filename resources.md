@@ -6,13 +6,13 @@ permalink: /resources/
 
 ---
 
-![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Presentations.jpeg)
-
 ### Technology and research application overview ###
 
 ---
 
-- Presentation: [Mapping Immunity Across Time, Space and Disease State (Fluidigm webinar, 2020)](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics). Featured on the Fluidigm '[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)' page.
+![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Presentations.jpeg)
+
+- Presentation: [Mapping Immunity Across Time, Space and Disease State](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics) (Fluidigm webinar, 2020). Featured on the Fluidigm '[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)' page.
 - Presentation: [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://youtu.be/poEDERGXrQw?t=3151). Spectre presentation (Oz Single Cell 2020 - Computational biology).
 
 <br />
