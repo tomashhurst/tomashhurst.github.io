@@ -17,6 +17,16 @@ permalink: /resources/
 
 <br />
 
+### Sample preparation ###
+
+---
+
+![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Antibodies.png)
+
+- Paper: [Mass and flow cytometry staining protocol for mouse bone marrow](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). Mass cytometry: methods and protocols, chapter 12. Analysis of the Murine Bone Marrow Hematopoietic System Using Mass and Flow Cytometry.
+
+<br />
+
 ### Technologies ###
 
 ---
