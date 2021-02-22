@@ -6,7 +6,7 @@ permalink: /resources/
 
 ---
 
-![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/IMC.jpg)
+![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/CyTOF%20close.png)
 
 ### Technology and research application overview ###
 
