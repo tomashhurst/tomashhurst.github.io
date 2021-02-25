@@ -34,7 +34,7 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 
 [Using single-cell cytometry to illustrate integrated multi-perspective evaluation of clustering algorithms using Pareto fronts](https://doi.org/10.1093/bioinformatics/btab038). 2021. GH Putri, I Koprinska, TM Ashhurst, NJC King, MN Read. Bioinformatics
 
-[Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). 2020. TM Ashhurst, F Marsh-Wakefield, GH Putri, AG Spiteri, D Shinko, ... bioRxiv
+[Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). 2020. TM Ashhurst\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... bioRxiv
 
 [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold, TM Ashhurst, AL Smith, NJC King. Cytometry Part A
 
@@ -64,7 +64,7 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 
 [Defective inflammatory monocyte development in IRF8-deficient mice abrogates migration to the West Nile virus-infected brain](https://www.karger.com/Article/Abstract/365972). 2015. RL Terry, C Deffrasnes, DR Getts, C Minten, C Van Vreden, TM Ashhurst, ... Journal of innate immunity 7 (1), 102-112
 
-[The plasticity of inflammatory monocyte responses to the inflamed central nervous system](https://www.sciencedirect.com/science/article/pii/S0008874914001117). 2014. TM Ashhurst, C van Vreden, P Niewold, NJC King. Cellular immunology 291 (1-2), 49-57
+[The plasticity of inflammatory monocyte responses to the inflamed central nervous system](https://www.sciencedirect.com/science/article/pii/S0008874914001117). 2014. TM Ashhurst\*, C van Vreden\*, P Niewold\*, NJC King. Cellular immunology 291 (1-2), 49-57
 
 [Therapeutic inflammatory monocyte modulation using immune-modifying microparticles](https://stm.sciencemag.org/content/6/219/219ra7.short). 2014. DR Getts, RL Terry, MT Getts, C Deffrasnes, M Müller, C van Vreden, ... Science translational medicine 6 (219), 219ra7-219ra7. 
 - *News items: [ABC News](http://www.abc.net.au/science/articles/2014/01/16/3926376.htm), [The Guardian](http://www.theguardian.com/world/2014/jan/16/heart-attack-damage-can-be-reduced-with-a-simple-injection-say-experts)*.
