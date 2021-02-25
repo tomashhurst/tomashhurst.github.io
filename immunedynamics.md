@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Immune Dynamics Team
-permalink: /immunedynamics
+permalink: /immunedynamics/
 ---
 
 ---
