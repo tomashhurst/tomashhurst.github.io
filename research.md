@@ -23,7 +23,7 @@ My research involves developing and applying high-dimensional cytometry and imag
 A key focus of ours is the development and implimentation of high-dimensional cytometry technologies and assays, including high-dimensional [flow cytometry](https://sydneycytometry.org.au/flowcytometry), [spectral cytometry](https://sydneycytometry.org.au/flowcytometry), [mass cytometry/CyTOF](https://sydneycytometry.org.au/masscytometry/cytof), and [Imaging Mass Cytometry](https://sydneycytometry.org.au/masscytometry/imc) (IMC). Key papers:
 
 *Flow and spectral cytometry*
-- [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold, TM Ashhurst, AL Smith, NJC King. Cytometry Part A
+- [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold\*, TM Ashhurst\*, AL Smith, NJC King. Cytometry Part A
 - [High‐Dimensional Fluorescence Cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). 2017. TM Ashhurst, AL Smith, NJC King. Current Protocols in Immunology 119 (1), 5.8. 1-5.8. 38
 
 *Mass cytometry*
@@ -45,7 +45,7 @@ A key focus of ours is the development and implimentation of high-dimensional cy
 
 In order to sufficiently analyse the high-dimensional datasets, we have developed a number of computational analysis approaches, including the [Spectre](https://github.com/ImmuneDynamics/Spectre) analysis platform in R, time-series clustering using the [ChronoClust](https://www.sciencedirect.com/science/article/pii/S0950705119300796) algorithm, and [single cell segmentation and spatial analysis of IMC data](https://wiki.centenary.org.au/x/nP5DCg). Key papers:
 
-- [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). 2020. TM Ashhurst*, F Marsh-Wakefield*, GH Putri*, AG Spiteri, D Shinko, ... bioRxiv
+- [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). 2020. TM Ashhurst\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... bioRxiv
 - [ChronoClust: Density-based clustering and cluster tracking in high-dimensional time-series data](https://www.sciencedirect.com/science/article/pii/S0950705119300796). 2019. GH Putri, MN Read, I Koprinska, D Singh, U Röhm, TM Ashhurst, ... Knowledge-Based Systems 174, 9-26
 - Analysis protocols and resources can be found on the [Spectre Home Page](https://github.com/ImmuneDynamics/Spectre)
 
