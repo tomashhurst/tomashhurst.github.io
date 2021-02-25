@@ -37,7 +37,7 @@ permalink: /resources/
 
 - [Paper](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract): Basic panel design. Current Protocols in Immunology, Unit 5.4
 - [Paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37): High-dimensional panel design. Current Protocols in Immunology, Unit 5.8
-- [Tutorial]((https://sydneycytometry.org.au/seminars-and-tutorials)): The impact of adjusting PMT voltages on spillover and compensation.
+- [Tutorial](https://sydneycytometry.org.au/seminars-and-tutorials): The impact of adjusting PMT voltages on spillover and compensation.
 - [Paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37): Voltage setting. Current Protocols in Immunology, Unit 5.8
 
 <br />
