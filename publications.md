@@ -83,6 +83,6 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 
 <br />
 
-<img src="https://wiki.centenary.org.au/download/attachments/146080606/image2020-4-7_16-49-11.png?version=1&modificationDate=1586278151363&api=v2" width="200" align="left">
+<img src="https://wiki.centenary.org.au/download/attachments/146080606/image2020-4-7_16-49-11.png?version=1&modificationDate=1586278151363&api=v2" width="100" align="left">
 
 Some text.
