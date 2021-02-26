@@ -15,4 +15,4 @@ We apply our high-dimensional technologies and analysis approaches to study infl
 
 <br />
 
-[**Immune Dynamics Github**](https://github.com/immunedynamics)
+**Link**: [Immune Dynamics Github](https://github.com/immunedynamics)
