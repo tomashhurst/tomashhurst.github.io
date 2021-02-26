@@ -82,3 +82,7 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 [High-dimensional single cell mass cytometry (CyTOF) comes to Australia with the establishment of the Ramaciotti Facility for Human Systems Biology](https://www.immunology.org.au/files/Newsletter_pdfs/ASI_NL_March_2015.pdf). 2015. T Ashhurst, N King, A Smith, BF de St Groth. ASI Newsletter.
 
 <br />
+
+![image](https://wiki.centenary.org.au/download/attachments/146080606/image2020-4-7_16-49-11.png?version=1&modificationDate=1586278151363&api=v2){: style="float: left"}
+
+Some text.
