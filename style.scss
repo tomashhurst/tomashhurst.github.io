@@ -7,16 +7,11 @@
 
 @import "reset";
 @import "variables";
-@import "{{ site.theme }}";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
 /* BASE RULES */
 /**************/
-
-.inner {
-  max-width: 75%;
-}
 
 html {
   font-size: 100%;
@@ -28,9 +23,11 @@ body {
   color: $darkGray;
 }
 
+//max-width: 740px;
+
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 1000px;
   padding: 0 10px;
   width: 100%;
 }
