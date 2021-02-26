@@ -10,6 +10,10 @@ permalink: /research/
 
 My research involves the development and application of a range of high-dimensional single-cell cytometry technologies and assays, as well as computational analysis approaches, to map dynamic immune responses over time, space, and disease. My team and I apply these approaches to the study of immunology and infectious disease, including emerging pathogens such as [SARS-CoV-2 and COVID-19](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7), [Zika virus](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5) encephalitis, and [West Nile virus](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246) encephalitis.
 
+An overview of this work can be found in these key presentations:
+- [Fluidigm Webinar](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics): *Mapping Immunity Across Time, Space and Disease State* (2020). 
+- [Oz Single Cell webinar](https://youtu.be/poEDERGXrQw?t=3151): *Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre* (2020). 
+
 <br />
 
 ### High-dimensional cytometry and imaging technologies ###
@@ -18,7 +22,7 @@ My research involves the development and application of a range of high-dimensio
 
 ![HD](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Tech.png)
 
-Critical to investigating complex immune responses to diseases is the capacity to measure cells at the single-cell level, measuring multiple features of the cell simultaneously. To address this, we develop and apply a variety of high-dimensional cytometry technologies and assays. We have developed novel technology platforms, such as our world first 10-laser ‘LSR-X’ platform developed with BD, and one of the first published 25 colour flow cytometry assays ([Ashhurst et al. 201](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37)). We also developed the first assays to be used on Australia’s first mass cytometer (CyTOF, [Ashhurst et al. 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)), as well as Australia’s first Imaging Mass Cytometer (IMC, [SpectreMAP Github](https://github.com/ImmuneDynamics/SpectreMAP)). Most recently, we have implemented high-dimensional spectral cytometry platforms and panels, and performed comprehensive evaluations of both conventional and spectral cytometry ([Niewold\*, Ashhurst\* et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211)). 
+Critical to investigating complex immune responses to diseases is the capacity to measure cells at the single-cell level, measuring multiple features of the cell simultaneously. To address this, we develop and apply a variety of high-dimensional cytometry technologies and assays. We have developed novel technology platforms, such as our world first 10-laser ‘LSR-X’ platform developed with BD, and one of the first published 25 colour flow cytometry assays ([Ashhurst et al. 2017](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37)). We also developed the first assays to be used on Australia’s first mass cytometer (CyTOF, [Ashhurst et al. 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)), as well as Australia’s first Imaging Mass Cytometer (IMC, [SpectreMAP Github](https://github.com/ImmuneDynamics/SpectreMAP)). Most recently, we have implemented high-dimensional spectral cytometry platforms and panels, and performed comprehensive evaluations of both conventional and spectral cytometry ([Niewold\*, Ashhurst\* et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211)). 
 
 <br />
 
