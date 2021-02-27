@@ -44,7 +44,7 @@ My team and I have developed a number of computational analysis approaches, incl
 
 ![COVID](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Publication%202.png)
 
-We apply our high-dimensional technologies and analysis approaches to study inflammation and infectious disease. A particular focus has been the study of **immunopathology**, where the immune response to infection may be a significant driver of disease. 
+We apply our high-dimensional technologies and analysis approaches to study inflammation and infectious disease. A particular focus has been the study of ***immunopathology***, where the immune response to infection may be a significant driver of disease. 
 
 **SARS-CoV-2 and COVID-19**
 
