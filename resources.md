@@ -10,8 +10,6 @@ permalink: /resources/
 
 <br />
 
-[**SPECTRE**](https://wiki.centenary.org.au/display/SPECTRE): an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments ([Ashhurst\*,  Marsh-Wakefield\*, Putri\* et al. 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract))
-
 <div class='row'>
     <div class="image">
         <a href="#">
@@ -20,11 +18,11 @@ permalink: /resources/
     </div>
 </div>
 
-<br />
+[**SPECTRE**](https://wiki.centenary.org.au/display/SPECTRE): an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments ([Ashhurst\*,  Marsh-Wakefield\*, Putri\* et al. 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract))
 
 <br />
 
-[**Sydney Cytometry - Extranet Resources**](https://wiki.centenary.org.au/display/RESOURCES): This resources site from the Sydney Cytometry Facility hosts a number of protocols and resources developed by facility staff and users.
+<br />
 
 <div class='row'>
     <div class="image">
@@ -33,6 +31,8 @@ permalink: /resources/
         </a>
     </div>
 </div>
+
+[**Sydney Cytometry - Extranet Resources**](https://wiki.centenary.org.au/display/RESOURCES): This resources site from the Sydney Cytometry Facility hosts a number of protocols and resources developed by facility staff and users.
 
 Protocols included:
 
