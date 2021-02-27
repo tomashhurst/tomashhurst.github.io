@@ -24,6 +24,9 @@ permalink: /resources/
 
 <br />
 
+
+
+
 <br />
 
 <div class='row'>
