@@ -33,6 +33,14 @@ permalink: /publications/
 
 Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, AJ Mitchell, SE Norton, TM Ashhurst, JKH Leman, JM Roberts, JE Harte, HM McGuire, RA Kemp. Immunology & Cell Biology, *accepted*.
 
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Koutsakos%202021.png" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
 [Integrated immune dynamics define correlates of COVID-19 severity and antibody responses](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7). 2021. M Koutsakos, LC Rowntree, L Hensen, ... TM Ashhurst, ... K Kedzierska. Cell Reports Medicine. 
 - *News items: [Doherty Institute News](https://www.doherty.edu.au/news-events/news/mapping-an-effective-immune-response-to-covid-19), [Medical Xpress](https://medicalxpress.com/news/2021-02-effective-immune-response-covid-.html), [Herald Sun](https://www.heraldsun.com.au/coronavirus/melbourne-experts-uncover-why-covid-affects-people-differently/news-story/ed5ffb9604c1b4db776503562e494f71), [Ticker](https://twitter.com/tickerNEWSau/status/1359991653243572224?s=20)*.
 
