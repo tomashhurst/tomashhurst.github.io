@@ -31,12 +31,12 @@ permalink: /resources/
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://images.squarespace-cdn.com/content/4f5013cf24ac3afbd1aa0384/1449533180720-Q8AMXEWY5ZQNJRS5LB8K/Sydney+Cytometry+No+White+Space.png?format=1500w&content-type=image%2Fpng" alt="icon" width="250" align="right">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Antibodies.png" alt="icon" width="250" align="right">
         </a>
     </div>
 </div>
 
-[**Sydney Cytometry - Extranet Resources**](https://sydneycytometry.org.au/wiki-launch): This external resource site from the Sydney Cytometry Facility hosts a number of protocols and resources developed by facility staff and users. To request access to the extranet, please see [this link](https://forms.gle/UQCXLt1Q7p5Yv82V8).
+[**Published protocols**](https://tomashhurst.github.io/resources/): Below is a collection of published protocols.
 
 **Protocols featured in publications**:
 - Basic and high-dimensional panel design. Paper: [basic panel design](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract), paper: [high-dimensional panel design](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37).
@@ -46,6 +46,20 @@ permalink: /resources/
 - Spectral vs conventional cytometry: [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 
 - A collection of mass cytometry protocols: [Book](https://link.springer.com/book/10.1007/978-1-4939-9454-0).
 - Mass cytometry staining protocol for mouse bone marrow: [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12).
+
+<br />
+
+---
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://images.squarespace-cdn.com/content/4f5013cf24ac3afbd1aa0384/1449533180720-Q8AMXEWY5ZQNJRS5LB8K/Sydney+Cytometry+No+White+Space.png?format=1500w&content-type=image%2Fpng" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+[**Sydney Cytometry - Extranet Resources**](https://sydneycytometry.org.au/wiki-launch): This external resource site from the Sydney Cytometry Facility hosts a number of protocols and resources developed by facility staff and users. To request access to the extranet, please see [this link](https://forms.gle/UQCXLt1Q7p5Yv82V8).
 
 <br />
 
