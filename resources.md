@@ -10,6 +10,8 @@ permalink: /resources/
 
 <br />
 
+---
+
 <div class='row'>
     <div class="image">
         <a href="#">
