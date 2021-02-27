@@ -11,6 +11,7 @@ permalink: /presentations/
 <br />
 
 **[Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://youtu.be/poEDERGXrQw?t=3151)**
+
 Oz Single Cell 2020, Computational biology.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/poEDERGXrQw?start=3151" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -18,6 +19,7 @@ Oz Single Cell 2020, Computational biology.
 <br />
 
 **[Mapping Immunity Across Time, Space and Disease State](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics)**
+
 Fluidigm webinar 2020. Featured on the '[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)' page.
 
 <iframe class="vidyard_iframe" src="//play.vidyard.com/4A9gczgzSZrmMa2q5Tyuvf.html?" width=560 height=315 scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe>
@@ -25,6 +27,7 @@ Fluidigm webinar 2020. Featured on the '[COVID-19 resources](https://www.fluidig
 <br />
 
 **[ACS and ASI 'High-Dimensional Analysis Roadshow 2020](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/)** 
+
 Presented by [Thomas Ashhurst](tomashhurst.github.io), [Felix Marsh-Wakefield](https://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en), and [Givanna Putri](https://scholar.google.com/citations?user=S-sNLPIAAAAJ&hl=en).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MSIDmYhqe5g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
