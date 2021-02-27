@@ -6,12 +6,6 @@ permalink: /resources/
 
 ---
 
-![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Antibodies.png)
-
-<br />
-
----
-
 <div class='row'>
     <div class="image">
         <a href="#">
