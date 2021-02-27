@@ -36,7 +36,7 @@ permalink: /resources/
     </div>
 </div>
 
-[**Published protocols**](https://tomashhurst.github.io/resources/): Below is a collection of published protocols.
+[**Published protocols**](https://tomashhurst.github.io/resources/): Below is a collection of published protocols in flow cytometry, spectral cytometry, mass cytometry, and computational analysis.
 
 **Protocols featured in publications**:
 - Basic and high-dimensional panel design. Paper: [basic panel design](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract), paper: [high-dimensional panel design](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37).
