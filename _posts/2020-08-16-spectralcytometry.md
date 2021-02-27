@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Evaluating spectral cytometry for immune profiling in viral disease
+title: 2020-08-16 - 'Evaluating spectral cytometry for immune profiling in viral disease' published
 ---
 
 ![Spectral](https://onlinelibrary.wiley.com/cms/asset/21e66566-4603-4cce-bb24-d180a1ec4a92/cytoa24211-fig-0001-m.jpg)
