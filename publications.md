@@ -49,8 +49,7 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Ferrell%202021.png
-" alt="icon" width="250" align="right">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Ferrell%202021.png" alt="icon" width="250" align="right">
         </a>
     </div>
 </div>
