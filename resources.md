@@ -8,6 +8,8 @@ permalink: /resources/
 
 ![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Antibodies.png)
 
+[]: # (FIRST)
+
 <br />
 
 <div class='row'>
@@ -23,6 +25,8 @@ permalink: /resources/
 <br />
 
 <br />
+
+[]: # (SECOND)
 
 <div class='row'>
     <div class="image">
