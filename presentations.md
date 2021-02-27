@@ -22,6 +22,8 @@ Oz Single Cell 2020, Computational biology.
 **[Mapping Immunity Across Time, Space and Disease State](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics)**
 Fluidigm webinar 2020. Featured on the '[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)' page.
 
+<iframe class="vidyard_iframe" src="//play.vidyard.com/4A9gczgzSZrmMa2q5Tyuvf.html?" width=560 height=315 scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe>
+
 <br />
 
 <br />
