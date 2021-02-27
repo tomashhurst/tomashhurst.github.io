@@ -7,9 +7,10 @@ title: 2021-11-18 - Oz Single Cell webinar series 2020 (computational biology) d
 
 ---
 
+<br />
+
+Talk recording: [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre.](https://youtu.be/poEDERGXrQw?t=3151)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/poEDERGXrQw?start=3151" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
-
-Talk recording:
-- [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre.](https://youtu.be/poEDERGXrQw?t=3151)
