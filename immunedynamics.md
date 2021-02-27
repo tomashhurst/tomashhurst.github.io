@@ -33,6 +33,8 @@ We apply our high-dimensional technologies and analysis approaches to study infl
 
 <br />
 
+<br />
+
 <div class='row'>
     <div class="image">
         <a href="#">
@@ -43,6 +45,8 @@ We apply our high-dimensional technologies and analysis approaches to study infl
         <p>asdfer</p>
     </div>
 </div>
+
+<br />
 
 <br />
 
