@@ -36,7 +36,7 @@ permalink: /resources/
 
 <br />
 
-**Protocols included**:
+&nbsp;**Protocols included**:
 
 - [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12): Mass and flow cytometry staining protocol for mouse bone marrow. Mass cytometry: methods and protocols, chapter 12. Analysis of the Murine Bone Marrow Hematopoietic System Using Mass and Flow Cytometry.
 - [Paper](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract): Basic panel design. Current Protocols in Immunology, Unit 5.4
