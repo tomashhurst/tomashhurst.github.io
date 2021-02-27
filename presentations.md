@@ -38,8 +38,6 @@ Presented by [Thomas Ashhurst](tomashhurst.github.io), [Felix Marsh-Wakefield](h
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MSIDmYhqe5g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br />
-
 ***Related links***
 - [ASI Newsletter report](https://www.immunology.org.au/files/Newsletter_pdfs/ASI017_Dec_2020.pdf#page=35) (page 35)
 - [Recording of the 'Clustering and Dimensionality Reduction' talk](https://youtu.be/MSIDmYhqe5g)
