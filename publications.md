@@ -25,6 +25,8 @@ permalink: /publications/
 
 ---
 
+**2021**
+
 Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, AJ Mitchell, SE Norton, TM Ashhurst, JKH Leman, JM Roberts, JE Harte, HM McGuire, RA Kemp. Immunology & Cell Biology, *accepted*.
 
 [Integrated immune dynamics define correlates of COVID-19 severity and antibody responses](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7). 2021. M Koutsakos, LC Rowntree, L Hensen, ... TM Ashhurst, ... K Kedzierska. Cell Reports Medicine. 
@@ -34,6 +36,8 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 
 [Using single-cell cytometry to illustrate integrated multi-perspective evaluation of clustering algorithms using Pareto fronts](https://doi.org/10.1093/bioinformatics/btab038). 2021. GH Putri, I Koprinska, TM Ashhurst, NJC King, MN Read. Bioinformatics
 
+**2020**
+
 [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). 2020. TM Ashhurst\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... bioRxiv. [Github](https://github.com/ImmuneDynamics/spectre). [Protocols](https://wiki.centenary.org.au/display/SPECTRE).
 
 [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold, TM Ashhurst, AL Smith, NJC King. Cytometry Part A
@@ -41,6 +45,8 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 [IgG3+ B cells are associated with the development of multiple sclerosis](https://onlinelibrary.wiley.com/doi/abs/10.1002/cti2.1133). 2020. F Marsh‐Wakefield, T Ashhurst, S Trend, HM McGuire, P Juillard, A Zinger, ... Clinical & Translational Immunology 9 (5), e01133
 
 [Contribution of STAT1 to innate and adaptive immunity during type I interferon-mediated lethal virus infection](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008525&rev=1). 2020. SR Jung, TM Ashhurst, PK West, B Viengkhou, NJC King, IL Campbell, ... PLoS Pathogens 16 (4), e1008525
+
+**2019**
 
 [Zika virus encephalitis in immunocompetent mice is dominated by innate immune cells and does not require T or B cells](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5). 2019. E Hayashida, ZL Ling, TM Ashhurst, B Viengkhou, SR Jung, ... Journal of Neuroinflammation 16 (1), 1-15
 
@@ -54,9 +60,13 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 
 [Staining of phosphorylated signalling markers protocol for mass cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_10). 2019. D Shinko, TM Ashhurst, HM McGuire, KA Charles. Mass Cytometry, 139-146
 
+**2018**
+
 [Collateral Damage: What Effect Does Anti-CD4 and Anti-CD8α Antibody–Mediated Depletion Have on Leukocyte Populations?](https://www.jimmunol.org/content/201/7/2176.abstract) 2018. SR Jung, T Suprunenko, TM Ashhurst, NJC King, MJ Hofer. The Journal of Immunology 201 (7), 2176-2186
 
 [Varicella zoster virus productively infects human natural killer cells and manipulates phenotype](https://journals.plos.org/plospathogens/article?rev=1&id=10.1371/journal.ppat.1006999). 2018. TM Campbell, BP McSharry, M Steain, TM Ashhurst, B Slobedman, ... PLoS pathogens 14 (4), e1006999
+
+**2012 - 2017**
 
 [IRF9 Prevents CD8+ T cell exhaustion in an extrinsic manner during acute Lymphocytic choriomeningitis virus infection](https://jvi.asm.org/content/91/22/e01219-17.short). 2017. M Huber, T Suprunenko, T Ashhurst, F Marbach, H Raifer, S Wolff, ... Journal of Virology 91 (22)
 
