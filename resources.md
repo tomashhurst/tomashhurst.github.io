@@ -71,15 +71,5 @@ permalink: /resources/
 
 <br />
 
-<p>
-<img src="https://wiki.centenary.org.au/download/attachments/146080606/Spectre%20wide.png?version=1&modificationDate=1614253260985&api=v2" alt="Example" width="175" align="left">
-Aligns to the left
-<br>
-The image floats to the left.
-<br>
-And the text wraps to the right of the image.
-And the text wraps to the right of the image.
-And the text wraps to the right of the image.
-<br clear="left">
-Clears the left
-</p>
+<div class='wrapper'><img src='https://wiki.centenary.org.au/download/attachments/146080606/Spectre%20wide.png?version=1&modificationDate=1614253260985&api=v2'  alt="icon" width="175" align="left></div>
+To continue the Australasian Cytometry Society (ACS) commitment to promote cytometry education during the COVID-19 pandemic, we have transformed the popular annual Roadshow to a virtual Homeshow, supported by the Australia and New Zealand Society for Immunology (ASI) 'Systems Immonology' Special Interest Group. The topic will cover “High Dimensional Data Analysis Strategies”). Recordings for all talks (available to ASI/ACS members)
