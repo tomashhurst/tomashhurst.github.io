@@ -39,7 +39,7 @@ permalink: /resources/
     </div>
 </div>
 
-[**Sydney Cytometry - Extranet Resources**](https://wiki.centenary.org.au/display/RESOURCES): This resources site from the Sydney Cytometry Facility hosts a number of protocols and resources developed by facility staff and users. To request access to the extranet, please see [this link](https://forms.gle/UQCXLt1Q7p5Yv82V8).
+[**Sydney Cytometry - Extranet Resources**](https://sydneycytometry.org.au/wiki-launch): This external resource site from the Sydney Cytometry Facility hosts a number of protocols and resources developed by facility staff and users. To request access to the extranet, please see [this link](https://forms.gle/UQCXLt1Q7p5Yv82V8).
 
 **Protocols featured in publications**:
 - Basic and high-dimensional panel design. Paper: [basic panel design](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract), paper: [high-dimensional panel design](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37).
