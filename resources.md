@@ -32,118 +32,39 @@ permalink: /resources/
     </div>
 </div>
 
-[**Sydney Cytometry - Extranet Resources**](https://wiki.centenary.org.au/display/RESOURCES): This resources site from the Sydney Cytometry Facility hosts a number of protocols and resources developed by facility staff and users.
+[**Sydney Cytometry - Extranet Resources**](https://wiki.centenary.org.au/display/RESOURCES): This resources site from the Sydney Cytometry Facility hosts a number of protocols and resources developed by facility staff and users. To request access to the extranet, please see [this link](https://forms.gle/UQCXLt1Q7p5Yv82V8).
 
 <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Protocols included**:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12): Mass and flow cytometry staining protocol for mouse bone marrow. Mass cytometry: methods and protocols, chapter 12. Analysis of the Murine Bone Marrow Hematopoietic System Using Mass and Flow Cytometry.
-- [Paper](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract): Basic panel design. Current Protocols in Immunology, Unit 5.4
-- [Paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37): High-dimensional panel design. Current Protocols in Immunology, Unit 5.8
-- [Tutorial](https://sydneycytometry.org.au/seminars-and-tutorials): The impact of adjusting PMT voltages on spillover and compensation.
-- [Paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37): Voltage setting. Current Protocols in Immunology, Unit 5.8
-- [Book](https://link.springer.com/book/10.1007/978-1-4939-9454-0): HM McGuire, TM Ashhurst (eds). 2019. Springer New York. A collection of mass cytometry protocols covering facility setup, panel design, reagent preparation, sample preparation, data analysis, and a range of specific applications. 
-- [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12): Mass and flow cytometry staining protocol for mouse bone marrow. Mass cytometry: methods and protocols, chapter 12. Analysis of the Murine Bone Marrow Hematopoietic System Using Mass and Flow Cytometry.
-- [Presentation](https://youtu.be/MSIDmYhqe5g): Recording of the 'Clustering and Dimensionality Reduction' talk.
-- [Presentation](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/): Recordings for all talks (available to ASI/ACS members)
-- [Editorial](https://www.immunology.org.au/files/Newsletter_pdfs/ASI017_Dec_2020.pdf#page=35): ASI Newsletter report (page 35)
-- [Webpage](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/): ASI 'Systems Immunologty' special interest group page
+**Protocols featured in publications**:
+- Basic and high-dimensional panel design. Paper: [basic panel design](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract), paper: [high-dimensional panel design](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37).
+- Flow cytometry staining protocol for mouse bone marrow. [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12).
+- Voltage optimisation. [Paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37).
+- The impact of adjusting PMT voltages on spillover, compensation, and spreading error. [Webinar](https://sydneycytometry.org.au/seminars-and-tutorials), [paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37).
+- Spectral vs conventional cytometry. [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 
 
 <br />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Presentations.jpeg)
-
-### Technology and research application overview ###
-
----
-
-- [Presentation](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics): Mapping Immunity Across Time, Space and Disease State (Fluidigm webinar, 2020). Featured on the Fluidigm '[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)' page.
-- [Presentation](https://youtu.be/poEDERGXrQw?t=3151): Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre. Spectre presentation (Oz Single Cell 2020 - Computational biology).
+- A collection of mass cytometry protocols. [Book](https://link.springer.com/book/10.1007/978-1-4939-9454-0).
+- Mass cytometry staining protocol for mouse bone marrow. [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12).
 
 <br />
 
-### Sample preparation ###
+<br />
 
----
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://www.immunology.org.au/_assets/img/asi-logo.png" alt="icon" width="175" align="left">
+        </a>
+    </div>
+</div>
 
-![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Antibodies.png)
-
-- [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12): Mass and flow cytometry staining protocol for mouse bone marrow. Mass cytometry: methods and protocols, chapter 12. Analysis of the Murine Bone Marrow Hematopoietic System Using Mass and Flow Cytometry.
+[**ACS and ASI 'High-Dimensional Analysis Roadshow 2020**](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/): To continue the Australasian Cytometry Society (ACS) commitment to promote cytometry education during the COVID-19 pandemic, we have transformed the popular annual Roadshow to a virtual Homeshow, supported by the Australia and New Zealand Society for Immunology (ASI) 'Systems Immonology' Special Interest Group. The topic will cover “High Dimensional Data Analysis Strategies”). Recordings for all talks (available to ASI/ACS members)
 
 <br />
 
-### Technologies ###
-
----
-
-*Flow and spectral cytometry*
-
-![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Tech.png)
-
-- [Paper](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract): Basic panel design. Current Protocols in Immunology, Unit 5.4
-- [Paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37): High-dimensional panel design. Current Protocols in Immunology, Unit 5.8
-- [Tutorial](https://sydneycytometry.org.au/seminars-and-tutorials): The impact of adjusting PMT voltages on spillover and compensation.
-- [Paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37): Voltage setting. Current Protocols in Immunology, Unit 5.8
-
-<br />
-
-*Mass cytometry (CyTOF)*
-
-![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/CyTOF%20close.png)
-
-- [Book](https://link.springer.com/book/10.1007/978-1-4939-9454-0): HM McGuire, TM Ashhurst (eds). 2019. Springer New York. A collection of mass cytometry protocols covering facility setup, panel design, reagent preparation, sample preparation, data analysis, and a range of specific applications. 
-- [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12): Mass and flow cytometry staining protocol for mouse bone marrow. Mass cytometry: methods and protocols, chapter 12. Analysis of the Murine Bone Marrow Hematopoietic System Using Mass and Flow Cytometry.
-
-<br />
-
-*Imaging Mass Cytometry (IMC)*
-
-![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/IMC.jpg)
-
-- [Webpage](https://sydneycytometry.org.au/wiki-launch): Sydney Cytometry Extranet. A Sydney Cytometry internal website with a variety of IMC protocols. Requires access request approval.
-
-<br />
-
-### Analysis ###
-
----
-
-*Spectre R package*
-
-![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Spectre.png)
-
-- [Webpage](https://wiki.centenary.org.au/display/SPECTRE): Spectre Home Page. A computational toolkit in R for the integration, exploration, and analysis of high-dimensional single-cell cytometry data.
-- [Presentation](https://youtu.be/poEDERGXrQw?t=3151): Spectre presentation (Oz Single Cell 2020 - Computational biology). Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre.
-
-<br />
-
-*Computational analysis*
-
-![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Clusters.png)
-
-- [Webpage](https://sydneycytometry.org.au/wiki-launch): Sydney Cytometry Extranet. A Sydney Cytometry internal website with a variety of computational and spatial analysis protocols. Requires access request approval.
-- [Presentation](https://youtu.be/MSIDmYhqe5g): 'Clustering and Dimensionality Reduction' talk. One of the talks from the [ACS/ASI High-Dimensional Analysis Homeshow](https://tomashhurst.github.io/homeshow/).
-
-<br />
-
-*ACS and ASI 'High-Dimensional Analysis Roadshow 2020*
-
-![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Homeshow.png)
-
+**Links**:
 - [Presentation](https://youtu.be/MSIDmYhqe5g): Recording of the 'Clustering and Dimensionality Reduction' talk.
 - [Presentation](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/): Recordings for all talks (available to ASI/ACS members)
 - [Editorial](https://www.immunology.org.au/files/Newsletter_pdfs/ASI017_Dec_2020.pdf#page=35): ASI Newsletter report (page 35)
