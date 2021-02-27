@@ -34,7 +34,25 @@ permalink: /resources/
 
 [**Sydney Cytometry - Extranet Resources**](https://wiki.centenary.org.au/display/RESOURCES): This resources site from the Sydney Cytometry Facility hosts a number of protocols and resources developed by facility staff and users.
 
+Protocols included:
+
+- [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12): Mass and flow cytometry staining protocol for mouse bone marrow. Mass cytometry: methods and protocols, chapter 12. Analysis of the Murine Bone Marrow Hematopoietic System Using Mass and Flow Cytometry.
+- [Paper](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract): Basic panel design. Current Protocols in Immunology, Unit 5.4
+- [Paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37): High-dimensional panel design. Current Protocols in Immunology, Unit 5.8
+- [Tutorial](https://sydneycytometry.org.au/seminars-and-tutorials): The impact of adjusting PMT voltages on spillover and compensation.
+- [Paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37): Voltage setting. Current Protocols in Immunology, Unit 5.8
+- [Book](https://link.springer.com/book/10.1007/978-1-4939-9454-0): HM McGuire, TM Ashhurst (eds). 2019. Springer New York. A collection of mass cytometry protocols covering facility setup, panel design, reagent preparation, sample preparation, data analysis, and a range of specific applications. 
+- [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12): Mass and flow cytometry staining protocol for mouse bone marrow. Mass cytometry: methods and protocols, chapter 12. Analysis of the Murine Bone Marrow Hematopoietic System Using Mass and Flow Cytometry.
+- [Presentation](https://youtu.be/MSIDmYhqe5g): Recording of the 'Clustering and Dimensionality Reduction' talk.
+- [Presentation](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/): Recordings for all talks (available to ASI/ACS members)
+- [Editorial](https://www.immunology.org.au/files/Newsletter_pdfs/ASI017_Dec_2020.pdf#page=35): ASI Newsletter report (page 35)
+- [Webpage](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/): ASI 'Systems Immunologty' special interest group page
+
 <br />
+
+
+
+
 
 
 
