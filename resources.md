@@ -22,6 +22,8 @@ permalink: /resources/
 
 <br />
 
+---
+
 <br />
 
 <div class='row'>
@@ -46,6 +48,8 @@ permalink: /resources/
 - Mass cytometry staining protocol for mouse bone marrow. [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12).
 
 <br />
+
+---
 
 <br />
 
