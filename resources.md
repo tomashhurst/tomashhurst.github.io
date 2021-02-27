@@ -55,7 +55,7 @@ permalink: /resources/
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://www.immunology.org.au/_assets/img/asi-logo.png" alt="icon" width="175" align="left">
+            <img src="https://cytometry.org.au/wp-content/uploads/2018/05/cropped-169572_medium.jpg" alt="icon" width="175" align="left">
         </a>
     </div>
 </div>
