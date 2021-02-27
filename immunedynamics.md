@@ -14,7 +14,7 @@ We have developed a number of computational analysis approaches, including [Spec
 
 ![COVID](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Publication%202.png)
 
-We apply our high-dimensional technologies and analysis approaches to study inflammation and infectious disease. Most recently, through a collaboration with the [Doherty Institute](https://www.doherty.edu.au/), we comprehensively profiled the immune response in a cohort of **COVID-19** patients. Our work demonstrated that patients with severe disease exhibited an excessive and hyper-activated immune response ([Koutsakos et al. 2021](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7)). 
+We apply our high-dimensional technologies and analysis approaches to study inflammation and infectious disease. Most recently, through a collaboration with the [Doherty Institute](https://www.doherty.edu.au/), we comprehensively profiled the immune response to **SARS-CoV-2** in a cohort of **COVID-19** patients. Our work demonstrated that patients with severe disease exhibited an excessive and hyper-activated immune response ([Koutsakos et al. 2021](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7)). To study the kinetics of this immune response, we also developed and applied a novel time-series analysis approached called [TracKSOM](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7).
 
 **Link**: [Immune Dynamics Github](https://github.com/immunedynamics)
 
