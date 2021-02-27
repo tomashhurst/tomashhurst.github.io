@@ -57,7 +57,7 @@ permalink: /resources/
     </div>
 </div>
 
-[**ACS and ASI 'High-Dimensional Analysis Roadshow 2020**](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/): To continue the Australasian Cytometry Society (ACS) commitment to promote cytometry education during the COVID-19 pandemic, we have transformed the popular annual Roadshow to a virtual Homeshow, supported by the Australia and New Zealand Society for Immunology (ASI) 'Systems Immonology' Special Interest Group. The topic will cover “High Dimensional Data Analysis Strategies”). Recordings for all talks (available to ASI/ACS members)
+[**ACS and ASI 'High-Dimensional Analysis Roadshow 2020**](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/): To continue the Australasian Cytometry Society (ACS) commitment to promote cytometry education during the COVID-19 pandemic, we have transformed the popular annual Roadshow to a virtual Homeshow, supported by the Australia and New Zealand Society for Immunology (ASI) 'Systems Immonology' Special Interest Group. The topic will cover “High Dimensional Data Analysis Strategies”). 
 
 <br />
 
