@@ -6,6 +6,12 @@ permalink: /resources/
 
 ---
 
+![Presentations](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Presentations.jpeg)
+
+<br />
+
+---
+
 <div class='row'>
     <div class="image">
         <a href="#">
