@@ -8,8 +8,6 @@ permalink: /resources/
 
 ![Resources](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Antibodies.png)
 
-
-
 <br />
 
 <div class='row'>
@@ -23,9 +21,6 @@ permalink: /resources/
 [**SPECTRE**](https://wiki.centenary.org.au/display/SPECTRE): an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments ([Ashhurst\*,  Marsh-Wakefield\*, Putri\* et al. 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract))
 
 <br />
-
-
-
 
 <br />
 
