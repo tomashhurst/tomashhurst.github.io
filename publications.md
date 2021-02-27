@@ -27,7 +27,7 @@ permalink: /publications/
 
 <div align="center">
  
-  2021
+  <b>2021</b>
 
 </div>
 
