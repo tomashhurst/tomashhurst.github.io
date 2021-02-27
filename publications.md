@@ -46,7 +46,18 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 
 <br />
 
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Ferrell%202021.png
+" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
 [Intrapulmonary vaccination with delta-inulin adjuvant stimulates non-polarised chemotactic signalling and diverse cellular interaction](https://doi.org/10.1038/s41385-021-00379-6). 2021. KC Ferrell, EL Stewart, C Counoupas, TM Ashhurst, WJ Britton, N Petrovsky, JA Triccas. Mucosal Immunology.
+
+<br />
 
 [Using single-cell cytometry to illustrate integrated multi-perspective evaluation of clustering algorithms using Pareto fronts](https://doi.org/10.1093/bioinformatics/btab038). 2021. GH Putri, I Koprinska, TM Ashhurst, NJC King, MN Read. Bioinformatics
 
