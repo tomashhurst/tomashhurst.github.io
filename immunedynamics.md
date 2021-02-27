@@ -23,7 +23,7 @@ We apply our high-dimensional technologies and analysis approaches to study infl
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://wiki.centenary.org.au/download/attachments/146080604/SPECTRE?version=6&modificationDate=1588780080372&api=v2" alt="belahotellforside">
+            <img src="https://wiki.centenary.org.au/download/attachments/146080604/SPECTRE?version=6&modificationDate=1588780080372&api=v2" alt="belahotellforside" width="100" align="left">
         </a>
     </div>
     <div class="text">
