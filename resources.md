@@ -17,7 +17,8 @@ permalink: /resources/
 [**SPECTRE**](https://wiki.centenary.org.au/display/SPECTRE): an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments ([Ashhurst\*,  Marsh-Wakefield\*, Putri\* et al. bioRxiv. 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract))
 
 **Online presentation**
-- Oz Single Cell 2020, 'Computational Biology': [Webinar](https://youtu.be/poEDERGXrQw?t=3151)
+- Presentation on Spectre at Oz Single Cell 2020, 'Computational Biology': [Youtube](https://youtu.be/poEDERGXrQw?t=3151).
+- Talk on clustering and dimensionality reduction at the ACS 'homeshow': [Youtube](https://www.youtube.com/embed/MSIDmYhqe5g).
 
 **Example workflows and tutorials**:
 - Spectre Discovery analysis for mass and flow cytometry data: [Protocol](https://wiki.centenary.org.au/x/k-kiCw)
