@@ -98,11 +98,24 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 
 </div>
 
+<br />
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-46-9.png?version=1&modificationDate=1613891282510&api=v2" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
 [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). 2020. TM Ashhurst\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... bioRxiv.
 
 - Presentation at the Oz Single Cell webinar series: [computational biology](https://youtu.be/poEDERGXrQw?t=3148).
 - Code available from our [Github page](https://github.com/ImmuneDynamics/spectre)
 - Protocols and instructions available on the [Spectre Home Page](https://wiki.centenary.org.au/display/SPECTRE).
+
+<br />
+<br />
 
 [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold, TM Ashhurst, AL Smith, NJC King. Cytometry Part A
 
