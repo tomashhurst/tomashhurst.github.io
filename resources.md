@@ -56,7 +56,7 @@ permalink: /resources/
     </div>
 </div>
 
-[**ACS and ASI 'High-Dimensional Analysis Roadshow 2020**](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/): We have transformed the popular annual Roadshow to a virtual Homeshow, supported by the Australia and New Zealand Society for Immunology (ASI) 'Systems Immonology' Special Interest Group. The topic will cover “High Dimensional Data Analysis Strategies”). 
+[**ACS and ASI 'High-Dimensional Analysis Roadshow 2020**](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/): We have transformed the popular annual Roadshow to a virtual Homeshow, supported by the Australia and New Zealand Society for Immunology (ASI) 'Systems Immonology' Special Interest Group. The topic will cover “High Dimensional Data Analysis Strategies”). Presented by [Thomas Ashhurst](tomashhurst.github.io), [Felix Marsh-Wakefield](https://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en), and [Givanna Putri](https://scholar.google.com/citations?user=S-sNLPIAAAAJ&hl=en).
 
 **Links**:
 - [Presentation](https://youtu.be/MSIDmYhqe5g): Recording of the 'Clustering and Dimensionality Reduction' talk.
