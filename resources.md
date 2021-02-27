@@ -41,8 +41,6 @@ permalink: /resources/
 
 [**Sydney Cytometry - Extranet Resources**](https://wiki.centenary.org.au/display/RESOURCES): This resources site from the Sydney Cytometry Facility hosts a number of protocols and resources developed by facility staff and users. To request access to the extranet, please see [this link](https://forms.gle/UQCXLt1Q7p5Yv82V8).
 
-<br />
-
 **Protocols featured in publications**:
 - Basic and high-dimensional panel design. Paper: [basic panel design](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract), paper: [high-dimensional panel design](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37).
 - Flow cytometry staining protocol for mouse bone marrow: [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12).
