@@ -17,8 +17,6 @@ Oz Single Cell 2020, Computational biology.
 
 <br />
 
-<br />
-
 **[Mapping Immunity Across Time, Space and Disease State](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics)**
 Fluidigm webinar 2020. Featured on the '[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)' page.
 
@@ -26,11 +24,14 @@ Fluidigm webinar 2020. Featured on the '[COVID-19 resources](https://www.fluidig
 
 <br />
 
-<br />
-
 **[ACS and ASI 'High-Dimensional Analysis Roadshow 2020](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/)** 
 Presented by [Thomas Ashhurst](tomashhurst.github.io), [Felix Marsh-Wakefield](https://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en), and [Givanna Putri](https://scholar.google.com/citations?user=S-sNLPIAAAAJ&hl=en).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MSIDmYhqe5g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
+
+***Related links***
 - [ASI Newsletter report](https://www.immunology.org.au/files/Newsletter_pdfs/ASI017_Dec_2020.pdf#page=35) (page 35)
 - [Recording of the 'Clustering and Dimensionality Reduction' talk](https://youtu.be/MSIDmYhqe5g)
 - [Recordings for all talks](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/) (available to ASI/ACS members)
