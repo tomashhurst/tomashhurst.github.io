@@ -20,6 +20,11 @@ permalink: /resources/
 
 [**SPECTRE**](https://wiki.centenary.org.au/display/SPECTRE): an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments ([Ashhurst\*,  Marsh-Wakefield\*, Putri\* et al. 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract))
 
+**Example workflows and tutorials**:
+- Spectre Discovery analysis for mass and flow cytometry data: [Link](https://wiki.centenary.org.au/x/k-kiCw).
+- Clustering and dimensionality reduction approaches in FlowJo: [Link](https://wiki.centenary.org.au/x/mYGoBw).
+- Cell segmentation and spatial analysis of Imaging Mass Cytometry (IMC) data: [Link](https://wiki.centenary.org.au/display/SPECTREMAP).
+
 <br />
 
 ---
@@ -40,12 +45,12 @@ permalink: /resources/
 
 **Protocols featured in publications**:
 - Basic and high-dimensional panel design. Paper: [basic panel design](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract), paper: [high-dimensional panel design](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37).
-- Flow cytometry staining protocol for mouse bone marrow. [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12).
-- Voltage optimisation. [Paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37).
-- The impact of adjusting PMT voltages on spillover, compensation, and spreading error. [Webinar](https://sydneycytometry.org.au/seminars-and-tutorials), [paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37).
-- Spectral vs conventional cytometry. [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 
-- A collection of mass cytometry protocols. [Book](https://link.springer.com/book/10.1007/978-1-4939-9454-0).
-- Mass cytometry staining protocol for mouse bone marrow. [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12).
+- Flow cytometry staining protocol for mouse bone marrow: [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12).
+- Voltage optimisation: [Paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37).
+- The impact of adjusting PMT voltages on spillover, compensation, and spreading error: [Webinar](https://sydneycytometry.org.au/seminars-and-tutorials), [paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37).
+- Spectral vs conventional cytometry: [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 
+- A collection of mass cytometry protocols: [Book](https://link.springer.com/book/10.1007/978-1-4939-9454-0).
+- Mass cytometry staining protocol for mouse bone marrow: [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12).
 
 <br />
 
