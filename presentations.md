@@ -6,12 +6,6 @@ permalink: /presentations/
 
 ---
 
-![Presentations](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Presentations.jpeg)
-
-<br />
-
----
-
 **[Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://youtu.be/poEDERGXrQw?t=3151)**
 
 Oz Single Cell 2020, Computational biology.
