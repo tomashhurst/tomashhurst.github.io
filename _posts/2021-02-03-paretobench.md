@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using single-cell cytometry to illustrate integrated multi-perspective evaluation of clustering algorithms using Pareto fronts
+title: 2021-02-03 - 'Using single-cell cytometry to illustrate integrated multi-perspective evaluation of clustering algorithms using Pareto fronts' published
 ---
 
 ![Figure](https://pbs.twimg.com/media/EtRDeQsVgAAyJil?format=jpg&name=medium)
