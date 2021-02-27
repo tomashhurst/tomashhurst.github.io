@@ -36,9 +36,9 @@ permalink: /resources/
 
 <br />
 
-&nbsp;**Protocols included**:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Protocols included**:
 
-- [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12): Mass and flow cytometry staining protocol for mouse bone marrow. Mass cytometry: methods and protocols, chapter 12. Analysis of the Murine Bone Marrow Hematopoietic System Using Mass and Flow Cytometry.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12): Mass and flow cytometry staining protocol for mouse bone marrow. Mass cytometry: methods and protocols, chapter 12. Analysis of the Murine Bone Marrow Hematopoietic System Using Mass and Flow Cytometry.
 - [Paper](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract): Basic panel design. Current Protocols in Immunology, Unit 5.4
 - [Paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37): High-dimensional panel design. Current Protocols in Immunology, Unit 5.8
 - [Tutorial](https://sydneycytometry.org.au/seminars-and-tutorials): The impact of adjusting PMT voltages on spillover and compensation.
