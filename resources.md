@@ -68,3 +68,16 @@ permalink: /resources/
 - [Webpage](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/): ASI 'Systems Immunologty' special interest group page
 
 <br />
+
+<br />
+
+<p>
+<img src="https://wiki.centenary.org.au/download/attachments/146080606/Spectre%20wide.png?version=1&modificationDate=1614253260985&api=v2" alt="Example" width="175" align="left">
+Aligns to the left
+<br>
+The image floats to the left.
+<br>
+And the text wraps to the right of the image.
+<br clear="left">
+Clears the left
+</p>
