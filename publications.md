@@ -31,6 +31,8 @@ permalink: /publications/
 
 </div>
 
+<br />
+
 <div class='row'>
     <div class="image">
         <a href="#">
@@ -71,7 +73,18 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 <br />
 <br />
 
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://pbs.twimg.com/media/EtRDeQsVgAAyJil?format=jpg&name=medium" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
 [Using single-cell cytometry to illustrate integrated multi-perspective evaluation of clustering algorithms using Pareto fronts](https://doi.org/10.1093/bioinformatics/btab038). 2021. GH Putri, I Koprinska, TM Ashhurst, NJC King, MN Read. Bioinformatics
+
+<br />
+<br />
 
 <div align="center">
  
