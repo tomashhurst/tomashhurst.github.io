@@ -29,8 +29,6 @@ permalink: /resources/
 
 ---
 
-<br />
-
 <div class='row'>
     <div class="image">
         <a href="#">
@@ -53,8 +51,6 @@ permalink: /resources/
 <br />
 
 ---
-
-<br />
 
 <div class='row'>
     <div class="image">
