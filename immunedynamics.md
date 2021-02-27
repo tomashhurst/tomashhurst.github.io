@@ -27,7 +27,7 @@ We apply our high-dimensional technologies and analysis approaches to study infl
         </a>
     </div>
     <div class="text">
-        <p>asdfer</p>
+        <p>[SPECTRE](https://wiki.centenary.org.au/display/SPECTRE), an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments ([Ashhurst\*,  Marsh-Wakefield\*, Putri\* et al. 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract))</p>
     </div>
 </div>
 
@@ -42,7 +42,7 @@ We apply our high-dimensional technologies and analysis approaches to study infl
         </a>
     </div>
     <div class="text">
-        <p>asdfer</p>
+        <p>[SPECTRE](https://wiki.centenary.org.au/display/SPECTRE), an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments ([Ashhurst\*,  Marsh-Wakefield\*, Putri\* et al. 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract))</p>
     </div>
 </div>
 
@@ -57,7 +57,7 @@ We apply our high-dimensional technologies and analysis approaches to study infl
         </a>
     </div>
     <div class="text">
-        <p>asdfer</p>
+        <p>[SPECTRE](https://wiki.centenary.org.au/display/SPECTRE), an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments ([Ashhurst\*,  Marsh-Wakefield\*, Putri\* et al. 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract))</p>
     </div>
 </div>
 
