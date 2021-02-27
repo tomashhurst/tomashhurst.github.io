@@ -78,6 +78,8 @@ Aligns to the left
 The image floats to the left.
 <br>
 And the text wraps to the right of the image.
+And the text wraps to the right of the image.
+And the text wraps to the right of the image.
 <br clear="left">
 Clears the left
 </p>
