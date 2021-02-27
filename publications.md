@@ -74,19 +74,13 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 
 <div align="center">
  
-  <b>2018</b>
+  <b>2012 - 2018</b>
 
 </div>
 
 [Collateral Damage: What Effect Does Anti-CD4 and Anti-CD8α Antibody–Mediated Depletion Have on Leukocyte Populations?](https://www.jimmunol.org/content/201/7/2176.abstract) 2018. SR Jung, T Suprunenko, TM Ashhurst, NJC King, MJ Hofer. The Journal of Immunology 201 (7), 2176-2186
 
 [Varicella zoster virus productively infects human natural killer cells and manipulates phenotype](https://journals.plos.org/plospathogens/article?rev=1&id=10.1371/journal.ppat.1006999). 2018. TM Campbell, BP McSharry, M Steain, TM Ashhurst, B Slobedman, ... PLoS pathogens 14 (4), e1006999
-
-<div align="center">
- 
-  <b>2012 - 2017</b>
-
-</div>
 
 [IRF9 Prevents CD8+ T cell exhaustion in an extrinsic manner during acute Lymphocytic choriomeningitis virus infection](https://jvi.asm.org/content/91/22/e01219-17.short). 2017. M Huber, T Suprunenko, T Ashhurst, F Marbach, H Raifer, S Wolff, ... Journal of Virology 91 (22)
 
