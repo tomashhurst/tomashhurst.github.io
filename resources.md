@@ -10,29 +10,29 @@ permalink: /resources/
 
 <br />
 
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://wiki.centenary.org.au/download/attachments/146080606/Spectre%20wide.png?version=1&modificationDate=1614253260985&api=v2" alt="icon" width="175" align="left">
-        </a>
-    </div>
-</div>
-
 [**SPECTRE**](https://wiki.centenary.org.au/display/SPECTRE): an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments ([Ashhurst\*,  Marsh-Wakefield\*, Putri\* et al. 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract))
 
-<br />
-
-<br />
-
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://images.squarespace-cdn.com/content/4f5013cf24ac3afbd1aa0384/1449533180720-Q8AMXEWY5ZQNJRS5LB8K/Sydney+Cytometry+No+White+Space.png?format=1500w&content-type=image%2Fpng" alt="icon" width="175" align="left">
+            <img src="https://wiki.centenary.org.au/download/attachments/146080606/Spectre%20wide.png?version=1&modificationDate=1614253260985&api=v2" alt="icon" width="175" align="right">
         </a>
     </div>
 </div>
 
+<br />
+
+<br />
+
 [**Sydney Cytometry - Extranet Resources**](https://wiki.centenary.org.au/display/RESOURCES): This resources site from the Sydney Cytometry Facility hosts a number of protocols and resources developed by facility staff and users.
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://images.squarespace-cdn.com/content/4f5013cf24ac3afbd1aa0384/1449533180720-Q8AMXEWY5ZQNJRS5LB8K/Sydney+Cytometry+No+White+Space.png?format=1500w&content-type=image%2Fpng" alt="icon" width="175" align="right">
+        </a>
+    </div>
+</div>
 
 Protocols included:
 
