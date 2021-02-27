@@ -13,7 +13,7 @@ permalink: /resources/
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://wiki.centenary.org.au/download/attachments/146080606/Spectre%20wide.png?version=1&modificationDate=1614253260985&api=v2" alt="icon" width="175" align="right">
+            <img src="https://wiki.centenary.org.au/download/attachments/146080606/Spectre%20wide.png?version=1&modificationDate=1614253260985&api=v2" alt="icon" width="250" align="right">
         </a>
     </div>
 </div>
@@ -27,7 +27,7 @@ permalink: /resources/
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://images.squarespace-cdn.com/content/4f5013cf24ac3afbd1aa0384/1449533180720-Q8AMXEWY5ZQNJRS5LB8K/Sydney+Cytometry+No+White+Space.png?format=1500w&content-type=image%2Fpng" alt="icon" width="175" align="right">
+            <img src="https://images.squarespace-cdn.com/content/4f5013cf24ac3afbd1aa0384/1449533180720-Q8AMXEWY5ZQNJRS5LB8K/Sydney+Cytometry+No+White+Space.png?format=1500w&content-type=image%2Fpng" alt="icon" width="250" align="right">
         </a>
     </div>
 </div>
@@ -52,7 +52,7 @@ permalink: /resources/
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://cytometry.org.au/wp-content/uploads/2018/05/cropped-169572_medium.jpg" alt="icon" width="175" align="right">
+            <img src="https://cytometry.org.au/wp-content/uploads/2018/05/cropped-169572_medium.jpg" alt="icon" width="250" align="right">
         </a>
     </div>
 </div>
