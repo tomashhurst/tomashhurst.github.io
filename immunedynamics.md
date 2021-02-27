@@ -71,7 +71,7 @@ We apply our high-dimensional technologies and analysis approaches to study infl
             <img src="https://wiki.centenary.org.au/download/attachments/146080604/SPECTRE?version=6&modificationDate=1588780080372&api=v2" alt="belahotellforside" width="100" align="left">
         </a>
     </div>
-    <span class="text">
+    <span>
         <p>[SPECTRE](https://wiki.centenary.org.au/display/SPECTRE), an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments ([Ashhurst\*,  Marsh-Wakefield\*, Putri\* et al. 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract))</p>
     </span>
 </div>
