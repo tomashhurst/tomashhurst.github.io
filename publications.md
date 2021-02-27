@@ -42,7 +42,7 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 
 <div align="center">
  
-  2020
+  <b>2020</b>
 
 </div>
 
@@ -56,7 +56,7 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 
 <div align="center">
  
-  2019
+  <b>2019</b>
 
 </div>
 
@@ -74,7 +74,7 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 
 <div align="center">
  
-  2018
+  <b>2018</b>
 
 </div>
 
@@ -84,7 +84,7 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 
 <div align="center">
  
-  2012 - 2017
+  <b>2012 - 2017</b>
 
 </div>
 
