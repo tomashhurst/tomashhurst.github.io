@@ -13,7 +13,7 @@ permalink: /resources/
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://wiki.centenary.org.au/download/attachments/146080606/Spectre%20wide.png?version=1&modificationDate=1614253260985&api=v2" alt="icon" width="175" align="right">
+            <img src="https://wiki.centenary.org.au/download/attachments/146080606/Spectre%20wide.png?version=1&modificationDate=1614253260985&api=v2" alt="icon" width="175" align="left">
         </a>
     </div>
 </div>
@@ -27,14 +27,16 @@ permalink: /resources/
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://images.squarespace-cdn.com/content/4f5013cf24ac3afbd1aa0384/1449533180720-Q8AMXEWY5ZQNJRS5LB8K/Sydney+Cytometry+No+White+Space.png?format=1500w&content-type=image%2Fpng" alt="icon" width="175" align="right">
+            <img src="https://images.squarespace-cdn.com/content/4f5013cf24ac3afbd1aa0384/1449533180720-Q8AMXEWY5ZQNJRS5LB8K/Sydney+Cytometry+No+White+Space.png?format=1500w&content-type=image%2Fpng" alt="icon" width="175" align="left">
         </a>
     </div>
 </div>
 
 [**Sydney Cytometry - Extranet Resources**](https://wiki.centenary.org.au/display/RESOURCES): This resources site from the Sydney Cytometry Facility hosts a number of protocols and resources developed by facility staff and users.
 
-Protocols included:
+<br />
+
+**Protocols included**:
 
 - [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12): Mass and flow cytometry staining protocol for mouse bone marrow. Mass cytometry: methods and protocols, chapter 12. Analysis of the Murine Bone Marrow Hematopoietic System Using Mass and Flow Cytometry.
 - [Paper](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract): Basic panel design. Current Protocols in Immunology, Unit 5.4
