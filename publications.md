@@ -83,6 +83,8 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 
 [Using single-cell cytometry to illustrate integrated multi-perspective evaluation of clustering algorithms using Pareto fronts](https://doi.org/10.1093/bioinformatics/btab038). 2021. GH Putri, I Koprinska, TM Ashhurst, NJC King, MN Read. Bioinformatics
 
+- Code available from the [Github repository](https://github.com/ghar1821/ParetoBench).
+
 <br />
 <br />
 <br />
