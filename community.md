@@ -18,7 +18,7 @@ permalink: /community/
 
 We are actively involved in the [Human Cell Atlas (HCA)](https://www.humancellatlas.org/) community, including attendance at HCA general meetings in Hinxton, UK (2018), and [Tokyo, Japan (2019)](https://youtu.be/xYqd2w_aRH0?t=327), seeking to help define the contribution of high-dimensional cytometry and imaging technologies to the HCA objectives. We also presented on Spectre, one of our computational tools, at the [HCA Asia meeting](https://youtu.be/95dy_p5FFck?t=15491) (virtual) in 2020.
 
-<p align="center"><iframe class="vidyard_iframe" src="https://youtu.be/xYqd2w_aRH0?t=327" width=560 height=315 scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe></p>
+<p align="center"><iframe class="vidyard_iframe" src="https://youtu.be/95dy_p5FFck?t=15491" width=560 height=315 scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe></p>
 
 <br />
 
