@@ -26,20 +26,7 @@ Critical to investigating complex immune responses to disease is the capacity to
 
 <br />
 
-<div class="image123">
-    <div class="imgContainer">
-        <img src="https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/HCA_logo.png?raw=true" height="200" width="200"/>
-        <p>This is image 1</p>
-    </div>
-    <div class="imgContainer">
-        <img class="middle-img" src="https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/HCA_hinxton.jpg?raw=true"/ height="200" width="200"/>
-        <p>This is image 2</p>
-    </div>
-    <div class="imgContainer">
-         <img src="https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/HCA_Tokyo.png?raw=true"/ height="200" width="200"/>
-        <p>This is image 3</p>
-    </div>
-</div>
+![HD](https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/HCA%20wide.png?raw=true)
 
 <br />
 
