@@ -18,6 +18,14 @@ This work is summarised in the following four sections (below):
 
 An overview of this work can be found in this **[Fluidigm webinar 2020](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics)**, featured on the '[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)' page, and this **[Oz Single Cell webinar 2020](https://youtu.be/poEDERGXrQw?t=3151)** on computational biology.
 
+<div class="box">
+  <iframe class="vidyard_iframe" src="//play.vidyard.com/4A9gczgzSZrmMa2q5Tyuvf.html?" width=560 height=315 scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen>
+</div>
+
+<div class="box">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/poEDERGXrQw?start=3151" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <p align="center"><iframe class="vidyard_iframe" src="//play.vidyard.com/4A9gczgzSZrmMa2q5Tyuvf.html?" width=560 height=315 scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe></p>
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/poEDERGXrQw?start=3151" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
