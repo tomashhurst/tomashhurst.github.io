@@ -73,7 +73,6 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 [Intrapulmonary vaccination with delta-inulin adjuvant stimulates non-polarised chemotactic signalling and diverse cellular interaction](https://doi.org/10.1038/s41385-021-00379-6). 2021. KC Ferrell, EL Stewart, C Counoupas, TM Ashhurst, WJ Britton, N Petrovsky, JA Triccas. Mucosal Immunology.
 
 <br />
-<br />
 
 <div class='row'>
     <div class="image">
