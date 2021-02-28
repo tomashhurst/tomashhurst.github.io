@@ -53,5 +53,12 @@ We have taken a key role in two roadshows hosted by the [Australasian Cytometry 
 
 ---
 
+<p align="center"><iframe class="vidyard_iframe" src="//play.vidyard.com/4A9gczgzSZrmMa2q5Tyuvf.html?" width=560 height=315 scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe></p>
+
+**[Fluidigim IMC interview](https://share.vidyard.com/watch/zkoHBRGkujiSHA2FYBmSPQ?)**
+
+Fluidigm interview 2019. Featured on the Fluidigm '[IMC interviews](https://www.fluidigm.com/articles/imaging-mass-cytometry-interviews)' page.
+
+
 <br />
 
