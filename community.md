@@ -6,9 +6,17 @@ permalink: /community/
 
 ---
 
+### Human Cell Atlas ###
+
+---
+
 ![HCA](https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/HCA%20wide.png?raw=true)
 
 We are actively involved in the [Human Cell Atlas (HCA)](https://www.humancellatlas.org/) community, including attendance at HCA general meetings in Hinxton, UK (2018), and [Tokyo, Japan (2019)](https://youtu.be/xYqd2w_aRH0?t=327), seeking to help define the contribution of high-dimensional cytometry and imaging technologies to the HCA objectives. We also presented on Spectre, one of our computational tools, at the [HCA Asia meeting](https://youtu.be/95dy_p5FFck?t=15491) (virtual) in 2020.
+
+### Australasian Cytometry Society (ACS) - roadshows ###
+
+---
 
 ![Roadshows](https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/Roadshows.png?raw=true)
 
