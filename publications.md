@@ -60,7 +60,6 @@ Authoritative and cutting-edge, Mass Cytometry: Methods and Protocols aims to en
 Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, AJ Mitchell, SE Norton, TM Ashhurst, JKH Leman, JM Roberts, JE Harte, HM McGuire, RA Kemp. Immunology & Cell Biology, *accepted*.
 
 <br />
-<br />
 
 <div class='row'>
     <div class="image">
