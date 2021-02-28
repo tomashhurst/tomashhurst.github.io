@@ -10,16 +10,13 @@ permalink: /research/
 
 **Overview**: my research involves the development and application of a range of [high-dimensional single-cell cytometry/imaging technologies and assays](https://tomashhurst.github.io/research/#high-dimensional-cytometry-and-imaging-technologies), as well as [computational analysis approaches](https://tomashhurst.github.io/research/#computational-analysis-approaches), to map dynamic immune responses over time, space, and disease. My team and I collaboratively apply these approaches to the study of immunology and infectious disease, including emerging pathogens such as [SARS-CoV-2 and COVID-19](https://tomashhurst.github.io/research/#application-to-disease), [Zika virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis, and [West Nile virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis.
 
-**An overview of this work can be found in these key presentations**:
-- [Fluidigm Webinar](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics): 'Mapping Immunity Across Time, Space and Disease State' (2020). 
-- [Oz Single Cell webinar](https://youtu.be/poEDERGXrQw?t=3151): 'Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre' (2020). 
+An overview of this work can be found in this [Fluidigm Webinar](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics)(Mapping Immunity Across Time, Space and Disease State, 2020) or this [Oz Single Cell webinar](https://youtu.be/poEDERGXrQw?t=3151) (Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre, 2020). 
 
-**This is broken down into four key areas below**:
-- 1. [High-dimensional cytometry and imaging technologies](https://tomashhurst.github.io/research/#high-dimensional-cytometry-and-imaging-technologies)
-- 2. [Computational analysis approaches](https://tomashhurst.github.io/research/#computational-analysis-approaches)
-- 3. [Application to disease](https://tomashhurst.github.io/research/#application-to-disease )
-- 4. [Engagement in the Human Cell Atlas (HCA) and other communities]()
-
+**This work is summarised in these four areas**:
+1. [High-dimensional cytometry and imaging technologies](https://tomashhurst.github.io/research/#high-dimensional-cytometry-and-imaging-technologies)
+2. [Computational analysis approaches](https://tomashhurst.github.io/research/#computational-analysis-approaches)
+3. [Application to disease](https://tomashhurst.github.io/research/#application-to-disease)
+4. [Engagement in the Human Cell Atlas (HCA) and other communities](https://tomashhurst.github.io/research/#Engagement-in-the-Human-Cell-Atlas-(HCA)-and-other-communities)
 
 <br />
 
