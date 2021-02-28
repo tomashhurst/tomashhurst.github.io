@@ -10,7 +10,15 @@ permalink: /community/
 
 <br />
 
-### Human Cell Atlas (HCA) ###
+I am an active member of a number of societies and communities, including:
+- The [Human Cell Atlas (HCA)](https://tomashhurst.github.io/community/#human-cell-atlas) community
+- The Australasian Cytometry Society (ACS)
+- The Australia and New Zealand Society for Immunology (ASI)
+- The Oz Single Cell (OSC) community
+- The International Society for the Advancement of Cytometry (ISAC)
+- The Imaging Mass Cytometry (IMC) users community
+
+### Human Cell Atlas ###
 
 ---
 
@@ -22,7 +30,7 @@ We are actively involved in the [Human Cell Atlas (HCA)](https://www.humancellat
 
 <br />
 
-### Australasian Cytometry Society (ACS) ###
+### Australasian Cytometry Society ###
 
 ---
 
@@ -35,7 +43,7 @@ We have taken a key role in two roadshows hosted by the [Australasian Cytometry 
 
 <br />
 
-### Imaging Mass Cytometry (IMC) community ###
+### Imaging Mass Cytometry community ###
 
 ---
 
@@ -45,7 +53,7 @@ We have taken a key role in two roadshows hosted by the [Australasian Cytometry 
 
 <br />
 
-### Oz Single Cell (OSC) ###
+### Oz Single Cell ###
 
 ---
 
@@ -53,14 +61,14 @@ We have taken a key role in two roadshows hosted by the [Australasian Cytometry 
 
 <br />
 
-### International Society for the Advancement of Immunology (ISAC) ###
+### International Society for the Advancement of Immunology ###
 
 ---
 
 <br />
 
 
-### Australia and New Zealand Society for Immunology (ASI) ###
+### Australia and New Zealand Society for Immunology ###
 
 ---
 
