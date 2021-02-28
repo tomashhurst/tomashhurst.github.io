@@ -117,11 +117,43 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 <br />
 <br />
 
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/Niewold%202020.png?raw=true" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
 [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold, TM Ashhurst, AL Smith, NJC King. Cytometry Part A
+
+<br />
+<br />
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/Marsh-Wakefield%202020.png?raw=true" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
 
 [IgG3+ B cells are associated with the development of multiple sclerosis](https://onlinelibrary.wiley.com/doi/abs/10.1002/cti2.1133). 2020. F Marsh‐Wakefield, T Ashhurst, S Trend, HM McGuire, P Juillard, A Zinger, ... Clinical & Translational Immunology 9 (5), e01133
 
+<br />
+<br />
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/Jung%202020.png?raw=true" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
 [Contribution of STAT1 to innate and adaptive immunity during type I interferon-mediated lethal virus infection](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008525&rev=1). 2020. SR Jung, TM Ashhurst, PK West, B Viengkhou, NJC King, IL Campbell, ... PLoS Pathogens 16 (4), e1008525
+
+<br />
 
 <div align="center">
  
