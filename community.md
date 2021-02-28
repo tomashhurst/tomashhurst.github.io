@@ -6,6 +6,10 @@ permalink: /community/
 
 ---
 
+![Presentations](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Presentations.jpeg)
+
+<br />
+
 ### Human Cell Atlas (HCA) ###
 
 ---
