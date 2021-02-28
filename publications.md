@@ -164,6 +164,8 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 
 </div>
 
+<br />
+
 [Zika virus encephalitis in immunocompetent mice is dominated by innate immune cells and does not require T or B cells](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5). 2019. E Hayashida, ZL Ling, TM Ashhurst, B Viengkhou, SR Jung, ... Journal of Neuroinflammation 16 (1), 1-15
 
 [Dimensionality Reduction for Clustering and Cluster Tracking of Cytometry Data](https://link.springer.com/chapter/10.1007/978-3-030-30490-4_50). 2019. GH Putri, MN Read, I Koprinska, TM Ashhurst, NJC King. International Conference on Artificial Neural Networks, 624-640
@@ -181,6 +183,8 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
   <b>2012 - 2018</b>
 
 </div>
+
+<br />
 
 [Collateral Damage: What Effect Does Anti-CD4 and Anti-CD8α Antibody–Mediated Depletion Have on Leukocyte Populations?](https://www.jimmunol.org/content/201/7/2176.abstract) 2018. SR Jung, T Suprunenko, TM Ashhurst, NJC King, MJ Hofer. The Journal of Immunology 201 (7), 2176-2186
 
