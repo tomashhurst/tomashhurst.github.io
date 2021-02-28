@@ -30,6 +30,10 @@ Critical to investigating complex immune responses to disease is the capacity to
 
 <br />
 
+We are actively involved in the [Human Cell Atlas (HCA)](https://www.humancellatlas.org/) community, including attendance at HCA general meetings in [Hinxton, UK (2018)](https://www.humancellatlas.org/hcameetings/), and [Tokyo, Japan (2019)](https://www.humancellatlas.org/hcameetings/), seeking to help define the contribution of high-dimensional cytometry and imaging technologies to the HCA objectives.
+
+<br />
+
 ### Computational analysis approaches ###
 
 ---
