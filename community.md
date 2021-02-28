@@ -8,9 +8,9 @@ permalink: /community/
 
 ![Presentations](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Presentations.jpeg)
 
-<br />
-
 I am engaged with a number of societies and communities, including the [Human Cell Atlas (HCA)](https://tomashhurst.github.io/community/#human-cell-atlas) community, the International Society for the Advancement of Cytometry (ISAC), the Australasian Cytometry Society (ACS), the Australia and New Zealand Society for Immunology (ASI), the Oz Single Cell (OSC) community, and the Imaging Mass Cytometry (IMC) users community.
+
+<br />
 
 ## Significant presentations and activities ##
 
