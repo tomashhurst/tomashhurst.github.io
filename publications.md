@@ -29,7 +29,7 @@ permalink: /publications/
 
 <div align="center">
  
-  <b>2021</b>
+  <b><font size="+2">2021</font></b>
 
 </div>
 
