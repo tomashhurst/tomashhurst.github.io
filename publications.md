@@ -20,7 +20,7 @@ permalink: /publications/
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4939-9454-0" alt="icon" width="210" align="right">
+            <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4939-9454-0" alt="icon" width="180" align="right">
         </a>
     </div>
 </div>
