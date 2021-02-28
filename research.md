@@ -10,9 +10,16 @@ permalink: /research/
 
 **Overview**: my research involves the development and application of a range of [high-dimensional single-cell cytometry/imaging technologies and assays](https://tomashhurst.github.io/research/#high-dimensional-cytometry-and-imaging-technologies), as well as [computational analysis approaches](https://tomashhurst.github.io/research/#computational-analysis-approaches), to map dynamic immune responses over time, space, and disease. My team and I collaboratively apply these approaches to the study of immunology and infectious disease, including emerging pathogens such as [SARS-CoV-2 and COVID-19](https://tomashhurst.github.io/research/#application-to-disease), [Zika virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis, and [West Nile virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis.
 
-An overview of this work can be found in these key presentations:
+**An overview of this work can be found in these key presentations**:
 - [Fluidigm Webinar](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics): 'Mapping Immunity Across Time, Space and Disease State' (2020). 
 - [Oz Single Cell webinar](https://youtu.be/poEDERGXrQw?t=3151): 'Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre' (2020). 
+
+**This is broken down into four key areas below**:
+- 1. [High-dimensional cytometry and imaging technologies](https://tomashhurst.github.io/research/#high-dimensional-cytometry-and-imaging-technologies)
+- 2. [Computational analysis approaches](https://tomashhurst.github.io/research/#computational-analysis-approaches)
+- 3. [Application to disease](https://tomashhurst.github.io/research/#application-to-disease )
+- 4. [Engagement in the Human Cell Atlas (HCA) and other communities]()
+
 
 <br />
 
@@ -23,10 +30,6 @@ An overview of this work can be found in these key presentations:
 ![HD](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Tech.png)
 
 Critical to investigating complex immune responses to disease is the capacity to measure cells at the single-cell level, examining multiple features of the cell simultaneously. To address this, we develop and apply a variety of high-dimensional cytometry technologies and assays. We have developed novel technology platforms, such as our world first [10-laser ‘LSR-X’ platform](https://sydneycytometry.org.au/hdflow) developed with BD, and one of the first published 25 colour flow cytometry assays ([Ashhurst et al. 2017](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37)). We also developed the first assays to be used on [Australia’s first mass cytometer (CyTOF)](https://www.immunology.org.au/files/Newsletter_pdfs/ASI_NL_March_2015.pdf) ([Ashhurst et al. 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)), as well as Australia’s first Imaging Mass Cytometer (IMC, [SpectreMAP Github](https://github.com/ImmuneDynamics/SpectreMAP)). Most recently, we have implemented high-dimensional spectral cytometry platforms and panels, and performed comprehensive evaluations of both conventional and spectral cytometry ([Niewold\*, Ashhurst\* et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211)). 
-
-![HD](https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/HCA%20wide.png?raw=true)
-
-We are actively involved in the [Human Cell Atlas (HCA)](https://www.humancellatlas.org/) community, including attendance at HCA general meetings in [Hinxton, UK (2018)](https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/HCA_hinxton.jpg?raw=true), and [Tokyo, Japan (2019)](https://youtu.be/xYqd2w_aRH0?t=327), seeking to help define the contribution of high-dimensional cytometry and imaging technologies to the HCA objectives. We also presented on Spectre, one of our computational tools, at the [HCA Asia meeting](https://youtu.be/95dy_p5FFck?t=15491) (virtual) in 2020.
 
 <br />
 
@@ -63,6 +66,16 @@ In mouse models of viral encephalitis, our work has demonstrated that inflammato
 **Immunology**
 
 Through various collaborations, we have applied our approaches in a number of areas, such as IRF8 depletion ([Terry et al. 2015](https://www.karger.com/Article/Abstract/365972)), T cell exhaustion in LCMV infection ([Huber et al. 2017](https://jvi.asm.org/content/91/22/e01219-17.short)), VZV infection of NK cells ([Campbell et al. 2018](https://journals.plos.org/plospathogens/article?rev=1&id=10.1371/journal.ppat.1006999)), antibody-mediated cell subset depletion ([Jung et al. 2018](https://www.jimmunol.org/content/201/7/2176.abstract)), interferon-mediated lethality in LCMV infection ([Jung et al. 2020](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008525&rev=1)), B cell responses in multiple sclerosis ([Marsh-Wakefield et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/cti2.1133)), and intrapulmonary vaccination strategies ([Ferrell et al. 2021](https://doi.org/10.1038/s41385-021-00379-6)).
+
+<br />
+
+### Engagement in the Human Cell Atlas (HCA) and other communities ###
+
+---
+
+![HCA](https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/HCA%20wide.png?raw=true)
+
+We are actively involved in the [Human Cell Atlas (HCA)](https://www.humancellatlas.org/) community, including attendance at HCA general meetings in [Hinxton, UK (2018)](https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/HCA_hinxton.jpg?raw=true), and [Tokyo, Japan (2019)](https://youtu.be/xYqd2w_aRH0?t=327), seeking to help define the contribution of high-dimensional cytometry and imaging technologies to the HCA objectives. We also presented on Spectre, one of our computational tools, at the [HCA Asia meeting](https://youtu.be/95dy_p5FFck?t=15491) (virtual) in 2020.
 
 <br />
 
