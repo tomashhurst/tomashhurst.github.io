@@ -41,7 +41,7 @@ An overview of this work can be found in this **[Fluidigm webinar 2020](https://
 <br />
 <br />
 
-### High-dimensional cytometry and imaging technologies ###
+## High-dimensional cytometry and imaging technologies ##
 
 ---
 
@@ -51,7 +51,7 @@ Critical to investigating complex immune responses to disease is the capacity to
 
 <br />
 
-### Computational analysis approaches ###
+## Computational analysis approaches ##
 
 ---
 
@@ -61,7 +61,7 @@ Following a seed funding grant from the [Marie Bashir Institute for Infectious D
 
 <br />
 
-### Application to disease ###
+## Application to disease ##
 
 ---
 
@@ -87,7 +87,7 @@ Through various collaborations, we have applied our approaches in a number of ar
 
 <br />
 
-### Engagement in the Human Cell Atlas and other communities ###
+## Engagement in the Human Cell Atlas and other communities ##
 
 ---
 
