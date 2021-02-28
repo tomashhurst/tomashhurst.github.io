@@ -74,6 +74,7 @@ https://www.fluidigm.com/articles/imc-user-group-meeting-2019-recap
 <p align="center"><iframe class="vidyard_iframe" src="//play.vidyard.com/jc84nXuBpcofBcDkGeLQSo.html?" width=560 height=315 scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe></p>
 
 https://www.fluidigm.com/articles/imaging-mass-cytometry-interviews
+https://share.vidyard.com/watch/zkoHBRGkujiSHA2FYBmSPQ?
 <p align="center"><iframe class="vidyard_iframe" src="//play.vidyard.com/zkoHBRGkujiSHA2FYBmSPQ.html?" width=560 height=315 scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe></p>
 
 <br />
