@@ -26,6 +26,20 @@ Critical to investigating complex immune responses to disease is the capacity to
 
 <br />
 
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/HCA_logo.png?raw=true" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/HCA_hinxton.jpg?raw=true" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/HCA_Tokyo.png?raw=true" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
+<br />
+
 ### Computational analysis approaches ###
 
 ---
