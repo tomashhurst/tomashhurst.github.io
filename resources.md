@@ -36,10 +36,11 @@ permalink: /resources/
     </div>
 </div>
 
-[**COMPUTATIONAL ANALYSIS**](https://wiki.centenary.org.au/display/SPECTRE): here we provide resources to facilitate computational analysis of high-dimensional cytometry data.
+[**COMPUTATIONAL ANALYSIS**](https://wiki.centenary.org.au/display/SPECTRE): here we provide resources to facilitate computational analysis of high-dimensional cytometry data, including [Spectre](https://wiki.centenary.org.au/display/SPECTRE), an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments.
 
-**Spectre R package**: An R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments ([Ashhurst\*,  Marsh-Wakefield\*, Putri\* et al. bioRxiv. 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract))
+**Spectre R package**: 
 
+- Pre-print: [Ashhurst\*,  Marsh-Wakefield\*, Putri\* et al. bioRxiv. 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract).
 - Protocols and instructions: [website](https://wiki.centenary.org.au/display/SPECTRE).
 - Presentation on Spectre at Oz Single Cell 2020, 'Computational Biology': [Youtube](https://youtu.be/poEDERGXrQw?t=3151).
 
