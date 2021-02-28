@@ -10,19 +10,17 @@ permalink: /research/
 
 **Overview**: my research involves the development and application of a range of [high-dimensional single-cell cytometry/imaging technologies and assays](https://tomashhurst.github.io/research/#high-dimensional-cytometry-and-imaging-technologies), as well as [computational analysis approaches](https://tomashhurst.github.io/research/#computational-analysis-approaches), to map dynamic immune responses over time, space, and disease. My team and I collaboratively apply these approaches to the study of immunology and infectious disease, including emerging pathogens such as [SARS-CoV-2 and COVID-19](https://tomashhurst.github.io/research/#application-to-disease), [Zika virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis, and [West Nile virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis. 
 
-<br />
-
-**[Fluidigm webinar 2020](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics)**. Featured on the '[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)' page.
-
-<iframe class="vidyard_iframe" src="//play.vidyard.com/4A9gczgzSZrmMa2q5Tyuvf.html?" width=560 height=315 scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe>
-
-<br />
-
 *This work is summarised in the following four sections (below)*:
 1. [High-dimensional cytometry and imaging technologies](https://tomashhurst.github.io/research/#high-dimensional-cytometry-and-imaging-technologies)
 2. [Computational analysis approaches](https://tomashhurst.github.io/research/#computational-analysis-approaches)
 3. [Application to disease](https://tomashhurst.github.io/research/#application-to-disease)
 4. [Engagement in the Human Cell Atlas (HCA) and other communities](https://tomashhurst.github.io/research/#engagement-in-the-human-cell-atlas-and-other-communities)
+
+<br />
+
+**[Fluidigm webinar 2020](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics)**. Featured on the '[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)' page.
+
+<iframe class="vidyard_iframe" src="//play.vidyard.com/4A9gczgzSZrmMa2q5Tyuvf.html?" width=560 height=315 scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe>
 
 <br />
 
