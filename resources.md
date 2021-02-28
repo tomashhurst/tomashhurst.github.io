@@ -38,9 +38,7 @@ permalink: /resources/
 
 [**COMPUTATIONAL ANALYSIS**](https://wiki.centenary.org.au/display/SPECTRE): here we provide resources to facilitate computational analysis of high-dimensional cytometry data.
 
-**Spectre R package**
-
-An R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments ([Ashhurst\*,  Marsh-Wakefield\*, Putri\* et al. bioRxiv. 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract))
+**Spectre R package**: An R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments ([Ashhurst\*,  Marsh-Wakefield\*, Putri\* et al. bioRxiv. 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract))
 
 - Protocols and instructions: [website](https://wiki.centenary.org.au/display/SPECTRE).
 - Presentation on Spectre at Oz Single Cell 2020, 'Computational Biology': [Youtube](https://youtu.be/poEDERGXrQw?t=3151).
@@ -104,6 +102,6 @@ An R package that enables comprehensive end-to-end integration and analysis of h
 [**IMAGING MASS CYTOMETRY (IMC)**](https://tomashhurst.github.io/resources/): Below is a collection of resources and protocols for Imaging Mass Cytometry (IMC).
 
 **Online resources**:
-- Cell segmentation and spatial analysis of Imaging Mass Cytometry (IMC) data: [Protocol](https://wiki.centenary.org.au/display/SPECTREMAP)
+- Cell segmentation and spatial analysis of Imaging Mass Cytometry (IMC) data: [Website](https://wiki.centenary.org.au/display/SPECTREMAP)
 
 <br />
