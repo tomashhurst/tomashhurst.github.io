@@ -8,8 +8,6 @@ permalink: /community/
 
 ![Presentations](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Presentations.jpeg)
 
-<br />
-
 I am an active member of a number of societies and communities, including:
 - The [Human Cell Atlas (HCA)](https://tomashhurst.github.io/community/#human-cell-atlas) community
 - The Australasian Cytometry Society (ACS)
