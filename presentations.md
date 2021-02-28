@@ -26,6 +26,16 @@ Fluidigm webinar 2020. Featured on the '[COVID-19 resources](https://www.fluidig
 
 ---
 
+**[Fluidigim IMC interview](https://share.vidyard.com/watch/zkoHBRGkujiSHA2FYBmSPQ?)**
+
+Fluidigm interview 2019. Featured on the Fluidigm '[IMC interviews](https://www.fluidigm.com/articles/imaging-mass-cytometry-interviews)' page.
+
+<iframe class="vidyard_iframe" src="//play.vidyard.com/zkoHBRGkujiSHA2FYBmSPQ.html?" width=560 height=315 scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe>
+
+<br />
+
+---
+
 **[ACS and ASI 'High-Dimensional Analysis Roadshow 2020](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/)** 
 
 Presented by [Thomas Ashhurst](tomashhurst.github.io), [Felix Marsh-Wakefield](https://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en), and [Givanna Putri](https://scholar.google.com/citations?user=S-sNLPIAAAAJ&hl=en).
