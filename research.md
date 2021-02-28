@@ -16,7 +16,7 @@ Presentations on this work can be found in this [Fluidigm Webinar](https://www.f
 1. [High-dimensional cytometry and imaging technologies](https://tomashhurst.github.io/research/#high-dimensional-cytometry-and-imaging-technologies)
 2. [Computational analysis approaches](https://tomashhurst.github.io/research/#computational-analysis-approaches)
 3. [Application to disease](https://tomashhurst.github.io/research/#application-to-disease)
-4. [Engagement in the Human Cell Atlas (HCA) and other communities](https://tomashhurst.github.io/research/#Engagement-in-the-Human-Cell-Atlas-(HCA)-and-other-communities)
+4. [Engagement in the Human Cell Atlas (HCA) and other communities](https://tomashhurst.github.io/research/#engagement-in-the-human-cell-atlas-and-other-communities)
 
 <br />
 
@@ -66,7 +66,7 @@ Through various collaborations, we have applied our approaches in a number of ar
 
 <br />
 
-### Engagement in the Human Cell Atlas (HCA) and other communities ###
+### Engagement in the Human Cell Atlas and other communities ###
 
 ---
 
