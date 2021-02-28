@@ -18,6 +18,8 @@ I am an active member of a number of societies and communities, including:
 - The International Society for the Advancement of Cytometry (ISAC)
 - The Imaging Mass Cytometry (IMC) users community
 
+<br />
+
 ### Human Cell Atlas ###
 
 ---
