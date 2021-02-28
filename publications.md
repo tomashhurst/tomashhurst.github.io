@@ -29,7 +29,7 @@ permalink: /publications/
 
 <div align="center">
  
-  <b><font size="+2">2021</font></b>
+  <b><font size="+1">2021</font></b>
 
 </div>
 
@@ -93,7 +93,7 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 
 <div align="center">
  
-  <b><font size="+2">2020</font></b>
+  <b><font size="+1">2020</font></b>
 
 </div>
 
@@ -158,7 +158,7 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 
 <div align="center">
  
-  <b><font size="+2">2019</font></b>
+  <b><font size="+1">2019</font></b>
 
 </div>
 
@@ -178,7 +178,7 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 
 <div align="center">
  
-  <b><font size="+2">2012 - 2018</font></b>
+  <b><font size="+1">2012 - 2018</font></b>
 
 </div>
 
