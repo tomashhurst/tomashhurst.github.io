@@ -12,7 +12,7 @@ permalink: /research/
 
 An overview of this work can be found in this [Fluidigm Webinar](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics)(Mapping Immunity Across Time, Space and Disease State, 2020) or this [Oz Single Cell webinar](https://youtu.be/poEDERGXrQw?t=3151) (Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre, 2020). 
 
-**This work is summarised in these four areas**:
+**This work is summarised in four areas**:
 1. [High-dimensional cytometry and imaging technologies](https://tomashhurst.github.io/research/#high-dimensional-cytometry-and-imaging-technologies)
 2. [Computational analysis approaches](https://tomashhurst.github.io/research/#computational-analysis-approaches)
 3. [Application to disease](https://tomashhurst.github.io/research/#application-to-disease)
