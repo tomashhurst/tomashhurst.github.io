@@ -14,7 +14,7 @@ We have also engaged in a number of community-focused educational endeavours, su
 
 I am a current [ISAC Marylou Ingram Scholar](https://isac-net.org/page/Marylou-Ingram-Scholars) with the [International Society for the Advancement of Cytometry (ISAC)](https://isac-net.org/), and currently serve as the 'Systems Cytometry' & NSW representative of the [Systems Immunology special interest group (SIG)](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/) of the [Australian and New Zealand Society of Immunology](https://www.immunology.org.au/).
 
-Below is a collection of significant presentations and community activities.
+Below is a collection of key presentations from various community activities.
 
 <br />
 
