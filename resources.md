@@ -26,6 +26,8 @@ permalink: /resources/
 
 ![Clusters](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Clusters.png)
 
+<br />
+
 <div class='row'>
     <div class="image">
         <a href="#">
@@ -49,15 +51,12 @@ permalink: /resources/
 
 ---
 
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Antibodies.png" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
 
 [**FLOW & SPECTRAL CYTOMETRY**](https://tomashhurst.github.io/resources/): Below is a collection of resources and protocols for flow cytometry and spectral cytometry.
+
+![FLOW](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Antibodies.png)
+
+<br />
 
 **Published protocols**:
 - High-dimensional panel design: [Paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). *Also see [this paper](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract) for basic panel design.*
