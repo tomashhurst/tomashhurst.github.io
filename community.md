@@ -66,7 +66,7 @@ Presented by [Thomas Ashhurst](tomashhurst.github.io), [Felix Marsh-Wakefield](h
 
 ---
 
-**[Fluidigim Imaging Mass Cytometry (IMC) users community]**
+**Fluidigim Imaging Mass Cytometry (IMC) users community**
 
 - Presentation at the [Fluidigm Imagin Mass Cytometry users meeting](https://share.vidyard.com/watch/jc84nXuBpcofBcDkGeLQSo?) 2019. Featured on the recap page.
 - [Interview with Fluidigm](https://share.vidyard.com/watch/zkoHBRGkujiSHA2FYBmSPQ?) 2019. Featured on the Fluidigm '[IMC interviews](https://www.fluidigm.com/articles/imaging-mass-cytometry-interviews)' page.
