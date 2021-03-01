@@ -22,8 +22,6 @@ permalink: /resources/
 
 ---
 
-**COMPUTATIONAL ANALYSIS**: here we provide resources to facilitate computational analysis of high-dimensional cytometry data, including [Spectre](https://wiki.centenary.org.au/display/SPECTRE), an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments.
-
 <div class='row'>
     <div class="image">
         <a href="#">
@@ -31,6 +29,8 @@ permalink: /resources/
         </a>
     </div>
 </div>
+
+**COMPUTATIONAL ANALYSIS**: here we provide resources to facilitate computational analysis of high-dimensional cytometry data, including [Spectre](https://wiki.centenary.org.au/display/SPECTRE), an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments.
 
 **Spectre R package**: 
 
@@ -47,9 +47,6 @@ permalink: /resources/
 
 ---
 
-
-**FLOW & SPECTRAL CYTOMETRY**: Below is a collection of resources and protocols for flow cytometry and spectral cytometry.
-
 <div class='row'>
     <div class="image">
         <a href="#">
@@ -57,6 +54,8 @@ permalink: /resources/
         </a>
     </div>
 </div>
+
+**FLOW & SPECTRAL CYTOMETRY**: Below is a collection of resources and protocols for flow cytometry and spectral cytometry.
 
 **Published protocols**:
 - High-dimensional panel design: [Paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). *Also see [this paper](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract) for basic panel design.*
@@ -69,8 +68,6 @@ permalink: /resources/
 
 ---
 
-**MASS CYTOMETRY (CyTOF)**: Below is a collection of resources and protocols for mass cytometry.
-
 <div class='row'>
     <div class="image">
         <a href="#">
@@ -79,15 +76,18 @@ permalink: /resources/
     </div>
 </div>
 
+**MASS CYTOMETRY (CyTOF)**: Below is a collection of resources and protocols for mass cytometry.
+
 **Published protocols**:
 - A collection of mass cytometry protocols: [Book](https://link.springer.com/book/10.1007/978-1-4939-9454-0).
 - Mass cytometry staining protocol for mouse bone marrow: [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12).
 
 <br />
+<br />
+<br />
+<br />
 
 ---
-
-**IMAGING MASS CYTOMETRY (IMC)**: Below is a collection of resources and protocols for Imaging Mass Cytometry (IMC).
 
 <div class='row'>
     <div class="image">
@@ -97,7 +97,12 @@ permalink: /resources/
     </div>
 </div>
 
+**IMAGING MASS CYTOMETRY (IMC)**: Below is a collection of resources and protocols for Imaging Mass Cytometry (IMC).
+
 **Online resources**:
 - Cell segmentation and spatial analysis of Imaging Mass Cytometry (IMC) data: [Website](https://wiki.centenary.org.au/display/SPECTREMAP)
 
+<br />
+<br />
+<br />
 <br />
