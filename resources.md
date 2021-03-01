@@ -66,8 +66,6 @@ permalink: /resources/
 
 <br />
 <br />
-<br />
-<br />
 
 ---
 
@@ -85,9 +83,6 @@ permalink: /resources/
 - A collection of mass cytometry protocols: [Book](https://link.springer.com/book/10.1007/978-1-4939-9454-0).
 - Mass cytometry staining protocol for mouse bone marrow: [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12).
 
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
