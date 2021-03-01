@@ -22,6 +22,8 @@ permalink: /resources/
 
 ---
 
+![Clusters](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Clusters.png)
+
 <div class='row'>
     <div class="image">
         <a href="#">
