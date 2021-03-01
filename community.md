@@ -5,8 +5,7 @@ permalink: /community/
 ---
 
 ---
-
-![Presentations](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Presentations.jpeg)
+![HCA](https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/HCA%20wide.png?raw=true)
 
 My team and I are involved with a number of societies and communities, including the [Human Cell Atlas (HCA)](https://tomashhurst.github.io/community/#human-cell-atlas) community, the [International Society for the Advancement of Cytometry (ISAC)](https://isac-net.org/), the [Australasian Cytometry Society (ACS)](https://cytometry.org.au/), the [Australia and New Zealand Society for Immunology (ASI)](https://www.immunology.org.au/), the [Oz Single Cell (OSC)](https://www.singlecells.org.au/) community, and the [Fluidigm Imaging Mass Cytometry (IMC)](https://www.fluidigm.com/articles/imc-user-group-meeting-2019-recap) users community. 
 
@@ -14,11 +13,17 @@ We have also engaged in a number of community-focused educational endeavours, su
 
 I am a current [ISAC Marylou Ingram Scholar](https://isac-net.org/page/Marylou-Ingram-Scholars) with the [International Society for the Advancement of Cytometry (ISAC)](https://isac-net.org/), and currently serve as the 'Systems Cytometry' & NSW representative of the [Systems Immunology special interest group (SIG)](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/) of the [Australian and New Zealand Society of Immunology](https://www.immunology.org.au/).
 
+<br />
+
+# Key presentations #
+
+---
+
+![Presentations](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Presentations.jpeg)
+
 Below is a collection of key presentations from various community activities.
 
 <br />
-
----
 
 **[Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://youtu.be/poEDERGXrQw?t=3151)**
 
