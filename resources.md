@@ -25,7 +25,7 @@ permalink: /resources/
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://wiki.centenary.org.au/download/attachments/146080606/Spectre%20wide.png?version=1&modificationDate=1614253260985&api=v2" alt="icon" width="250" align="right">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Spectre%20clusters.png" alt="icon" width="250" align="right">
         </a>
     </div>
 </div>
