@@ -24,12 +24,10 @@ permalink: /resources/
 
 **COMPUTATIONAL ANALYSIS**: here we provide resources to facilitate computational analysis of high-dimensional cytometry data, including [Spectre](https://wiki.centenary.org.au/display/SPECTRE), an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments.
 
-![Clusters](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Clusters.png)
-
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://wiki.centenary.org.au/download/attachments/146080606/Spectre%20wide.png?version=1&modificationDate=1614253260985&api=v2" alt="icon" width="250" align="right">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Spectre%20clusters.png" alt="icon" width="250" align="right">
         </a>
     </div>
 </div>
@@ -52,7 +50,13 @@ permalink: /resources/
 
 **FLOW & SPECTRAL CYTOMETRY**: Below is a collection of resources and protocols for flow cytometry and spectral cytometry.
 
-![FLOW](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Antibodies.png)
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Flow%20long.png" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
 
 **Published protocols**:
 - High-dimensional panel design: [Paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). *Also see [this paper](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract) for basic panel design.*
@@ -67,7 +71,13 @@ permalink: /resources/
 
 **MASS CYTOMETRY (CyTOF)**: Below is a collection of resources and protocols for mass cytometry.
 
-![MASS](https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/CyTOF%20close.png?raw=true)
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/CyTOF%20long.png" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
 
 **Published protocols**:
 - A collection of mass cytometry protocols: [Book](https://link.springer.com/book/10.1007/978-1-4939-9454-0).
@@ -79,7 +89,13 @@ permalink: /resources/
 
 **IMAGING MASS CYTOMETRY (IMC)**: Below is a collection of resources and protocols for Imaging Mass Cytometry (IMC).
 
-![IMC](https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/IMC.jpg?raw=true)
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/IMC%20long%202.png" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
 
 **Online resources**:
 - Cell segmentation and spatial analysis of Imaging Mass Cytometry (IMC) data: [Website](https://wiki.centenary.org.au/display/SPECTREMAP)
