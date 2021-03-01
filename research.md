@@ -13,7 +13,7 @@ permalink: /research/
 This work is summarised in the following four sections (below):
 1. [High-dimensional cytometry and imaging technologies](https://tomashhurst.github.io/research/#high-dimensional-cytometry-and-imaging-technologies)
 2. [Computational analysis approaches](https://tomashhurst.github.io/research/#computational-analysis-approaches)
-3. [Application to disease (incl. COVID-19, Zika virus, West Nile virus](https://tomashhurst.github.io/research/#application-to-disease)
+3. [Application to disease (incl. COVID-19, Zika virus, West Nile virus)](https://tomashhurst.github.io/research/#application-to-disease)
 4. [Engagement in the Human Cell Atlas (HCA) and other communities](https://tomashhurst.github.io/research/#engagement-in-the-human-cell-atlas-and-other-communities)
 
 An overview of this work can be found in this **[Fluidigm webinar 2020](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics)**, featured on the '[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)' page, and this **[Oz Single Cell webinar 2020](https://youtu.be/poEDERGXrQw?t=3151)** on computational biology.
