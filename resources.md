@@ -74,7 +74,7 @@ permalink: /resources/
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/CyTOF%20long.png" alt="icon" width="250" align="right">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/CyTOF%20long.png" alt="icon" width="220" align="right">
         </a>
     </div>
 </div>
