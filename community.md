@@ -10,6 +10,8 @@ permalink: /community/
 
 I am engaged with a number of societies and communities, including the [Human Cell Atlas (HCA)](https://tomashhurst.github.io/community/#human-cell-atlas) community, the [International Society for the Advancement of Cytometry (ISAC)](https://isac-net.org/), the [Australasian Cytometry Society (ACS)](https://cytometry.org.au/), the [Australia and New Zealand Society for Immunology (ASI)](https://www.immunology.org.au/), the [Oz Single Cell (OSC)](https://www.singlecells.org.au/) community, and the [Fluidigm Imaging Mass Cytometry (IMC)](https://www.fluidigm.com/articles/imc-user-group-meeting-2019-recap) users community.
 
+I was awarded a prestigious [ISAC Marylou Ingram Scholarship](https://isac-net.org/page/Marylou-Ingram-Scholars) by the [International Society for the Advancement of Cytometry (ISAC)](https://isac-net.org/) in 2017, and currently serve as the 'Systems Cytometry' & NSW representative of the [Systems Immunology special interest group (SIG)](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/) of the [Australian and New Zealand Society of Immunology](https://www.immunology.org.au/).
+
 Below is a collection of significant presentations and community activities.
 
 <br />
