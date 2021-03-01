@@ -22,8 +22,6 @@ permalink: /resources/
 
 ---
 
-![Clusters](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Clusters.png)
-
 <div class='row'>
     <div class="image">
         <a href="#">
@@ -33,6 +31,8 @@ permalink: /resources/
 </div>
 
 [**COMPUTATIONAL ANALYSIS**](https://wiki.centenary.org.au/display/SPECTRE): here we provide resources to facilitate computational analysis of high-dimensional cytometry data, including [Spectre](https://wiki.centenary.org.au/display/SPECTRE), an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments.
+
+![Clusters](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Clusters.png)
 
 **Spectre R package**: 
 
