@@ -37,8 +37,6 @@ Protocols provided in this book have been cited in a wide variety of application
 
 ---
 
-<br />
-
 <div class='row'>
     <div class="image">
         <a href="#">
