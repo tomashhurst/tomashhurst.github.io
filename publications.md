@@ -91,8 +91,6 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 
 <br />
 <br />
-<br />
-<br />
 
 <div class='row'>
     <div class="image">
@@ -146,8 +144,6 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 
 [Contribution of STAT1 to innate and adaptive immunity during type I interferon-mediated lethal virus infection](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008525&rev=1). 2020. SR Jung, TM Ashhurst, PK West, B Viengkhou, NJC King, IL Campbell, ... PLoS Pathogens 16 (4), e1008525
 
-<br />
-<br />
 <br />
 <br />
 
