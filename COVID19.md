@@ -1,12 +1,12 @@
 ---
 layout: page
-title: COVID-19
+title: COVID-19 research
 permalink: /covid/
 ---
 
-![COVID](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/COVID%20image%20wide%202.png)
-
 ---
+
+![COVID](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/COVID%20image%20wide%202.png)
 
 **SARS-CoV-2 and COVID-19**
 
