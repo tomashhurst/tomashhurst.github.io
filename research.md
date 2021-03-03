@@ -36,7 +36,7 @@ An overview of this work can be found in this **[Oz Single Cell webinar 2020](ht
    <iframe align="right" style="padding:5px" width="365" height="205" src="https://www.youtube.com/embed/poEDERGXrQw?start=3151" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   
-  padding: 0 20em 2em 0
+  style="padding: 0 20em 2em 0"
 </div>
 
 <br />
