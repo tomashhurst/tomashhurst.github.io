@@ -10,7 +10,7 @@ permalink: /presentations/
 
 Oz Single Cell 2020, Computational biology.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poEDERGXrQw?start=3151" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/poEDERGXrQw?start=3151" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <br />
 
@@ -20,7 +20,7 @@ Oz Single Cell 2020, Computational biology.
 
 Fluidigm webinar 2020. Featured on the '[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)' page.
 
-<iframe class="vidyard_iframe" src="//play.vidyard.com/4A9gczgzSZrmMa2q5Tyuvf.html?" width=560 height=315 scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe>
+<p align="center"><iframe class="vidyard_iframe" src="//play.vidyard.com/4A9gczgzSZrmMa2q5Tyuvf.html?" width=560 height=315 scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe></p>
 
 <br />
 
@@ -30,7 +30,7 @@ Fluidigm webinar 2020. Featured on the '[COVID-19 resources](https://www.fluidig
 
 Presented by [Thomas Ashhurst](tomashhurst.github.io), [Felix Marsh-Wakefield](https://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en), and [Givanna Putri](https://scholar.google.com/citations?user=S-sNLPIAAAAJ&hl=en).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MSIDmYhqe5g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/MSIDmYhqe5g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 ***Related links***
 - [ASI Newsletter report](https://www.immunology.org.au/files/Newsletter_pdfs/ASI017_Dec_2020.pdf#page=35) (page 35)
@@ -46,7 +46,7 @@ Presented by [Thomas Ashhurst](tomashhurst.github.io), [Felix Marsh-Wakefield](h
 
 Featured on the Fluidigm '[meeting recap](https://www.fluidigm.com/articles/imc-user-group-meeting-2019-recap)' page.
 
-<iframe class="vidyard_iframe" src="//play.vidyard.com/jc84nXuBpcofBcDkGeLQSo.html?" width=560 height=315 scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe>
+<p align="center"><iframe class="vidyard_iframe" src="//play.vidyard.com/jc84nXuBpcofBcDkGeLQSo.html?" width=560 height=315 scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe></p>
 
 <br />
 
@@ -56,6 +56,6 @@ Featured on the Fluidigm '[meeting recap](https://www.fluidigm.com/articles/imc-
 
 Fluidigm interview 2019. Featured on the Fluidigm '[IMC interviews](https://www.fluidigm.com/articles/imaging-mass-cytometry-interviews)' page.
 
-<iframe class="vidyard_iframe" src="https://share.vidyard.com/watch/zkoHBRGkujiSHA2FYBmSPQ?" width=560 height=500 scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe>
+<p align="center"><iframe class="vidyard_iframe" src="https://share.vidyard.com/watch/zkoHBRGkujiSHA2FYBmSPQ?" width=560 height=500 scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe></p>
 
 <br />
