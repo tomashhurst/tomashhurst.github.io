@@ -42,7 +42,19 @@ Presented by [Thomas Ashhurst](tomashhurst.github.io), [Felix Marsh-Wakefield](h
 
 ---
 
+**[Presentation at the Fluidigim IMC users meeting, 2019](https://share.vidyard.com/watch/jc84nXuBpcofBcDkGeLQSo?)**
+
+Featured on the Fluidigm '[meeting recap](https://www.fluidigm.com/articles/imc-user-group-meeting-2019-recap)' page.
+
+<iframe width="560" height="315" src="https://share.vidyard.com/watch/jc84nXuBpcofBcDkGeLQSo?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
+
+
+---
+
 **[Fluidigim IMC interview](https://share.vidyard.com/watch/zkoHBRGkujiSHA2FYBmSPQ?)**
+
 Fluidigm interview 2019. Featured on the Fluidigm '[IMC interviews](https://www.fluidigm.com/articles/imaging-mass-cytometry-interviews)' page.
 
 <iframe width="560" height="315" src="https://share.vidyard.com/watch/zkoHBRGkujiSHA2FYBmSPQ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
