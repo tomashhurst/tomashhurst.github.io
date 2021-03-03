@@ -28,7 +28,7 @@ Fluidigm webinar 2020. Featured on the '[COVID-19 resources](https://www.fluidig
 
 **[ACS and ASI 'High-Dimensional Analysis Roadshow 2020](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/)** 
 
-Presented by [Thomas Ashhurst](tomashhurst.github.io), [Felix Marsh-Wakefield](https://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en), and [Givanna Putri](https://scholar.google.com/citations?user=S-sNLPIAAAAJ&hl=en).
+Presented by [Thomas Ashhurst](https://tomashhurst.github.io), [Felix Marsh-Wakefield](https://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en), and [Givanna Putri](https://scholar.google.com/citations?user=S-sNLPIAAAAJ&hl=en).
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/MSIDmYhqe5g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
