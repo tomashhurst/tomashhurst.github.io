@@ -35,6 +35,8 @@ An overview of this work can be found in this **[Oz Single Cell webinar 2020](ht
   <div class="box">
    <iframe align="right" style="padding:5px" width="365" height="205" src="https://www.youtube.com/embed/poEDERGXrQw?start=3151" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
+  
+  white-space: nowrap;
 </div>
 
 <br />
