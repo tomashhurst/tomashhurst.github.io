@@ -43,7 +43,8 @@ Presented by [Thomas Ashhurst](tomashhurst.github.io), [Felix Marsh-Wakefield](h
 ---
 
 **[Fluidigim IMC interview](https://share.vidyard.com/watch/zkoHBRGkujiSHA2FYBmSPQ?)**
-
 Fluidigm interview 2019. Featured on the Fluidigm '[IMC interviews](https://www.fluidigm.com/articles/imaging-mass-cytometry-interviews)' page.
+
+<iframe width="560" height="315" src="https://share.vidyard.com/watch/zkoHBRGkujiSHA2FYBmSPQ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
