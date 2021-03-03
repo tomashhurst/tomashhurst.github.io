@@ -56,6 +56,6 @@ Featured on the Fluidigm '[meeting recap](https://www.fluidigm.com/articles/imc-
 
 Fluidigm interview 2019. Featured on the Fluidigm '[IMC interviews](https://www.fluidigm.com/articles/imaging-mass-cytometry-interviews)' page.
 
-<p align="center"><iframe class="vidyard_iframe" src="https://share.vidyard.com/watch/zkoHBRGkujiSHA2FYBmSPQ?" width=560 height=500 scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe></p>
+<p align="center"><iframe class="vidyard_iframe" src="https://share.vidyard.com/watch/zkoHBRGkujiSHA2FYBmSPQ?" width=560 height=600 scrolling="yes" frameborder="0" allowtransparency="true" allowfullscreen></iframe></p>
 
 <br />
