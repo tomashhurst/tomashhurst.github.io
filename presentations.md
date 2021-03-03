@@ -50,6 +50,9 @@ Featured on the Fluidigm '[meeting recap](https://www.fluidigm.com/articles/imc-
 
 <br />
 
+<iframe class="vidyard_iframe" src="//play.vidyard.com/jc84nXuBpcofBcDkGeLQSo.html?" width=560 height=315 scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe>
+
+<br />
 
 ---
 
