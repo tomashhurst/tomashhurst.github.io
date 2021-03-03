@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
+   
+     <div class="wrapper-header">
+      <div class="container">
+        <header class="header">
+          {% include svg-icons.html %}
+        </header>
+      </div>
+    </div>
+    
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
