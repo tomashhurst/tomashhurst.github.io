@@ -199,7 +199,7 @@ img {
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
-  font-size: 28px;
+  font-size: 28px; // 28px;
   letter-spacing: 1px;
 }
 
@@ -208,7 +208,7 @@ img {
   color: $gray; //$gray
   font-family: $helveticaNeue;
   font-weight: 300;
-  font-size: 18px;
+  font-size: 20px; // TA: 18px default
 
   @include mobile {
     margin: 3px 0;
@@ -220,7 +220,8 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
-  color: #00003f; // not here by default
+  color: #00003f; // TA: not here by default
+  line-height: 0.5; // TA: added new
 
   @include mobile {
     float: none;
