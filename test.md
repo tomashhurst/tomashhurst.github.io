@@ -14,4 +14,6 @@ permalink: /test/
  <iframe align="right" width="365" height="205" src="https://www.youtube.com/embed/poEDERGXrQw?start=3151" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<p style="page-break-after: always;">&nbsp;</p>
+
 Following text. Following text. Following text. Following text. Following text. Following text. Following text. Following text.   
