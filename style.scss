@@ -219,7 +219,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
-  color: #3f0000; // not here by default
+  color: #00003f; // not here by default
 
   @include mobile {
     float: none;
@@ -230,7 +230,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #3f0000; // $darkGray
+    color: #00003f; // $darkGray
     text-align: left;
     font-weight: 300;
     letter-spacing: 1px;
