@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Key Presentations
+title: Online presentations
 permalink: /presentations/
 ---
 
