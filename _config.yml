@@ -24,6 +24,7 @@ header-links:
   orcid: 0000-0001-7269-7773
   googlescholar: citations?user=b1eTDlQAAAAJ&hl=en
   loop: 241397
+  scopius: 55432845900
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -35,6 +36,7 @@ footer-links:
   orcid: 0000-0001-7269-7773
   googlescholar: citations?user=b1eTDlQAAAAJ&hl=en
   loop: 241397
+  scopius: 55432845900
   
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
