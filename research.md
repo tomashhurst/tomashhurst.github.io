@@ -20,7 +20,7 @@ An overview of this work can be found in this **[Oz Single Cell webinar 2020](ht
 
 <br />
 
-<div class="box">
+<div class="boxrow">
   <div class="box">
     <iframe align="left" class="vidyard_iframe" src="//play.vidyard.com/4A9gczgzSZrmMa2q5Tyuvf.html?" width="375" height="210" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe>
   </div>
