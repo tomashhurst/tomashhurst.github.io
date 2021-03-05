@@ -18,8 +18,6 @@ This work is summarised in the following four sections (below):
 
 An overview of this work can be found in this **[Oz Single Cell webinar 2020](https://youtu.be/poEDERGXrQw?t=3151)** on computational biology and this **[Fluidigm webinar 2020](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics)**, featured on the '[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)' page.
 
-<br />
-
 <div class="boxrow">
   <div class="box">
     <iframe align="left" class="vidyard_iframe" src="//play.vidyard.com/4A9gczgzSZrmMa2q5Tyuvf.html?" width="375" height="210" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe>
