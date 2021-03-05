@@ -16,6 +16,7 @@ permalink: /publications/
 </div>
 
 <br />
+<br />
 
 ## Books ##
 
