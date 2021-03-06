@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research - mapping dynamic immunity
+title: Research - mapping dynamic immunity across time, space, and disease
 permalink: /research/
 ---
 
