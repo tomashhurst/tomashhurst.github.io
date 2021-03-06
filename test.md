@@ -6,6 +6,8 @@ permalink: /test/
 
 ---
 
+{% if site.footer-links.researchgate %}<a href="https://www.researchgate.net/profile/{{ site.footer-links.researchgate }}"><i class="svg-icon researchgate"></i></a>{% endif %}
+
 
 <div class="box">
   <iframe align="left" class="vidyard_iframe" src="//play.vidyard.com/4A9gczgzSZrmMa2q5Tyuvf.html?" width="100%" height = "205" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe>
