@@ -23,9 +23,10 @@ header-links:
   researchgate: thomas-ashhurst
   orcid: 0000-0001-7269-7773
   googlescholar: citations?user=b1eTDlQAAAAJ&hl=en
+  publons: 3719456/thomas-m-ashhurst/
   loop: 241397
   scopius: 55432845900
-  publons: 3719456/thomas-m-ashhurst/
+  
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -36,9 +37,10 @@ footer-links:
   researchgate: thomas-ashhurst
   orcid: 0000-0001-7269-7773
   googlescholar: citations?user=b1eTDlQAAAAJ&hl=en
+  publons: 3719456/thomas-m-ashhurst/
   loop: 241397
   scopius: 55432845900
-  publons: 3719456/thomas-m-ashhurst/
+  
   
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
