@@ -41,6 +41,10 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 ---
 
+23 publications between 2012 and 2021, with an h-index of 9.
+
+<br />
+
 <div class='row'>
     <div class="image">
         <a href="#">
