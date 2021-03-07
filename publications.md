@@ -37,6 +37,16 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 <br />
 
+## Newsletters and editorials - authored or featured ##
+
+---
+
+[High Dimensional Data Analysis Strategies Homeshow 2020 - in ASI News](https://www.immunology.org.au/files/Newsletter_pdfs/ASI017_Dec_2020.pdf#page=35). 2020. Australia and New Zealand Society for Immunology.
+
+[High-dimensional single cell mass cytometry (CyTOF) comes to Australia with the establishment of the Ramaciotti Facility for Human Systems Biology](https://www.immunology.org.au/files/Newsletter_pdfs/ASI_NL_March_2015.pdf). 2015. T Ashhurst, N King, A Smith, BF de St Groth. ASI Newsletter.
+
+<br />
+
 ## Publications ##
 
 ---
@@ -185,13 +195,5 @@ Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, A
 [Antiviral macrophage responses in flavivirus encephalitis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3928696/). 2013. TM Ashhurst, C Van Vreden, L Munoz-Erazo, P Niewold, K Watabe, ... The Indian journal of medical research 138 (5), 632
 
 [Targeted blockade in lethal West Nile virus encephalitis indicates a crucial role for very late antigen (VLA)-4-dependent recruitment of nitric oxide-producing macrophages](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246). 2012. DR Getts, RL Terry, MT Getts, M Müller, S Rana, C Deffrasnes, ... Journal of Neuroinflammation 9 (1), 246
-
-<br />
-
-## Other ##
-
----
-
-[High-dimensional single cell mass cytometry (CyTOF) comes to Australia with the establishment of the Ramaciotti Facility for Human Systems Biology](https://www.immunology.org.au/files/Newsletter_pdfs/ASI_NL_March_2015.pdf). 2015. T Ashhurst, N King, A Smith, BF de St Groth. ASI Newsletter.
 
 <br />
