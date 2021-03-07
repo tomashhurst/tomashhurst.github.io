@@ -50,8 +50,9 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 ## Publications ##
 
 ---
+My 23 publications have been cited 490 times since 2012, with an h-index of 9 (Google Scholar). These publications include a published book, seminal methodological advances, reviews, and primary research across a number of fields.![image](https://user-images.githubusercontent.com/11766139/110225871-9b4a4300-7f3d-11eb-8c63-d5a0b7552d28.png)
 
-*23 publications between 2012 and 2021, with an h-index of 9 (via [Google Scholar](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en)).*
+*23 publications cited 492 times since 2012, with an h-index of 9 (via [Google Scholar](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en)).*
 
 <br />
 
