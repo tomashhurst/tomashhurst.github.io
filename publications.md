@@ -37,7 +37,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 <br />
 
-## Newsletters and editorials - authored or featured ##
+## Newsletters etc - authored or featured ##
 
 ---
 
