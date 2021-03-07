@@ -82,7 +82,7 @@ permalink: /resources/
 **Our protocols**:
 - Mass cytometry staining protocol for mouse bone marrow: [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12).
 
-**Protocols from [Mass Cytometry: Methods and Protocols. HM McGuire, TM Ashhurst (eds). 2019. Springer New York](https://link.springer.com/book/10.1007/978-1-4939-9454-0).
+**Protocols from [Mass Cytometry: Methods and Protocols. HM McGuire, TM Ashhurst (eds). 2019. Springer New York](https://link.springer.com/book/10.1007/978-1-4939-9454-0).**
 
 *Setting up a facility*
 - Setting Up Mass Cytometry in a Shared Resource Lab Environment (Sarah Warth, Désirée Kunkel): [chapter](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_1).
