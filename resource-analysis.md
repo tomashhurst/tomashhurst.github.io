@@ -1,7 +1,7 @@
 ---
 layout: resource
 title: Resources - computational analysis
-permalink: /resources/
+permalink: /resources/analysis
 ---
 
 ---
