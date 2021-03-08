@@ -43,8 +43,6 @@ This page provides links to software, protocols, and other resources for computa
 
 ---
 
-<br />
-
 <table class="table gmisc_table">
   <tbody>
     <tr style="border-top:2px solid grey">
@@ -91,12 +89,14 @@ This page provides links to software, protocols, and other resources for computa
               </div>
           </td>
           <td style="padding-left:.75em;width:30%;border-bottom:2px solid grey;border-right:1px solid #000;text-align:left">
-              <a class="btn btn-primary" href="https://tomashhurst.github.io/resources/mass" role="button" style="width:100%"><b>GO TO PAGE</b>
-              </a>
+              <div style="text-align:center;font-size:medium;font-weight:700">
+                  <a href="https://tomashhurst.github.io/resources/mass"><b>GO TO PAGE</b></a>
+              </div>
           </td>
           <td style="padding-left:.75em;width:30%;border-bottom:2px solid grey;border-right:1px solid #000;text-align:left">
-              <a class="btn btn-primary" href="https://tomashhurst.github.io/resources/imc" role="button" style="width:100%"><b>GO TO PAGE</b>
-              </a>
+              <div style="text-align:center;font-size:medium;font-weight:700">
+                  <a href="https://tomashhurst.github.io/resources/imc"><b>GO TO PAGE</b></a>
+              </div>
           </td>
       </tr>
     </tbody>
