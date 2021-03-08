@@ -23,3 +23,5 @@ permalink: /test/
 <br />
 <br />
 <br />
+
+{% include subnav.html %}
