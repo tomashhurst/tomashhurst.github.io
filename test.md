@@ -32,6 +32,12 @@ If you use Spectre in your work, please consider citing Ashhurst TM, Marsh-Wakef
 
 <br />
 
+## Getting started
+
+---
+
+<br />
+
 <table class="table gmisc_table">
   <tbody>
     <tr style="border-top:2px solid grey">
