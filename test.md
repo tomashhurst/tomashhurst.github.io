@@ -6,17 +6,6 @@ permalink: /test/
 
 ---
 
-{% if site.footer-links.researchgate %}<a href="https://www.researchgate.net/profile/{{ site.footer-links.researchgate }}"><i class="svg-icon researchgate"></i></a>{% endif %}
+<div w3-include-html="includes/subnav.html"></div>
 
-<br />
-
-<div class="box">
-  <iframe align="left" class="vidyard_iframe" src="//play.vidyard.com/4A9gczgzSZrmMa2q5Tyuvf.html?" width="100%" height = "205" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen></iframe>
-</div>
-
-<div class="box">
- <iframe align="right" width="100%" height = "205" src="https://www.youtube.com/embed/poEDERGXrQw?start=3151" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-Following text. Following text. Following text. Following text. Following text. Following text. Following text. Following text.   
-
+---
