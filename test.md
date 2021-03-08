@@ -44,17 +44,19 @@ If you use Spectre in your work, please consider citing Ashhurst TM, Marsh-Wakef
     <tr style="border-top:2px solid grey">
       <td style="padding-left:.75em;width:30%;border-top:2px solid grey;border-left:1px solid #000;border-right:1px solid #000;text-align:left">
         <div style="text-align:center;font-size:large;font-weight:700">
-          <a href="pbmc3k_tutorial.html">Guided tutorial — 2,700 PBMCs
+          <a href="pbmc3k_tutorial.html">Getting started with R
           </a>
         </div>
       </td>
       <td style="padding-left:.75em;width:30%;border-top:2px solid grey;border-right:1px solid #000;text-align:left">
         <div style="text-align:center;font-size:large;font-weight:700">
-          <a href="multimodal_vignette.html">Multimodal analysis</a>
+          <a href="multimodal_vignette.html">Installing Spectre
+            </a>
         </div>
       </td>
       <td style="padding-left:.75em;width:30%;border-top:2px solid grey;border-right:1px solid #000;text-align:left">
-        <div style="text-align:center;font-size:large;font-weight:700"><a href="spatial_vignette.html">Analysis of spatial datasets</a>
+        <div style="text-align:center;font-size:large;font-weight:700"><a href="spatial_vignette.html">Spectre tutorial
+            </a>
         </div>
       </td>
     </tr>
