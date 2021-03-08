@@ -300,13 +300,13 @@ resource-nav {
   // margin-top: 5px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 16px;
-  color: #00003f; // TA: not here by default
+  color: #add8e6; // TA: not here by default
   line-height: 2.0; // TA: added new
   margin-bottom: 15px;
 	
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: #add8e6;
+  background-color: #00003f;
 	
   width: 100%;
 	
@@ -320,7 +320,7 @@ resource-nav {
 
   a {
     margin-left: 20px;
-    color: #00003f; // $darkGray
+    color: #add8e6; // $darkGray
     text-align: left;
     font-weight: 300;
     letter-spacing: 1px;
