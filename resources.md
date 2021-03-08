@@ -48,7 +48,7 @@ This page provides links to software, protocols, and other resources for computa
         </div>
       </td>
       <td style="padding-left:.75em;width:30%;border-top:2px solid grey;border-right:1px solid #000;text-align:left">
-        <div style="table-top">
+        <div class="table-top">
           <a href="https://tomashhurst.github.io/resources/mass">Mass cytometry (CyTOF)</a>
         </div>
       </td>
@@ -84,7 +84,7 @@ This page provides links to software, protocols, and other resources for computa
               </div>
           </td>
           <td style="padding-left:.75em;width:30%;border-bottom:2px solid grey;border-right:1px solid #000;text-align:left">
-              <div style="table-bottom">
+              <div class="table-bottom">
                   <a href="https://tomashhurst.github.io/resources/mass"><b>GO TO PAGE</b></a>
               </div>
           </td>
