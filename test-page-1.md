@@ -10,7 +10,7 @@ permalink: /test/page1
 <br />
 <br />
 
-## Simple discovery workflow
+# Simple discovery workflow
 
 ---
 
