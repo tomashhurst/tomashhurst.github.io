@@ -52,4 +52,37 @@ If you use Spectre in your work, please consider citing Ashhurst TM, Marsh-Wakef
       </td>
     </tr>
     <tr>
-      <td style="padding-left:.75em;width:30%;border-left:1px solid #000;border-right:1px solid #000;text-align:left"><img src="../output/images/pbmc3k_umap.jpg" width="3000"></td><td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left"><img src="../output/images/citeseq_plot.jpg" width="3000"></td><td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left"><img src="../output/images/spatial_vignette_ttr.jpg" width="3000"></td></tr><tr><td style="padding-left:.75em;width:30%;border-left:1px solid #000;border-right:1px solid #000;text-align:left">A basic overview of Seurat that includes an introduction to common analytical workflows.</td><td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">An introduction to working with multi-modal datasets in Seurat.</td><td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">Learn to explore spatially-resolved transcriptomic data with examples from 10x Visium and Slide-seq v2.</td></tr><tr><td style="padding-left:.75em;width:30%;border-bottom:2px solid grey;border-left:1px solid #000;border-right:1px solid #000;text-align:left"><a class="btn btn-primary" href="pbmc3k_tutorial.html" role="button" style="width:100%">GO</a></td><td style="padding-left:.75em;width:30%;border-bottom:2px solid grey;border-right:1px solid #000;text-align:left"><a class="btn btn-primary" href="multimodal_vignette.html" role="button" style="width:100%">GO</a></td><td style="padding-left:.75em;width:30%;border-bottom:2px solid grey;border-right:1px solid #000;text-align:left"><a class="btn btn-primary" href="spatial_vignette.html" role="button" style="width:100%">GO</a></td></tr></tbody></table>
+      <td style="padding-left:.75em;width:30%;border-left:1px solid #000;border-right:1px solid #000;text-align:left">
+          <img src="../output/images/pbmc3k_umap.jpg" width="3000">
+      </td>
+        <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">
+            <img src="../output/images/citeseq_plot.jpg" width="3000">
+        </td>
+        <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">
+            <img src="../output/images/spatial_vignette_ttr.jpg" width="3000">
+        </td>
+      </tr>
+      <tr>
+          <td style="padding-left:.75em;width:30%;border-left:1px solid #000;border-right:1px solid #000;text-align:left">A basic overview of Seurat that includes an introduction to common analytical workflows.
+          </td>
+          <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">An introduction to working with multi-modal datasets in Seurat.
+          </td>
+          <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">Learn to explore spatially-resolved transcriptomic data with examples from 10x Visium and Slide-seq v2.
+          </td>
+     </tr>
+      <tr>
+          <td style="padding-left:.75em;width:30%;border-bottom:2px solid grey;border-left:1px solid #000;border-right:1px solid #000;text-align:left">
+              <a class="btn btn-primary" href="pbmc3k_tutorial.html" role="button" style="width:100%">GO
+              </a>
+          </td>
+          <td style="padding-left:.75em;width:30%;border-bottom:2px solid grey;border-right:1px solid #000;text-align:left">
+              <a class="btn btn-primary" href="multimodal_vignette.html" role="button" style="width:100%">GO
+              </a>
+          </td>
+          <td style="padding-left:.75em;width:30%;border-bottom:2px solid grey;border-right:1px solid #000;text-align:left">
+              <a class="btn btn-primary" href="spatial_vignette.html" role="button" style="width:100%">GO
+              </a>
+          </td>
+      </tr>
+    </tbody>
+</table>
