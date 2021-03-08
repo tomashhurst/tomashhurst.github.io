@@ -71,10 +71,10 @@ This page provides links to software, protocols, and other resources for computa
           <img src="https://www.r-project.org/logo/Rlogo.svg" width="3000">
       </td>
         <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">
-            <img src="https://raw.githubusercontent.com/ImmuneDynamics/Spectre/master/image/Spectre.png" width="3000">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/CyTOF_square.png" width="3000">
         </td>
         <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">
-            <img src="https://raw.githubusercontent.com/ImmuneDynamics/Spectre/master/image/Spectre.png" width="3000">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/IMC%20long%202.png" width="3000">
         </td>
       </tr>
       <tr>
