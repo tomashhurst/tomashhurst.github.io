@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: Resources
+title: Resources - Home Page
 permalink: /resources/
 ---
 
@@ -78,6 +78,10 @@ This page provides links to software, protocols, and other resources for computa
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
 
 <div class='row'>
     <div class="image">
@@ -89,5 +93,11 @@ This page provides links to software, protocols, and other resources for computa
 
 **[IMAGING MASS CYTOMETRY (IMC)](https://tomashhurst.github.io/resources/imc)**: Below is a collection of resources and protocols for Imaging Mass Cytometry (IMC).
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
