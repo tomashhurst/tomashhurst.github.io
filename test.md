@@ -4,6 +4,15 @@ title: SPECTRE
 permalink: /test/
 ---
 
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Spectre%20clusters.png" alt="icon" width="250" align="left">
+        </a>
+    </div>
+</div>
+
+
 {% include subnav.html %}
 
 <br />
