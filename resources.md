@@ -11,7 +11,7 @@ This page provides links to software, protocols, and other resources for computa
 <br />
 <br />
 
-# Computational analysis resources and software 
+# Software and computational analysis resources
 
 ---
 
