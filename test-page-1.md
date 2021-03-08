@@ -1,15 +1,8 @@
 ---
-layout: page
+layout: spectre
+title: Simple discovery workflow
 permalink: /test/page1
 ---
-
-{% include subnav.html %}
-
-<br />
-<br />
-<br />
-
-# Simple discovery workflow
 
 ---
 
