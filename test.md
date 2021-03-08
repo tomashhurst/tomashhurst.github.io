@@ -1,16 +1,8 @@
 ---
-layout: page
-title: SPECTRE
+layout: spectre
+title: Spectre Home Page
 permalink: /test/
 ---
-
-{% include subnav.html %}
-
-<br />
-<br />
-<br />
-
-# Spectre Home Page
 
 ---
 
