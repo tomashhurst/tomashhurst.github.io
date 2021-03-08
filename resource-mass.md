@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: Resources - mass cytometry (CyTOF)
+title: Resources - Mass Cytometry (CyTOF)
 permalink: /resources/mass
 ---
 
