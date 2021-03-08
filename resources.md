@@ -13,7 +13,7 @@ This page provides links to software, protocols, and other resources for computa
 <div class='row'>
     <div class="image">
         <a href="https://sydneycytometry.org.au/wiki-launch">
-            <img src="https://images.squarespace-cdn.com/content/4f5013cf24ac3afbd1aa0384/1449533180720-Q8AMXEWY5ZQNJRS5LB8K/Sydney+Cytometry+No+White+Space.png?format=1500w&content-type=image%2Fpng" alt="icon" width="300" align="right">
+            <img src="https://images.squarespace-cdn.com/content/4f5013cf24ac3afbd1aa0384/1449533180720-Q8AMXEWY5ZQNJRS5LB8K/Sydney+Cytometry+No+White+Space.png?format=1500w&content-type=image%2Fpng" alt="icon" width="250" align="right">
         </a>
     </div>
 </div>
@@ -26,7 +26,7 @@ This page provides links to software, protocols, and other resources for computa
 <div class='row'>
     <div class="image">
         <a href="https://tomashhurst.github.io/resources/analysis">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Clusters.png" alt="icon" width="300" align="right">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Clusters.png" alt="icon" width="250" align="right">
         </a>
     </div>
 </div>
