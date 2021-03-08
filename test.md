@@ -72,7 +72,7 @@ If you use Spectre in your work, please consider citing Ashhurst TM, Marsh-Wakef
         </td>
       </tr>
       <tr>
-          <td style="padding-left:.75em;width:30%;border-left:1px solid #000;border-right:1px solid #000;text-align:left">Getting started with R.
+          <td style="padding-left:.75em;width:30%;border-left:1px solid #000;border-right:1px solid #000;text-align:left">Instructions for installing R and RStudio, and a brief tutorial on their use for getting started.
           </td>
           <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">Installing Spectre.
           </td>
