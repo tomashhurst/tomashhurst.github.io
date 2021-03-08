@@ -24,7 +24,6 @@ This page provides links to software, protocols, and other resources for computa
 <br />
 <br />
 <br />
-<br />
 
 <div class='row'>
     <div class="image">
@@ -39,7 +38,6 @@ This page provides links to software, protocols, and other resources for computa
 <br />
 <br />
 <br />
-<br />
 
 <div class='row'>
     <div class="image">
@@ -49,9 +47,8 @@ This page provides links to software, protocols, and other resources for computa
     </div>
 </div>
 
-**[FLOW & SPECTRAL CYTOMETRY](https://tomashhurst.github.io/resources/flow)**
+**[Flow & spectral cytometry](https://tomashhurst.github.io/resources/flow)**
 
-<br />
 <br />
 <br />
 <br />
@@ -64,9 +61,8 @@ This page provides links to software, protocols, and other resources for computa
     </div>
 </div>
 
-**[MASS CYTOMETRY (CyTOF)](https://tomashhurst.github.io/resources/mass)**
+**[Mass cytometry (CyTOF)](https://tomashhurst.github.io/resources/mass)**
 
-<br />
 <br />
 <br />
 <br />
@@ -79,9 +75,8 @@ This page provides links to software, protocols, and other resources for computa
     </div>
 </div>
 
-**[IMAGING MASS CYTOMETRY (IMC)](https://tomashhurst.github.io/resources/imc)**
+**[Imaging Mass Cytometry (IMC)](https://tomashhurst.github.io/resources/imc)**
 
-<br />
 <br />
 <br />
 <br />
