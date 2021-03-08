@@ -11,7 +11,7 @@ This page provides links to software, protocols, and other resources.
 <br />
 <br />
 
-# Software 
+# Computational analysis resources and software 
 
 ---
 
@@ -35,6 +35,19 @@ This page provides links to software, protocols, and other resources.
 
 - Talk on clustering and dimensionality reduction at the ACS 'homeshow': [Youtube](https://www.youtube.com/embed/MSIDmYhqe5g).
 - Clustering and dimensionality reduction approaches in FlowJo: [Tutorial](https://wiki.centenary.org.au/x/mYGoBw)
+
+<br />
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://wiki.centenary.org.au/download/attachments/172228252/SpectreMAP%20wide.png?version=2&modificationDate=1614467478815&api=v2" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+**SPATIAL ANALYSIS**: [SpectreMAP](https://wiki.centenary.org.au/display/SPECTREMAP) is a computational toolkit in R to facilitate spatial analysis of Imaging Mass Cytometry (IMC) data, extending on the functionality of our R package 'Spectre'.
 
 <br />
 <br />
