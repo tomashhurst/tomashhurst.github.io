@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: Resources - computational analysis
+title: Resources - Computational Analysis
 permalink: /resources/analysis
 ---
 
