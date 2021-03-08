@@ -37,8 +37,6 @@ This page provides links to software, protocols, and other resources for computa
 
 # Technology areas
 
----
-
 <table class="table gmisc_table">
   <tbody>
     <tr style="border-top:2px solid grey">
