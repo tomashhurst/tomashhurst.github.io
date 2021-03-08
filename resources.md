@@ -34,7 +34,6 @@ This page provides links to software, protocols, and other resources for computa
 **[Computational analysis](https://tomashhurst.github.io/resources/analysis)**: here we provide resources to facilitate computational analysis of high-dimensional cytometry data, including Spectre, an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments.
 
 <br />
-<br />
 
 ## Technology areas
 
