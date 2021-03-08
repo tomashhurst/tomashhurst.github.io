@@ -27,15 +27,15 @@ This page provides links to software, protocols, and other resources for computa
 <table class="table gmisc_table">
   <tbody>
     <tr style="border-top:1px solid grey">
-      <td style="padding-left:.75em;width:30%;border-top:1px solid grey;border-left:1px solid #000;border-right:1px solid #000;text-align:left"; style="background-color:#f2f2f2">
+      <td style="padding-left:.75em;width:30%;border-top:1px solid grey;border-left:1px solid #000;border-right:1px solid #000;text-align:left"; "background-color:#f2f2f2">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Flow and spectral cytometry
         </div>
       </td>
-      <td style="padding-left:.75em;width:30%;border-top:1px solid grey;border-right:1px solid #000;text-align:left"; style="background-color:#f2f2f2">
+      <td style="padding-left:.75em;width:30%;border-top:1px solid grey;border-right:1px solid #000;text-align:left"; "background-color:#f2f2f2">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Mass cytometry (CyTOF)
         </div>
       </td>
-      <td style="padding-left:.75em;width:30%;border-top:1px solid grey;border-right:1px solid #000;text-align:left"; style="background-color:#f2f2f2">
+      <td style="padding-left:.75em;width:30%;border-top:1px solid grey;border-right:1px solid #000;text-align:left"; "background-color:#f2f2f2">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Imaging Mass Cytometry (IMC)
         </div>
       </td>
