@@ -11,7 +11,7 @@ This page provides links to software, protocols, and other resources.
 <br />
 <br />
 
-## Computational analysis resources and software 
+# Computational analysis resources and software 
 
 ---
 
@@ -38,6 +38,7 @@ This page provides links to software, protocols, and other resources.
 
 <br />
 
+---
 
 <div class='row'>
     <div class="image">
@@ -52,7 +53,7 @@ This page provides links to software, protocols, and other resources.
 <br />
 <br />
 
-## Protocols and resources 
+# Protocols and resources 
 
 ---
 
