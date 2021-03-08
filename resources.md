@@ -47,18 +47,18 @@ This page provides links to software, protocols, and other resources for computa
   <tbody>
     <tr style="border-top:2px solid grey">
       <td style="padding-left:.75em;width:30%;border-top:2px solid grey;border-left:1px solid #000;border-right:1px solid #000;text-align:left">
-        <div style="text-align:center;font-size:medium;font-weight:700">
+        <div style="text-align:center;font-size:medium;font-weight:700;color: #00003f">
           <a href="https://tomashhurst.github.io/resources/flow">Flow and spectral cytometry
           </a>
         </div>
       </td>
       <td style="padding-left:.75em;width:30%;border-top:2px solid grey;border-right:1px solid #000;text-align:left">
-        <div style="text-align:center;font-size:medium;font-weight:700">
+        <div style="text-align:center;font-size:medium;font-weight:700;color: #00003f">
           <a href="https://tomashhurst.github.io/resources/mass">Mass cytometry (CyTOF)</a>
         </div>
       </td>
       <td style="padding-left:.75em;width:30%;border-top:2px solid grey;border-right:1px solid #000;text-align:left">
-        <div style="text-align:center;font-size:medium;font-weight:700">
+        <div style="text-align:center;font-size:medium;font-weight:700;color: #00003f">
             <a href="https://tomashhurst.github.io/resources/imc">Imaging Mass Cytometry (IMC)</a>
         </div>
       </td>
@@ -84,17 +84,17 @@ This page provides links to software, protocols, and other resources for computa
      </tr>
       <tr>
           <td style="padding-left:.75em;width:30%;border-bottom:2px solid grey;border-left:1px solid #000;border-right:1px solid #000;text-align:left">
-              <div style="text-align:center;font-size:medium;font-weight:700">
+              <div style="text-align:center;font-size:medium;font-weight:700;color: #00003f">
                   <a href="https://tomashhurst.github.io/resources/flow"><b>GO TO PAGE</b></a>
               </div>
           </td>
           <td style="padding-left:.75em;width:30%;border-bottom:2px solid grey;border-right:1px solid #000;text-align:left">
-              <div style="text-align:center;font-size:medium;font-weight:700">
+              <div style="text-align:center;font-size:medium;font-weight:700;color: #00003f">
                   <a href="https://tomashhurst.github.io/resources/mass"><b>GO TO PAGE</b></a>
               </div>
           </td>
           <td style="padding-left:.75em;width:30%;border-bottom:2px solid grey;border-right:1px solid #000;text-align:left">
-              <div style="text-align:center;font-size:medium;font-weight:700">
+              <div style="text-align:center;font-size:medium;font-weight:700;color: #00003f">
                   <a href="https://tomashhurst.github.io/resources/imc"><b>GO TO PAGE</b></a>
               </div>
           </td>
