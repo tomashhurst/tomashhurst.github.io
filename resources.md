@@ -4,8 +4,6 @@ title: Resources - Home Page
 permalink: /resources/
 ---
 
----
-
 This page provides links to software, protocols, and other resources for computational analysis, spatial analysis, flow cytometry, spectral cytometry, mass cytometry (CyTOF), Imaging Mass Cytometry (IMC).
 
 <br />
