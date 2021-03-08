@@ -10,7 +10,7 @@ permalink: /test/
 <br />
 <br />
 
-## Spectre Home Page
+# Spectre Home Page
 
 ---
 
