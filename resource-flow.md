@@ -4,8 +4,6 @@ title: Resources - flow and spectral cytometry
 permalink: /resources/flow
 ---
 
----
-
 <div class='row'>
     <div class="image">
         <a href="#">
