@@ -55,13 +55,13 @@ This page provides links to software, protocols, and other resources for computa
     </tr>
     <tr>
       <td style="padding-left:.75em;width:30%;border-left:1px solid #000;border-right:1px solid #000;text-align:left">
-          <hr>
+          <br />
       </td>
         <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">
-            <hr>
+            <br />
         </td>
         <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">
-            <hr>
+            <br />
         </td>
      </tr>
     <tr>
