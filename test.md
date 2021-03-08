@@ -11,3 +11,5 @@ permalink: /test/
 </div>
 
 <br />
+
+Just some text about the software tool.
