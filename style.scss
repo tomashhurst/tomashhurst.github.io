@@ -29,7 +29,15 @@ body {
   margin: 0 auto;
   max-width: 835px;
   padding: 0 10px;
+  width: 100%; 
+}
+
+.container-subnav {
+  margin: 0 auto;
+  max-width: 835px;
+  padding: 0 10px;
   width: 100%;
+  background-color: $lightGray;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -256,7 +264,6 @@ subnav {
   font-size: 16px;
   color: #767676; // TA: not here by default
   line-height: 2.0; // TA: added new
-  background-color: $lightGray;
 
   @include mobile {
     float: none;
