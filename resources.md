@@ -68,7 +68,7 @@ This page provides links to software, protocols, and other resources for computa
      </tr>
     <tr>
       <td style="padding-left:.75em;width:30%;border-left:1px solid #000;border-right:1px solid #000;text-align:left">
-          <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.r-project.org%2Flogo%2F&psig=AOvVaw3PM-opm5WkR5z3Jv1XFn8T&ust=1615287172868000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiw6-TDoO8CFQAAAAAdAAAAABAD" width="3000">
+          <img src="https://www.r-project.org/logo/Rlogo.svg" width="3000">
       </td>
         <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">
             <img src="https://raw.githubusercontent.com/ImmuneDynamics/Spectre/master/image/Spectre.png" width="3000">
