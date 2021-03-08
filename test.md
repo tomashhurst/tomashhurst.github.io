@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spectre
+title: SPECTRE
 permalink: /test/
 ---
 
