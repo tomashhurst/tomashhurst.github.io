@@ -6,6 +6,8 @@ permalink: /test/
 
 ---
 
-{% include subnav.html %}
+<div>
+  {% include subnav.html %}
+</div>
 
 ---
