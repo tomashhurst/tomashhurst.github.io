@@ -39,7 +39,7 @@ This page provides links to software, protocols, and other resources for computa
 
 <table class="table gmisc_table">
   <tbody>
-    <tr style="border-top:2px solid grey">
+    <tr style="border-top:1px solid grey">
       <td style="padding-left:.75em;width:30%;border-top:2px solid grey;border-left:1px solid #000;border-right:1px solid #000;text-align:left">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Flow and spectral cytometry
         </div>
