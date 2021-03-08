@@ -6,6 +6,8 @@ permalink: /test/
 
 {% include subnav.html %}
 
+<br />
+
 ## Spectre Home Page
 
 ---
