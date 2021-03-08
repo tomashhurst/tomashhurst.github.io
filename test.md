@@ -10,6 +10,8 @@ permalink: /test/
     Test text
 </div>
 
+---
+
 <br />
 <br />
 <br />
