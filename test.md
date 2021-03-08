@@ -6,6 +6,6 @@ permalink: /test/
 
 ---
 
-<div w3-include-html="includes/subnav.html"></div>
+<div w3-include-html="_includes/subnav.html"></div>
 
 ---
