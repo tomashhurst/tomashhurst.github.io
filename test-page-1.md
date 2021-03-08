@@ -9,9 +9,6 @@ permalink: /test/page1
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
 
 ## Simple discovery workflow
 
