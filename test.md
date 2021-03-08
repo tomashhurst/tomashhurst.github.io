@@ -6,12 +6,8 @@ permalink: /test/
 
 ---
 
-<div class="wrapper-header">
-  <div class="container">
-    <footer class="header">
-      Test text
-    </footer>
-  </div>
+<div class="container-subnav">
+    Test text
 </div>
 
 <br />
@@ -19,16 +15,11 @@ permalink: /test/
 <br />
 <br />
 
-<div class = "wrapper-subnav">
-  Test text
+<div class="container-subnav">
+    {% include subnav.html %}
 </div>
 
 <br />
 <br />
 <br />
 <br />
-
-Just some text about the software tool.
-
-
-{% include subnav.html %}
