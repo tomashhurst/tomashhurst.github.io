@@ -55,7 +55,7 @@ This page provides links to software, protocols, and other resources for computa
 <br />
 <br />
 
-# Protocols and resources 
+# Laboratory/technology protocols and resources 
 
 ---
 
