@@ -19,7 +19,7 @@ This page provides links to software, protocols, and other resources for computa
     </div>
 </div>
 
-**[Sydney Cytometry - Extranet Resources](https://sydneycytometry.org.au/wiki-launch)**: This external resource site from the Sydney Cytometry Facility hosts a number of protocols and resources developed by facility staff and users. 
+**[Sydney Cytometry - Extranet Resources](https://sydneycytometry.org.au/wiki-launch)**: this external resource site from the Sydney Cytometry Facility hosts a number of protocols and resources developed by facility staff and users. 
 
 <br />
 <br />
@@ -33,7 +33,7 @@ This page provides links to software, protocols, and other resources for computa
     </div>
 </div>
 
-**[Computational analysis](https://tomashhurst.github.io/resources/analysis)**
+**[Computational analysis](https://tomashhurst.github.io/resources/analysis)**: here we provide resources to facilitate computational analysis of high-dimensional cytometry data, including Spectre, an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments.
 
 <br />
 <br />
