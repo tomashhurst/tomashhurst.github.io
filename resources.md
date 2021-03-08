@@ -110,4 +110,4 @@ This page provides links to software, protocols, and other resources for computa
 <br />
 <br />
 
-<p style="color:grey"><i>Code for the table struture adapted from https://satijalab.org/seurat</i></p>
+<p style="color:grey"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
