@@ -313,13 +313,14 @@ subnav {
 }
 
 sub-title {
+  margin-left: 5px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: #301934;
   width: 100%;
   color: #CBC3E3;
   font-family: $helveticaNeue;
-  font-size: 24px;
+  font-size: 32px;
 }
 
 resource-nav {
