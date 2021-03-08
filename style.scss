@@ -259,7 +259,7 @@ nav {
 
 subnav {
   float: left;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 5px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 16px;
   color: #767676; // TA: not here by default
@@ -273,7 +273,7 @@ subnav {
 	
   @include mobile {
     float: none;
-    margin-top: 9px;
+    margin-top: 5px;
     display: block;
     font-size: 16px;
   }
