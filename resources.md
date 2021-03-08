@@ -29,7 +29,7 @@ This page provides links to software, protocols, and other resources for computa
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Spectre%20clusters.png" alt="icon" width="300" align="right">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Clusters.png" alt="icon" width="300" align="right">
         </a>
     </div>
 </div>
