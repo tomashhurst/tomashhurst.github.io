@@ -321,6 +321,16 @@ sub-title {
   color: #CBC3E3;
   font-family: $helveticaNeue;
   font-size: 32px;
+	
+   a {
+    margin-left: 15px;
+    color: #CBC3E3; // $darkGray
+    text-align: left;
+    font-weight: 300;
+    letter-spacing: 1px;
+    font-family: $helveticaNeue;
+    font-size: 32px;
+   }
 }
 
 resource-nav {
