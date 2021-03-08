@@ -249,6 +249,35 @@ nav {
   }
 }
 
+subnav {
+  float: left;
+  margin-top: 23px; // @TODO: Vertically middle align
+  font-family: $helveticaNeue;
+  font-size: 16px;
+  color: #0277bd; // TA: not here by default
+  line-height: 2.0; // TA: added new
+
+  @include mobile {
+    float: none;
+    margin-top: 9px;
+    display: block;
+    font-size: 16px;
+  }
+
+  a {
+    margin-left: 20px;
+    color: #00003f; // $darkGray
+    text-align: left;
+    font-weight: 300;
+    letter-spacing: 1px;
+
+    @include mobile {
+      margin: 0 10px;
+      color: $blue;
+    }
+  }
+}
+
 //
 // .main
 //
