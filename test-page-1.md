@@ -1,7 +1,7 @@
 ---
 layout: spectre
 title: Simple discovery workflow - clustering and DR
-permalink: /test/page1
+permalink: /test/testpage1
 ---
 
 ---
