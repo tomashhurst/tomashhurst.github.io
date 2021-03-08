@@ -8,6 +8,8 @@ permalink: /resources/
 
 This page provides links to software, protocols, and other resources for computational analysis, spatial analysis, flow cytometry, spectral cytometry, mass cytometry (CyTOF), Imaging Mass Cytometry (IMC).
 
+<br />
+
 <div class='row'>
     <div class="image">
         <a href="https://sydneycytometry.org.au/wiki-launch">
