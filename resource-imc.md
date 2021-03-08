@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: Resources
+title: Resources - Imaging Mass Cytometry (IMC)
 permalink: /resources/imc
 ---
 
