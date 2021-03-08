@@ -6,6 +6,8 @@ permalink: /test/page1
 
 {% include subnav.html %}
 
+<br />
+
 ## Simple discovery workflow
 
 ---
