@@ -8,7 +8,7 @@ permalink: /test/
 
 <div class="wrapper-header">
   <div class="container">
-    <footer class="footer">
+    <footer class="header">
       {% include subnav.html %}
     </footer>
   </div>
