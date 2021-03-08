@@ -1,9 +1,13 @@
 ---
 layout: page
-title: SPECTRE - Page 1
+title: SPECTRE
 permalink: /test/page1
 ---
 
 {% include subnav.html %}
 
-Page 1.
+## Page 1
+
+---
+
+Generic text.
