@@ -4,7 +4,6 @@ title: Resources - mass cytometry (CyTOF)
 permalink: /resources/mass
 ---
 
----
 <div class='row'>
     <div class="image">
         <a href="#">
