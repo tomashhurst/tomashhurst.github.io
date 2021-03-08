@@ -4,8 +4,6 @@ title: Resources - computational analysis
 permalink: /resources/analysis
 ---
 
----
-
 <div class='row'>
     <div class="image">
         <a href="#">
