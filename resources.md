@@ -6,19 +6,12 @@ permalink: /resources/
 
 ---
 
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://images.squarespace-cdn.com/content/4f5013cf24ac3afbd1aa0384/1449533180720-Q8AMXEWY5ZQNJRS5LB8K/Sydney+Cytometry+No+White+Space.png?format=1500w&content-type=image%2Fpng" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
-
-[**Sydney Cytometry - Extranet Resources**](https://sydneycytometry.org.au/wiki-launch): This external resource site from the Sydney Cytometry Facility hosts a number of protocols and resources developed by facility staff and users. 
-
-- To request access to the extranet, please see [this link](https://forms.gle/UQCXLt1Q7p5Yv82V8).
+This page provides links to software, protocols, and other resources.
 
 <br />
+<br />
+
+# Software 
 
 ---
 
@@ -42,6 +35,25 @@ permalink: /resources/
 
 - Talk on clustering and dimensionality reduction at the ACS 'homeshow': [Youtube](https://www.youtube.com/embed/MSIDmYhqe5g).
 - Clustering and dimensionality reduction approaches in FlowJo: [Tutorial](https://wiki.centenary.org.au/x/mYGoBw)
+
+<br />
+<br />
+
+# Protocols and resources 
+
+---
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://images.squarespace-cdn.com/content/4f5013cf24ac3afbd1aa0384/1449533180720-Q8AMXEWY5ZQNJRS5LB8K/Sydney+Cytometry+No+White+Space.png?format=1500w&content-type=image%2Fpng" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+[**Sydney Cytometry - Extranet Resources**](https://sydneycytometry.org.au/wiki-launch): This external resource site from the Sydney Cytometry Facility hosts a number of protocols and resources developed by facility staff and users. 
+
+- To request access to the extranet, please see [this link](https://forms.gle/UQCXLt1Q7p5Yv82V8).
 
 <br />
 
