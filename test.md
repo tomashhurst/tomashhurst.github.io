@@ -9,9 +9,6 @@ permalink: /test/
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
 
 ## Spectre Home Page
 
