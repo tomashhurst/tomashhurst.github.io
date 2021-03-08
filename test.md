@@ -70,11 +70,11 @@ If you use Spectre in your work, please consider citing Ashhurst TM, Marsh-Wakef
         </td>
       </tr>
       <tr>
-          <td style="padding-left:.75em;width:30%;border-left:1px solid #000;border-right:1px solid #000;text-align:left">A basic overview of Seurat that includes an introduction to common analytical workflows.
+          <td style="padding-left:.75em;width:30%;border-left:1px solid #000;border-right:1px solid #000;text-align:left">Getting started with R.
           </td>
-          <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">An introduction to working with multi-modal datasets in Seurat.
+          <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">Installing Spectre.
           </td>
-          <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">Learn to explore spatially-resolved transcriptomic data with examples from 10x Visium and Slide-seq v2.
+          <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">Spectre tutorial.
           </td>
      </tr>
       <tr>
