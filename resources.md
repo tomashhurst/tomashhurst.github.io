@@ -44,7 +44,7 @@ This page provides links to software, protocols, and other resources for computa
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Flow%20long.png" alt="icon" width="250" align="right">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Antibodies.png" alt="icon" width="250" align="right">
         </a>
     </div>
 </div>
@@ -63,7 +63,7 @@ This page provides links to software, protocols, and other resources for computa
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/CyTOF%20long.png" alt="icon" width="220" align="right">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/CyTOF%20close.png" alt="icon" width="220" align="right">
         </a>
     </div>
 </div>
@@ -86,7 +86,7 @@ This page provides links to software, protocols, and other resources for computa
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/IMC%20long%202.png" alt="icon" width="250" align="right">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/IMC.jpg" alt="icon" width="250" align="right">
         </a>
     </div>
 </div>
