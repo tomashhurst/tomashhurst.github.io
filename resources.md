@@ -8,9 +8,6 @@ permalink: /resources/
 
 This page provides links to software, protocols, and other resources for computational analysis, spatial analysis, flow cytometry, spectral cytometry, mass cytometry (CyTOF), Imaging Mass Cytometry (IMC).
 
-<br />
-<br />
-
 <div class='row'>
     <div class="image">
         <a href="https://sydneycytometry.org.au/wiki-launch">
@@ -21,7 +18,6 @@ This page provides links to software, protocols, and other resources for computa
 
 **[Sydney Cytometry - Extranet Resources](https://sydneycytometry.org.au/wiki-launch)**: this external resource site from the Sydney Cytometry Facility hosts a number of protocols and resources developed by facility staff and users. 
 
-<br />
 <br />
 <br />
 
@@ -35,7 +31,6 @@ This page provides links to software, protocols, and other resources for computa
 
 **[Computational analysis](https://tomashhurst.github.io/resources/analysis)**: here we provide resources to facilitate computational analysis of high-dimensional cytometry data, including Spectre, an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments.
 
-<br />
 <br />
 <br />
 
