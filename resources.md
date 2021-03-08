@@ -39,44 +39,64 @@ This page provides links to software, protocols, and other resources for computa
 <br />
 <br />
 
-<div class='row'>
-    <div class="image">
-        <a href="https://tomashhurst.github.io/resources/flow">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Antibodies.png" alt="icon" width="300" align="right">
-        </a>
-    </div>
-</div>
+## Technology areas
 
-**[Flow & spectral cytometry](https://tomashhurst.github.io/resources/flow)**
+---
 
 <br />
-<br />
-<br />
 
-<div class='row'>
-    <div class="image">
-        <a href="https://tomashhurst.github.io/resources/mass">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/CyTOF%20close.png" alt="icon" width="300" align="right">
-        </a>
-    </div>
-</div>
-
-**[Mass cytometry (CyTOF)](https://tomashhurst.github.io/resources/mass)**
-
-<br />
-<br />
-<br />
-
-<div class='row'>
-    <div class="image">
-        <a href="https://tomashhurst.github.io/resources/imc">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/IMC.jpg" alt="icon" width="300" align="right">
-        </a>
-    </div>
-</div>
-
-**[Imaging Mass Cytometry (IMC)](https://tomashhurst.github.io/resources/imc)**
-
-<br />
-<br />
-<br />
+<table class="table gmisc_table">
+  <tbody>
+    <tr style="border-top:2px solid grey">
+      <td style="padding-left:.75em;width:30%;border-top:2px solid grey;border-left:1px solid #000;border-right:1px solid #000;text-align:left">
+        <div style="text-align:center;font-size:large;font-weight:700">
+          <a href="https://tomashhurst.github.io/resources/flow">Flow and spectral cytometry
+          </a>
+        </div>
+      </td>
+      <td style="padding-left:.75em;width:30%;border-top:2px solid grey;border-right:1px solid #000;text-align:left">
+        <div style="text-align:center;font-size:large;font-weight:700">
+          <a href="https://tomashhurst.github.io/resources/mass">Mass cytometry (CyTOF)</a>
+        </div>
+      </td>
+      <td style="padding-left:.75em;width:30%;border-top:2px solid grey;border-right:1px solid #000;text-align:left">
+        <div style="text-align:center;font-size:large;font-weight:700">
+            <a href="https://tomashhurst.github.io/resources/imc">Imaging Mass Cytometry (IMC)</a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding-left:.75em;width:30%;border-left:1px solid #000;border-right:1px solid #000;text-align:left">
+          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Antibodies.png" width="3000">
+      </td>
+        <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/CyTOF%20close.png" width="3000">
+        </td>
+        <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/IMC.jpg" width="3000">
+        </td>
+      </tr>
+      <tr>
+          <td style="padding-left:.75em;width:30%;border-left:1px solid #000;border-right:1px solid #000;text-align:left">Flow and spectral cytometry protocols.
+          </td>
+          <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">Mass cytometry (CyTOF) protocols.
+          </td>
+          <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">Imaging Mass Cytometry (IMC) protocols.
+          </td>
+     </tr>
+      <tr>
+          <td style="padding-left:.75em;width:30%;border-bottom:2px solid grey;border-left:1px solid #000;border-right:1px solid #000;text-align:left">
+              <a class="btn btn-primary" href="https://tomashhurst.github.io/resources/flow" role="button" style="width:100%"><b>GO TO PAGE</b>
+              </a>
+          </td>
+          <td style="padding-left:.75em;width:30%;border-bottom:2px solid grey;border-right:1px solid #000;text-align:left">
+              <a class="btn btn-primary" href="https://tomashhurst.github.io/resources/mass" role="button" style="width:100%"><b>GO TO PAGE</b>
+              </a>
+          </td>
+          <td style="padding-left:.75em;width:30%;border-bottom:2px solid grey;border-right:1px solid #000;text-align:left">
+              <a class="btn btn-primary" href="https://tomashhurst.github.io/resources/imc" role="button" style="width:100%"><b>GO TO PAGE</b>
+              </a>
+          </td>
+      </tr>
+    </tbody>
+</table>
