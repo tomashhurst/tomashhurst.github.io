@@ -6,7 +6,7 @@ permalink: /test/
 
 ---
 
-<div>
+<div class = "wrapper-subnav">
   {% include subnav.html %}
 </div>
 
