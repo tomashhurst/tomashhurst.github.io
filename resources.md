@@ -34,7 +34,7 @@ This page provides links to software, protocols, and other resources for computa
     </div>
 </div>
 
-**[Computational analysis](/resources/analysis)**: here we provide resources to facilitate computational analysis of high-dimensional cytometry data, including [Spectre](https://wiki.centenary.org.au/display/SPECTRE), an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments.
+**[Computational analysis](resources/analysis)**: here we provide resources to facilitate computational analysis of high-dimensional cytometry data, including [Spectre](https://wiki.centenary.org.au/display/SPECTRE), an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments.
 
 <br />
 <br />
@@ -49,8 +49,12 @@ This page provides links to software, protocols, and other resources for computa
     </div>
 </div>
 
-**FLOW & SPECTRAL CYTOMETRY**: Below is a collection of resources and protocols for flow cytometry and spectral cytometry.
+**[FLOW & SPECTRAL CYTOMETRY](resources/flow)**: Below is a collection of resources and protocols for flow cytometry and spectral cytometry.
 
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -64,8 +68,12 @@ This page provides links to software, protocols, and other resources for computa
     </div>
 </div>
 
-**[MASS CYTOMETRY (CyTOF)](/resources/mass)**: Below is a collection of resources and protocols for mass cytometry.
+**[MASS CYTOMETRY (CyTOF)](resources/mass)**: Below is a collection of resources and protocols for mass cytometry.
 
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -79,7 +87,7 @@ This page provides links to software, protocols, and other resources for computa
     </div>
 </div>
 
-**[IMAGING MASS CYTOMETRY (IMC)](/resources/imc)**: Below is a collection of resources and protocols for Imaging Mass Cytometry (IMC).
+**[IMAGING MASS CYTOMETRY (IMC)](resources/imc)**: Below is a collection of resources and protocols for Imaging Mass Cytometry (IMC).
 
 <br />
 <br />
