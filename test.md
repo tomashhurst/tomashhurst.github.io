@@ -97,7 +97,7 @@ If you use Spectre in your work, please consider citing Ashhurst TM, Marsh-Wakef
 <br />
 <br />
 
-## Technology-based protocols
+## Technology-based workflows
 
 ---
 
