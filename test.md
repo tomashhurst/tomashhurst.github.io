@@ -55,7 +55,7 @@ If you use Spectre in your work, please consider citing Ashhurst TM, Marsh-Wakef
         </div>
       </td>
       <td style="padding-left:.75em;width:30%;border-top:2px solid grey;border-right:1px solid #000;text-align:left">
-        <div style="text-align:center;font-size:large;font-weight:700"><a href="spatial_vignette.html">Spectre tutorial
+        <div style="text-align:center;font-size:large;font-weight:700"><a href="spatial_vignette.html">Introductory Spectre tutorial
             </a>
         </div>
       </td>
