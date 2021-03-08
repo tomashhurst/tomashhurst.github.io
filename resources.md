@@ -27,47 +27,47 @@ This page provides links to software, protocols, and other resources for computa
 <table class="table gmisc_table">
   <tbody>
     <tr style="border-top:1px solid grey">
-      <td style="padding-left:.75em;width:30%;border-top:1px solid grey;border-left:1px solid #000;border-right:1px solid #000;text-align:left">
+      <td style="padding-left:.75em;width:30%;border-top:1px solid grey;border-left:1px solid #000;border-right:1px solid #000;text-align:left"; style="background-color:#f2f2f2">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Flow and spectral cytometry
         </div>
       </td>
-      <td style="padding-left:.75em;width:30%;border-top:1px solid grey;border-right:1px solid #000;text-align:left">
+      <td style="padding-left:.75em;width:30%;border-top:1px solid grey;border-right:1px solid #000;text-align:left"; style="background-color:#f2f2f2">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Mass cytometry (CyTOF)
         </div>
       </td>
-      <td style="padding-left:.75em;width:30%;border-top:1px solid grey;border-right:1px solid #000;text-align:left">
+      <td style="padding-left:.75em;width:30%;border-top:1px solid grey;border-right:1px solid #000;text-align:left"; style="background-color:#f2f2f2">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Imaging Mass Cytometry (IMC)
         </div>
       </td>
     </tr>
     <tr>
-      <td style="padding-left:.75em;width:30%;border-left:1px solid #000;border-top:1px solid grey; border-right:1px solid #000;text-align:left">
+      <td style="padding-left:.75em;width:30%; border-top:1px solid grey; border-left:1px solid #000; border-right:1px solid #000;text-align:left">
           <br />
       </td>
-        <td style="padding-left:.75em;width:30%;border-top:1px solid grey; border-right:1px solid #000;text-align:left">
+        <td style="padding-left:.75em;width:30%; border-top:1px solid grey; border-right:1px solid #000;text-align:left">
             <br />
         </td>
-        <td style="padding-left:.75em;width:30%;border-top:1px solid grey; border-right:1px solid #000;text-align:left">
+        <td style="padding-left:.75em;width:30%; border-top:1px solid grey; border-right:1px solid #000;text-align:left">
             <br />
         </td>
      </tr>
     <tr>
-      <td style="padding-left:.75em;width:30%border-top:1px solid grey; ;border-left:1px solid #000;border-right:1px solid #000;text-align:left">
+      <td style="padding-left:.75em;width:30%; border-left:1px solid #000;border-right:1px solid #000;text-align:left">
           <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Flow%20long.png" width="3000">
       </td>
-        <td style="padding-left:.75em;width:30%border-top:1px solid grey; ;border-right:1px solid #000;text-align:left">
+        <td style="padding-left:.75em;width:30%; border-right:1px solid #000;text-align:left">
             <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/CyTOF_square.png" width="3000">
         </td>
-        <td style="padding-left:.75em;width:30%border-top:1px solid grey; ;border-right:1px solid #000;text-align:left">
+        <td style="padding-left:.75em;width:30%; border-right:1px solid #000;text-align:left">
             <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/IMC%20long%202.png" width="3000">
         </td>
       </tr>
       <tr>
-          <td style="padding-left:.75em;width:30%;border-top:1px solid grey; border-left:1px solid #000;border-right:1px solid #000;text-align:left">Flow and spectral cytometry protocols.
+          <td style="padding-left:.75em;width:30%; border-left:1px solid #000;border-right:1px solid #000;text-align:left">Flow and spectral cytometry protocols.
           </td>
-          <td style="padding-left:.75em;width:30%;border-top:1px solid grey; border-right:1px solid #000;text-align:left">Mass cytometry (CyTOF) protocols.
+          <td style="padding-left:.75em;width:30%; border-right:1px solid #000;text-align:left">Mass cytometry (CyTOF) protocols.
           </td>
-          <td style="padding-left:.75em;width:30%;border-top:1px solid grey; border-right:1px solid #000;text-align:left">Imaging Mass Cytometry (IMC) protocols.
+          <td style="padding-left:.75em;width:30%; border-right:1px solid #000;text-align:left">Imaging Mass Cytometry (IMC) protocols.
           </td>
      </tr>
       <tr>
