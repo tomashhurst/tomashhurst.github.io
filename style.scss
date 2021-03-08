@@ -126,6 +126,19 @@ img {
   max-width: 100%;
 }
 
+.table-top {
+  font-size: 16px; // 16px;
+  font-weight: 350; // TA added
+  color: #00003f; // Normally no color here
+}
+
+.table-bottom {
+  font-size: 14px; // 16px;
+  font-weight: 350; // TA added
+  color: #00003f; // Normally no color here
+  font-weight:    bold;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
