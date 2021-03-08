@@ -10,6 +10,4 @@ permalink: /test/
   {% include subnav.html %}
 </div>
 
----
-
 <br />
