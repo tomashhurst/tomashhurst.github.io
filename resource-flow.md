@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: Resources - flow and spectral cytometry
+title: Resources - Flow and Spectral Cytometry
 permalink: /resources/flow
 ---
 
