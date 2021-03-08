@@ -4,8 +4,6 @@ title: Resources - Imaging Mass Cytometry (IMC)
 permalink: /resources/imc
 ---
 
----
-
 <div class='row'>
     <div class="image">
         <a href="#">
