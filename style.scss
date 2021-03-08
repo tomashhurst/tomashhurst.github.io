@@ -264,7 +264,13 @@ subnav {
   font-size: 16px;
   color: #767676; // TA: not here by default
   line-height: 2.0; // TA: added new
-
+	
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  background-color: $lightGray;
+	
+  width: 100%;
+	
   @include mobile {
     float: none;
     margin-top: 9px;
