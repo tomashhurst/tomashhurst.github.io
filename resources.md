@@ -88,8 +88,8 @@ This page provides links to software, protocols, and other resources for computa
               </div>
           </td>
           <td style="padding-left:.75em;width:30%;border-bottom:2px solid grey;border-right:1px solid #000;text-align:left">
-              <div style="text-align:center;font-size:medium;font-weight:700;color:#00003f">
-                  <p style="color:#00003">
+              <div style="text-align:center;font-size:medium;font-weight:700;">
+                  <p style="color:#00003f">
                       <a href="https://tomashhurst.github.io/resources/imc"><b>GO TO PAGE</b></a>
                   </p>
               </div>
