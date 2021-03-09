@@ -25,7 +25,6 @@ This page provides links to software, protocols, and other resources for computa
 </table>
 
 <br />
-<br />
 
 ## Flow & spectral cytometry
 
@@ -43,7 +42,6 @@ This page provides links to software, protocols, and other resources for computa
     </tbody>
 </table>
 
-<br />
 <br />
 
 ## Mass cytometry (CyTOF)
@@ -63,7 +61,6 @@ This page provides links to software, protocols, and other resources for computa
 </table>
 
 <br />
-<br />
 
 ## Imaging Mass Cytometry (IMC)
 
@@ -81,7 +78,6 @@ This page provides links to software, protocols, and other resources for computa
     </tbody>
 </table>
 
-<br />
 <br />
 
 <p style="color:grey"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
