@@ -398,16 +398,16 @@ resource-nav-title {
   // margin-top: 5px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 24px;
-  color: #f2f2f2; // TA: not here by default
+  color: #00003f; // TA: not here by default
   line-height: 2.0; // TA: added new
   // margin-bottom: 15px;
 	
-  border-top: 1px solid #ddd;
-  // border-bottom: 1px solid #ddd;
-  border-left: 1px solid #ddd;
-  border-right: 1px solid #ddd;
+  //border-top: 1px solid #ddd;
+  //border-bottom: 1px solid #ddd;
+  //border-left: 1px solid #ddd;
+  //border-right: 1px solid #ddd;
   //background-color: #eeeeee;
-  background-color: #00003f;
+  //background-color: #00003f;
 	
   width: 100%;
 	
@@ -422,7 +422,8 @@ resource-nav-title {
   a {
     margin-left: 15px;
     margin-right: 5px;
-    color: #f2f2f2; // $darkGray
+    //color: #f2f2f2; // $darkGray
+    color: #00003f;
     text-align: left;
     font-weight: 300;
     letter-spacing: 1px;
