@@ -98,14 +98,10 @@ This page provides links to software, protocols, and other resources for computa
 <p style="color:grey"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
 
+### Computational analysis
 
 <table class="table gmisc_table">
   <tbody>
-    <tr>
-      <td style="padding-left:.75em;width:100%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left">
-          <p><b>Placeholder text</b></p>
-      </td>
-    </tr>
     <tr>
       <td style="padding-left:.75em;width:40%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left">
           <p><b>Placeholder text</b></p>
