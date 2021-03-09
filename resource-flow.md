@@ -4,13 +4,7 @@ title: Resources - Flow and Spectral Cytometry
 permalink: /resources/flow
 ---
 
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Flow%20long.png" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
+![Flow](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Tech.png)
 
 **FLOW & SPECTRAL CYTOMETRY**: Below is a collection of resources and protocols for flow cytometry and spectral cytometry.
 
