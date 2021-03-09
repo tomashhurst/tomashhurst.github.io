@@ -51,7 +51,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 ---
 
-*23 publications cited 492 times since 2012, with an h-index of 9 (via [Google Scholar](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en)). These publications include seminal methodological advances, reviews, and primary research across a number of fields.*
+*23 publications cited 492 times since 2012, with an h-index of 9 (via [Google Scholar](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en)). These publications include seminal methodological advances, reviews, and primary research across a number of fields, including [COVID-19 research](https://tomashhurst.github.io/research/#application-to-disease), seminal technical, methodological, and analytics advances, as well as reviews.*
 
 <br />
 
