@@ -102,11 +102,11 @@ This page provides links to software, protocols, and other resources for computa
 <table class="table gmisc_table">
   <tbody>
     <tr>
-      <td style="padding-left:.75em;width:30%; border-left:1px solid #000;border-right:1px solid #000;text-align:left">
+      <td style="padding-left:.75em;width:40%; border-left:1px solid #000;border-right:1px solid #000;text-align:left">
           <p><b>Placeholder text</b></p>
-          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Flow%20long.png" width="3000">
+          <img src="https://wiki.centenary.org.au/download/attachments/146080606/image2020-8-20_14-46-9.png?version=1&modificationDate=1597937846914&api=v2" width="3000">
       </td>
-        <td style="padding-left:.75em;width:70%; border-right:1px solid #000;text-align:left">
+        <td style="padding-left:.75em;width:60%; border-right:1px solid #000;text-align:left">
             <p>Placeholder text</p>
             <a href="https://tomashhurst.github.io/resources/mass"><b>GO TO PAGE</b></a>
         </td>
