@@ -26,74 +26,76 @@ This page provides links to software, protocols, and other resources for computa
 
 <br />
 <br />
-<br />
 
-## Technology areas
+## Flow & spectral cytometry
 
 <table class="table gmisc_table">
   <tbody>
-    <tr style="border-top:1px solid grey">
-      <td style="padding-left:.75em;width:30%;border-top:1px solid grey;border-left:1px solid #000;border-right:1px solid #000;text-align:left; background-color:#f2f2f2">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Flow and spectral cytometry
-        </div>
-      </td>
-      <td style="padding-left:.75em;width:30%;border-top:1px solid grey;border-right:1px solid #000;text-align:left; background-color:#f2f2f2">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Mass cytometry (CyTOF)
-        </div>
-      </td>
-      <td style="padding-left:.75em;width:30%;border-top:1px solid grey;border-right:1px solid #000;text-align:left; background-color:#f2f2f2">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Imaging Mass Cytometry (IMC)
-        </div>
-      </td>
-    </tr>
     <tr>
-      <td style="padding-left:.75em;width:30%; border-top:1px solid grey; border-left:1px solid #000; border-right:1px solid #000;text-align:left">
-          <br />
+      <td style="padding-left:.75em;width:40%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Antibodies.png" width="3000">
       </td>
-        <td style="padding-left:.75em;width:30%; border-top:1px solid grey; border-right:1px solid #000;text-align:left">
-            <br />
-        </td>
-        <td style="padding-left:.75em;width:30%; border-top:1px solid grey; border-right:1px solid #000;text-align:left">
-            <br />
-        </td>
-     </tr>
-    <tr>
-      <td style="padding-left:.75em;width:30%; border-left:1px solid #000;border-right:1px solid #000;text-align:left">
-          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Flow%20long.png" width="3000">
+      <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <p>Flow and spectral cytometry protocols.</p>
+          <a href="https://tomashhurst.github.io/resources/flow"><b>GO TO PAGE</b></a>
       </td>
-        <td style="padding-left:.75em;width:30%; border-right:1px solid #000;text-align:left">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/CyTOF_square.png" width="3000">
-        </td>
-        <td style="padding-left:.75em;width:30%; border-right:1px solid #000;text-align:left">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/IMC%20long%202.png" width="3000">
-        </td>
       </tr>
-      <tr>
-          <td style="padding-left:.75em;width:30%; border-left:1px solid #000;border-right:1px solid #000;text-align:left">Flow and spectral cytometry protocols.
-          </td>
-          <td style="padding-left:.75em;width:30%; border-right:1px solid #000;text-align:left">Mass cytometry (CyTOF) protocols.
-          </td>
-          <td style="padding-left:.75em;width:30%; border-right:1px solid #000;text-align:left">Imaging Mass Cytometry (IMC) protocols.
-          </td>
-     </tr>
-      <tr>
-          <td style="padding-left:.75em;width:30%;border-top:1px solid grey; border-bottom:1px solid grey;border-left:1px solid #000;border-right:1px solid #000;text-align:left">
-              <div style="text-align:center;font-size:large;font-weight:700;color:#00003f">
-                  <a href="https://tomashhurst.github.io/resources/flow"><b>GO TO PAGE</b></a>
-              </div>
-          </td>
-          <td style="padding-left:.75em;width:30%;border-top:1px solid grey; border-bottom:1px solid grey;border-right:1px solid #000;text-align:left">
-              <div style="text-align:center;font-size:large;font-weight:700;color:#00003f">
-                  <a href="https://tomashhurst.github.io/resources/mass"><b>GO TO PAGE</b></a>
-              </div>
-          </td>
-          <td style="padding-left:.75em;width:30%;border-top:1px solid grey; border-bottom:1px solid grey;border-right:1px solid #000;text-align:left">
-              <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
-                      <a href="https://tomashhurst.github.io/resources/imc"><b>GO TO PAGE</b></a>
-                  </p>
-              </div>
-          </td>
+    </tbody>
+</table>
+
+<br />
+<br />
+
+## Flow & spectral cytometry
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;width:40%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Antibodies.png" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <p>Flow and spectral cytometry protocols.</p>
+          <a href="https://tomashhurst.github.io/resources/flow"><b>GO TO PAGE</b></a>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<br />
+<br />
+
+## Mass cytometry (CyTOF)
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;width:40%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/CyTOF%20close.png" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <p>Mass cytometry (CyTOF) protocols.</p>
+          <a href="https://tomashhurst.github.io/resources/mass"><b>GO TO PAGE</b></a>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<br />
+<br />
+
+## Imaging Mass Cytometry (IMC)
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;width:40%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/IMC.jpg" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <p>Imaging Mass Cytometry (IMC) protocols.</p>
+          <a href="https://tomashhurst.github.io/resources/imc"><b>GO TO PAGE</b></a>
+      </td>
       </tr>
     </tbody>
 </table>
