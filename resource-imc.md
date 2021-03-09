@@ -4,13 +4,7 @@ title: Resources - Imaging Mass Cytometry (IMC)
 permalink: /resources/imc
 ---
 
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/IMC%20long%202.png" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
+![IMC](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/IMC.jpg)
 
 **IMAGING MASS CYTOMETRY (IMC)**: Below is a collection of resources and protocols for Imaging Mass Cytometry (IMC).
 
