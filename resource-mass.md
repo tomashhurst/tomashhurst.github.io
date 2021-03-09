@@ -4,13 +4,7 @@ title: Resources - Mass Cytometry (CyTOF)
 permalink: /resources/mass
 ---
 
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/CyTOF%20long.png" alt="icon" width="220" align="right">
-        </a>
-    </div>
-</div>
+![CyTOF](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/CyTOF%20close.png)
 
 **MASS CYTOMETRY (CyTOF)**: Below is a collection of resources and protocols for mass cytometry.
 
