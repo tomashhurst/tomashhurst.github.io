@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Single cell and imaging technologies
-permalink: /research/
+permalink: /technology/
 ---
 
 ---
