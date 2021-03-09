@@ -284,7 +284,7 @@ subnav {
   line-height: 2.0; // TA: added new
   margin-bottom: 15px;
 	
-  border-top: 1px solid #ddd;
+  #border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: #CBC3E3;
 	
@@ -299,7 +299,8 @@ subnav {
   }
 
   a {
-    margin-left: 15px;
+    margin-left: 10px;
+    margin-right: 5px;
     color: #00003f; // $darkGray 
     text-align: left;
     font-weight: 300;
@@ -322,7 +323,7 @@ subnav-title {
   // margin-bottom: 15px;
 	
   border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  #border-bottom: 1px solid #ddd;
   background-color: #301934;
 	
   width: 100%;
@@ -336,7 +337,8 @@ subnav-title {
   }
 
   a {
-    margin-left: 5px;
+    margin-left: 10px;
+    margin-right: 5px;
     color: #CBC3E3; // $darkGray 
     text-align: left;
     font-weight: 300;
