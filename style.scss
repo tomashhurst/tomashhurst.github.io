@@ -366,10 +366,10 @@ resource-nav {
 	
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  border-left: 1px solid #ddd;
-  border-right: 1px solid #ddd;
+  // border-left: 1px solid #ddd;
+  // border-right: 1px solid #ddd;
   //background-color: #eeeeee;
-  background-color: #f2f2f2;
+  // background-color: #f2f2f2;
 	
   width: 100%;
 	
@@ -382,8 +382,8 @@ resource-nav {
   }
 
   a {
-    margin-left: 15px;
-    margin-right: 5px;
+    margin-left: 5px;
+    margin-right: 15px;
     color: #00003f; // $darkGray
     text-align: left;
     font-weight: 300;
