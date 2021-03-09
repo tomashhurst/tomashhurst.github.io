@@ -16,10 +16,10 @@ This page provides links to software, protocols, and other resources for computa
       <td style="padding-left:.75em;width:40%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left">
           <img src="https://wiki.centenary.org.au/download/attachments/146080606/image2020-8-20_14-46-9.png?version=1&modificationDate=1597937846914&api=v2" width="3000">
       </td>
-        <td style="padding-left:.75em;width:60%; border-right:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;text-align:left">
-            <p>Computational analysis here we provide resources to facilitate computational analysis of high-dimensional cytometry data, including Spectre, an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments.</p>
-            <a href="https://tomashhurst.github.io/resources/analysis"><b>GO TO PAGE</b></a>
-        </td>
+      <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left">
+          <p>Computational analysis here we provide resources to facilitate computational analysis of high-dimensional cytometry data, including Spectre, an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments.</p>
+          <a href="https://tomashhurst.github.io/resources/analysis"><b>GO TO PAGE</b></a>
+      </td>
       </tr>
     </tbody>
 </table>
