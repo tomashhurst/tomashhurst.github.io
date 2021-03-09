@@ -4,8 +4,6 @@ title: Spectre Home Page
 permalink: /test/
 ---
 
----
-
 ![Spectre](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Spectre.png)
 
 **Introduction**
