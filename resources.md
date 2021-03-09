@@ -102,6 +102,11 @@ This page provides links to software, protocols, and other resources for computa
 <table class="table gmisc_table">
   <tbody>
     <tr>
+      <td style="padding-left:.75em;width:100%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left">
+          <p><b>Placeholder text</b></p>
+      </td>
+    </tr>
+    <tr>
       <td style="padding-left:.75em;width:40%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left">
           <p><b>Placeholder text</b></p>
           <img src="https://wiki.centenary.org.au/download/attachments/146080606/image2020-8-20_14-46-9.png?version=1&modificationDate=1597937846914&api=v2" width="3000">
