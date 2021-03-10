@@ -50,7 +50,7 @@ This page provides links to software, protocols, and other resources for computa
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:40%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/CyTOF%20close.png" width="3000">
+          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/CyTOF%20close%202.png" width="3000">
       </td>
       <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
           <p>Mass cytometry (CyTOF) protocols, including a lniks to a range of protocols from 'Mass Cytometry: Methods and Protocols (McGuire & Ashhurst).</p>
@@ -68,7 +68,7 @@ This page provides links to software, protocols, and other resources for computa
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:40%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/IMC%20long.png" width="3000">
+          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/IMC%20long%203.png" width="3000">
       </td>
       <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
           <p>Imaging Mass Cytometry (IMC) analysis protocols.</p>
