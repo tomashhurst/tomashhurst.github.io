@@ -4,7 +4,7 @@ title: Resources - Home Page
 permalink: /resources/
 ---
 
-This page provides links to software, protocols, and other resources for computational analysis, spatial analysis, flow cytometry, spectral cytometry, mass cytometry (CyTOF), Imaging Mass Cytometry (IMC). You can also explore the **[Sydney Cytometry Extranet](https://sydneycytometry.org.au/wiki-launch)**: this external resource site from the Sydney Cytometry Facility hosts a number of protocols and resources developed by facility staff and users. Non-facility users can request access using the form on the page linked above.
+On this page we provide links to software, protocols, and other resources for computational analysis, spatial analysis, flow cytometry, spectral cytometry, mass cytometry (CyTOF), and Imaging Mass Cytometry (IMC). You can also explore the **[Sydney Cytometry Extranet](https://sydneycytometry.org.au/wiki-launch)**: this external resource site from the Sydney Cytometry Facility hosts a number of protocols and resources developed by facility staff and users. Non-facility users can request access using the form on the page linked above.
 
 <br />
 
