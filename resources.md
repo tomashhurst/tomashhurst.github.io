@@ -21,7 +21,7 @@ On this page we provide links to software, protocols, and other resources for co
       <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Computational analysis of single-cell cytometry data</b></p>
         <p>Here we provide resources to facilitate computational analysis of high-dimensional cytometry data, including Spectre, an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments.</p>
-          <a href="https://tomashhurst.github.io/resources/analysis"><b>GO TO PAGE</b></a>
+          <a href="https://tomashhurst.github.io/resources/analysis"><b><span style="font-size: 20px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
       </tr>
