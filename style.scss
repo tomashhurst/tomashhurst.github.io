@@ -429,13 +429,13 @@ resource-nav-title {
     //color: #f2f2f2; // $darkGray
     color: #00003f;
     text-align: left;
-    font-weight: 350;
+    font-weight: 310;
     letter-spacing: 1px;
 
-    @include mobile {
-      margin: 0 10px;
-      color: $blue;
-    }
+    //@include mobile {
+    //  margin: 0 10px;
+    //  color: $blue;
+    //}
   }
 }
 
