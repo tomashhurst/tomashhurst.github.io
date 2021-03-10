@@ -12,8 +12,6 @@ This page provides links to software, protocols, and other resources for computa
 
 ---
 
-### Computational analysis
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -36,8 +34,6 @@ This page provides links to software, protocols, and other resources for computa
 
 ---
 
-### Flow & spectral cytometry
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -45,6 +41,7 @@ This page provides links to software, protocols, and other resources for computa
           <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Aurora.png" width="3000">
       </td>
       <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <p><b>Flow and spectral cytometry</b></p>
           <p>Flow and spectral cytometry protocols, including panel design, voltages, spillover, and spreading error.</p>
           <a href="https://tomashhurst.github.io/resources/flow"><b>GO TO PAGE</b></a>
       </td>
@@ -52,7 +49,7 @@ This page provides links to software, protocols, and other resources for computa
     </tbody>
 </table>
 
-### Mass cytometry (CyTOF)
+<br />
 
 <table class="table gmisc_table">
   <tbody>
@@ -61,6 +58,7 @@ This page provides links to software, protocols, and other resources for computa
           <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/CyTOF%20close%202.png" width="3000">
       </td>
       <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <p><b>Mass cytometry (CyTOF)</b></p>
           <p>Mass cytometry (CyTOF) protocols, including a lniks to a range of protocols from 'Mass Cytometry: Methods and Protocols (McGuire & Ashhurst).</p>
           <a href="https://tomashhurst.github.io/resources/mass"><b>GO TO PAGE</b></a>
       </td>
@@ -68,7 +66,7 @@ This page provides links to software, protocols, and other resources for computa
     </tbody>
 </table>
 
-### Imaging Mass Cytometry (IMC)
+<br />
 
 <table class="table gmisc_table">
   <tbody>
@@ -77,7 +75,8 @@ This page provides links to software, protocols, and other resources for computa
           <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/IMC%20long%203.png" width="3000">
       </td>
       <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <p>Imaging Mass Cytometry (IMC) analysis protocols.</p>
+          <p><b>Imaging Mass Cytometry (IMC)</b></p>
+          <p>Imaging Mass Cytometry (IMC) protocols.</p>
           <a href="https://tomashhurst.github.io/resources/imc"><b>GO TO PAGE</b></a>
       </td>
       </tr>
