@@ -45,6 +45,7 @@ This page provides links to software, protocols, and other resources for computa
           <p><b>Flow and spectral cytometry</b></p>
           <p>Flow and spectral cytometry protocols, including panel design, voltages, spillover, and spreading error.</p>
           <a href="https://tomashhurst.github.io/resources/flow"><b>GO TO PAGE</b></a>
+          <p> </p>
       </td>
       </tr>
     </tbody>
@@ -62,6 +63,7 @@ This page provides links to software, protocols, and other resources for computa
           <p><b>Mass cytometry (CyTOF)</b></p>
           <p>Mass cytometry (CyTOF) protocols, including a lniks to a range of protocols from 'Mass Cytometry: Methods and Protocols (McGuire & Ashhurst).</p>
           <a href="https://tomashhurst.github.io/resources/mass"><b>GO TO PAGE</b></a>
+          <p> </p>
       </td>
       </tr>
     </tbody>
@@ -79,6 +81,7 @@ This page provides links to software, protocols, and other resources for computa
           <p><b>Imaging Mass Cytometry (IMC)</b></p>
           <p>Imaging Mass Cytometry (IMC) protocols.</p>
           <a href="https://tomashhurst.github.io/resources/imc"><b>GO TO PAGE</b></a>
+          <p> </p>
       </td>
       </tr>
     </tbody>
