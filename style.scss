@@ -489,9 +489,11 @@ resource-nav-title {
 }
 
 .wrapper-header {
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  // border-top: 1px solid #ddd;
+  // border-bottom: 1px solid #ddd;
   // background-color: $lightGray;
+  border-top: 1px solid #00003f;
+  border-bottom: 1px solid #00003f;
   background-color: #00003f;
 }
 
