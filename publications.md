@@ -54,18 +54,6 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Marsh-Wakefield%202021.png" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
-
-Making the most of high dimensional cytometry data. (2021). F Marsh-Wakefield, AJ Mitchell, SE Norton, TM Ashhurst, JKH Leman, JM Roberts, JE Harte, HM McGuire, RA Kemp. Immunology & Cell Biology, *accepted with revisions*.
-
-<br />
-
-<div class='row'>
-    <div class="image">
-        <a href="#">
             <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Koutsakos%202021.png" alt="icon" width="250" align="right">
         </a>
     </div>
