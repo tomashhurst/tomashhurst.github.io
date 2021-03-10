@@ -242,7 +242,7 @@ table-bottom {
   color: $gray; //$gray
   font-family: $helveticaNeue;
   font-weight: 300;
-  font-size: 20px; // 18px default
+  font-size: 22px; // 18px default
 
   @include mobile {
     margin: 3px 0;
