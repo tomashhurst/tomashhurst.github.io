@@ -6,8 +6,6 @@ permalink: /resources/
 
 This page provides links to software, protocols, and other resources for computational analysis, spatial analysis, flow cytometry, spectral cytometry, mass cytometry (CyTOF), Imaging Mass Cytometry (IMC). You can also explore the **[Sydney Cytometry Extranet](https://sydneycytometry.org.au/wiki-launch)**: this external resource site from the Sydney Cytometry Facility hosts a number of protocols and resources developed by facility staff and users. Non-facility users can request access using the form on the page linked above.
 
-<br />
-
 ## Computational analysis
 
 <table class="table gmisc_table">
@@ -23,8 +21,6 @@ This page provides links to software, protocols, and other resources for computa
       </tr>
     </tbody>
 </table>
-
-<br />
 
 ## Flow & spectral cytometry
 
@@ -42,8 +38,6 @@ This page provides links to software, protocols, and other resources for computa
     </tbody>
 </table>
 
-<br />
-
 ## Mass cytometry (CyTOF)
 
 <table class="table gmisc_table">
@@ -59,8 +53,6 @@ This page provides links to software, protocols, and other resources for computa
       </tr>
     </tbody>
 </table>
-
-<br />
 
 ## Imaging Mass Cytometry (IMC)
 
