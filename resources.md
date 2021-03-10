@@ -29,6 +29,24 @@ This page provides links to software, protocols, and other resources for computa
 </table>
 
 <br />
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:40%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <img src="https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/Spatial.png?raw=true" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b>Spatial analysis of IMC. data</b></p>
+        <p>Here we provide resources for cell segmentation and spatial analysis of IMC data.</p>
+          <a href="https://tomashhurst.github.io/resources/imc"><b>GO TO PAGE</b></a>
+          <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<br />
 <br />
 
 ## Technology and laboratory
