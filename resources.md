@@ -21,7 +21,7 @@ On this page we provide links to software, protocols, and other resources for co
       <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Computational analysis of single-cell cytometry data</b></p>
         <p>Here we provide resources to facilitate computational analysis of high-dimensional cytometry data, including Spectre, an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments.</p>
-          <a href="https://tomashhurst.github.io/resources/analysis"><b><span style="font-size: 20px">GO TO PAGE</span></b></a>
+          <a href="https://tomashhurst.github.io/resources/analysis"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
       </tr>
@@ -39,7 +39,7 @@ On this page we provide links to software, protocols, and other resources for co
       <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Spatial analysis of Imagin Mass Cytometry (IMC) data</b></p>
         <p>Here we provide resources for cell segmentation and spatial analysis of IMC data.</p>
-          <a href="https://tomashhurst.github.io/resources/imc"><b>GO TO PAGE</b></a>
+          <a href="https://tomashhurst.github.io/resources/imc"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
       </tr>
@@ -62,7 +62,7 @@ On this page we provide links to software, protocols, and other resources for co
       <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
           <p><b>Flow and spectral cytometry</b></p>
           <p>Flow and spectral cytometry protocols, including panel design, voltages, spillover, and spreading error.</p>
-          <a href="https://tomashhurst.github.io/resources/flow"><b>GO TO PAGE</b></a>
+          <a href="https://tomashhurst.github.io/resources/flow"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
       </tr>
@@ -80,7 +80,7 @@ On this page we provide links to software, protocols, and other resources for co
       <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
           <p><b>Mass cytometry (CyTOF)</b></p>
           <p>Mass cytometry (CyTOF) protocols, including a lniks to a range of protocols from 'Mass Cytometry: Methods and Protocols (McGuire & Ashhurst).</p>
-          <a href="https://tomashhurst.github.io/resources/mass"><b>GO TO PAGE</b></a>
+          <a href="https://tomashhurst.github.io/resources/mass"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
       </tr>
@@ -98,7 +98,7 @@ On this page we provide links to software, protocols, and other resources for co
       <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
           <p><b>Imaging Mass Cytometry (IMC)</b></p>
           <p>Imaging Mass Cytometry (IMC) protocols.</p>
-          <a href="https://tomashhurst.github.io/resources/imc"><b>GO TO PAGE</b></a>
+          <a href="https://tomashhurst.github.io/resources/imc"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
       </tr>
