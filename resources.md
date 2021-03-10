@@ -8,6 +8,12 @@ This page provides links to software, protocols, and other resources for computa
 
 <br />
 
+## Analysis
+
+---
+
+<br />
+
 ### Computational analysis
 
 <table class="table gmisc_table">
@@ -23,6 +29,15 @@ This page provides links to software, protocols, and other resources for computa
       </tr>
     </tbody>
 </table>
+
+<br />
+<br />
+
+## Technology and laboratory
+
+---
+
+<br />
 
 ### Flow & spectral cytometry
 
