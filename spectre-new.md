@@ -82,7 +82,7 @@ Spectre is an R package and computational toolkit that enables comprehensive end
       </td>
       <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Spatial analysis of Imaging Mass Cytometry (IMC) data</b></p>
-        <p>Analysis workflows for high-dimensional imaging mass cytometry (IMC) data, using Spectre and SpectreMAP, an extension of Spectre, to facilitate spatial analysis. </p>
+        <p>Analysis workflows for high-dimensional imaging mass cytometry (IMC) data, using Spectre and SpectreMAP, an extension of Spectre, to facilitate spatial analysis.</p>
           <a href="https://wiki.centenary.org.au/display/SPECTREMAP"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
