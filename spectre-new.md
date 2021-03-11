@@ -34,7 +34,7 @@ Spectre is an R package and computational toolkit that enables comprehensive end
 
 <br />
 
-## Analysis workflows
+## Analysis workflows for specific areas
 
 ---
 
