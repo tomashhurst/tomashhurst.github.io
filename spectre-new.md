@@ -1,5 +1,5 @@
 ---
-layout: resource
+layout: spectre-new
 title: Spectre Home Page
 permalink: /spectre-new/
 ---
