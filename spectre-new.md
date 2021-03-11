@@ -38,6 +38,61 @@ Spectre is an R package and computational toolkit that enables comprehensive end
 
 ---
 
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:40%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://wiki.centenary.org.au/download/attachments/146080606/image2020-8-20_14-46-9.png?version=1&modificationDate=1597937846914&api=v2" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b>Mass (CyTOF), flow, or spectral cytometry analysis with Spectre</b></p>
+        <p>Analysis workflows for high-dimensional mass (CyTOF), flow, or spectral cytometry data. Includes data preparation, data transformation (ArcSinh etc), batch alignment, clustering, dimensionality reduction, plotting, and statistical analysis.</p>
+          <a href="https://wiki.centenary.org.au/x/k-kiCw"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<br />
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:40%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://wiki.centenary.org.au/download/attachments/146080606/image2021-2-22_10-59-32.png?version=1&modificationDate=1613951972477&api=v2" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b>Analysis tools and functions to assist in the analysis of scRNAseq data</b></p>
+        <p>Analysis options and tools to support scRNAseq analysis, in conjunction with existing tools such as Seurat and SingleCellExperiment.</p>
+          <a href="https://wiki.centenary.org.au/x/l-kiCw"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<br />
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:40%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://wiki.centenary.org.au/download/attachments/146080606/sketch-image-1613951983362.png?version=2&modificationDate=1613952082081&api=v2" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b>Spatial analysis of Imaging Mass Cytometry (IMC) data</b></p>
+        <p>Analysis workflows for high-dimensional imaging mass cytometry (IMC) data, using Spectre and SpectreMAP, an extension of Spectre, to facilitate spatial analysis. </p>
+          <a href="https://wiki.centenary.org.au/display/SPECTREMAP"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<br />
+
+
 <br />
 <br />
 <br />
