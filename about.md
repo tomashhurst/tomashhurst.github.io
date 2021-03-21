@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+---
+
 <div class='row'>
     <div class="image">
         <a href="#">
