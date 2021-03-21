@@ -2,11 +2,44 @@
 layout: default
 ---
 
+<h1>Home</h1>
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" alt="icon" width="140" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 5px">
+        </a>
+    </div>
+</div>
+
+Dr. Thomas Ashhurst is an immunologist and high-dimensional cytometry specialist with the 
+<a href="https://sydneycytometry.org.au">Sydney Cytometry Core Research Facility</a> at the
+<a href="https://www.sydney.edu.au/">University of Sydney</a>.
+In this role he provides advanced training and consultation for users of high-dimensional cytometry platforms, and leads a research effort to develop and apply a range of 
+<a href="https://tomashhurst.github.io/research/#high-dimensional-cytometry-and-imaging-technologies">single-cell cytometry/imaging technologies and assays</a>
+as well as 
+<a href="https://tomashhurst.github.io/research/#computational-analysis-approaches">computational analysis tools</a>
+to map dynamic immune responses over time, space, and disease. In particular, he applies these approaches collaboratively to the study of immunology and infectious disease, including emerging pathogens such as 
+<a href="https://tomashhurst.github.io/research/#application-to-disease">SARS-CoV-2/COVID-19</a>, 
+<a href="https://tomashhurst.github.io/research/#application-to-disease">Zika virus encephalitis</a>, and
+<a href="https://tomashhurst.github.io/research/#application-to-disease">West Nile virus encephalitis</a>.
+
+<br />
+
+<a href="https://tomashhurst.github.io/about/" class="read-more">Read More</a>
+
+<br />
+<br />
+
+<h1>News</h1>
+
+<hr>
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
       <div class="entry">
         {{ post.excerpt }}
