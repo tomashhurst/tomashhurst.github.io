@@ -37,6 +37,7 @@ Dr. Ashhurst was awarded a prestigious [ISAC Marylou Ingram Scholarship](https:/
 &nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/b5544b7d0236876ce33e51e6c8b5eb3e6ef55e84/custom_SVG/Loop.svg" alt="Logo" width="15"> [Loop](https://loop.frontiersin.org/people/241397) <br/>
 &nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/a9738ae6b0e3712363450fd03e97e59690fc40cc/custom_SVG/Scopus_logo.svg" alt="Logo" width="15"> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55432845900) <br/>
 &nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/cd9d6c3a93fa1dfe723622955b19be00b3729893/custom_SVG/Publons.svg" alt="Logo" width="15"> [Publons](https://publons.com/researcher/3719456/thomas-m-ashhurst/) <br/>
+&nbsp;&nbsp;&nbsp;<img src="https://s3.amazonaws.com/protocols-files/public/6f37aae407d1c3261f56707cf7d8e3a47c4d284af7e8d2ae19cb40776fda17a7/b9mjcz36.png" alt="Logo" width="15"> [Protocols.io](https://www.protocols.io/workspaces/thomas-ashhurst) <br/>
 
 **Affiliations**
 
