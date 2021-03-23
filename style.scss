@@ -229,7 +229,7 @@ table-bottom {
 
 .site-name {
   margin: 0;
-  color: #00003f; //$darkGray
+  color: #FFFFFF; // #00003f; //$darkGray
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -239,7 +239,7 @@ table-bottom {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray; //$gray
+  color: #f6f6f6; // $gray; //$gray
   font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 22px; // 18px default
@@ -254,7 +254,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
-  color: #00003f; // TA: not here by default
+  color: #FFFFFF; // #00003f; // TA: not here by default
   line-height: 2.0; // TA: added new
 
   @include mobile {
@@ -266,7 +266,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #00003f; // $darkGray
+    color: #FFFFFF; //#00003f; // $darkGray
     text-align: left;
     font-weight: 300;
     letter-spacing: 1px;
