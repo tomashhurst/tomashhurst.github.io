@@ -41,7 +41,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
             </div>
             <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">
             </script>
-    </div>
+  </div>
   <div class="boxright">
             <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js">
             </script>
