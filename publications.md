@@ -53,6 +53,8 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 <!--<div class="boxcontainer" style="margin-bottom: 50px; height: 300px">
 </div>-->
 
+<br />
+
 ## Newsletters etc - authored or featured ##
 
 ---
