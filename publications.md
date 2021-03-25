@@ -48,8 +48,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
             <div data-badge-details="right" data-badge-type="donut" data-altmetric-id="60344016" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 30px; margin-bottom: 30px">
             </div>
     </div>
-</div>
-<br />
+</div style="margin-bottom: 50px">
     
 <!--<div class="boxcontainer" style="margin-bottom: 50px; height: 300px">
 </div>-->
