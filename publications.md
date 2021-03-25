@@ -35,7 +35,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 'Mass Cytometry: Methods and Protocols' has been downloaded over [44,000 times](https://link.springer.com/book/10.1007/978-1-4939-9454-0). Protocols provided in this book have been cited in a wide variety of applications, including COVID-19 ([Rodriguez et al. 2020](https://doi.org/10.1016/j.xcrm.2020.100078), [Koutsakos et al. 2021](https://doi.org/10.1016/j.xcrm.2021.100208)).
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="60344016" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 50px"></div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="60344016" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 30px"></div>
 
 <br />
 
@@ -66,7 +66,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 - Metrics: [Altmetric](https://monash.altmetric.com/details/99729668), [PlumX metrics](https://plu.mx/plum/a/?doi=10.1016/j.xcrm.2021.100208&theme=plum-jbs-theme&hideUsage=true).
 - In the [top 5% of all research outputs](https://www.altmetric.com/details/99729668) scored by Altmetric, among the [highest-scoring outputs](https://www.altmetric.com/details/99729668) from this source (#40 of 116), high [Attention Score](https://www.altmetric.com/details/99729668) compared to outputs of the same age (95th percentile), good [Attention Score](https://www.altmetric.com/details/99729668) compared to outputs of the same age and source (69th percentile).
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="99729668" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 50px></div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="99729668" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 30px"></div>
 
 <div class='row'>
     <div class="image">
@@ -78,7 +78,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 [Intrapulmonary vaccination with delta-inulin adjuvant stimulates non-polarised chemotactic signalling and diverse cellular interaction](https://doi.org/10.1038/s41385-021-00379-6). 2021. KC Ferrell, EL Stewart, C Counoupas, TM Ashhurst, WJ Britton, N Petrovsky, JA Triccas. Mucosal Immunology.
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="99422271" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 50px></div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="99422271" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 30px"></div>
 
 <div class='row'>
     <div class="image">
@@ -92,7 +92,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 - Code available from the [Github repository](https://github.com/ghar1821/ParetoBench).
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="98986030" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 50px></div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="98986030" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 30px"></div>
 
 <div class='row'>
     <div class="image">
@@ -109,7 +109,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 - Protocols and instructions available on the [Spectre Home Page](https://wiki.centenary.org.au/display/SPECTRE).
 - In the [top 5% of all research outputs](https://www.altmetric.com/details/92965811) scored by Altmetric
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="92965811" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 50px></div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="92965811" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 30px"></div>
 
 <div class='row'>
     <div class="image">
@@ -121,7 +121,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold, TM Ashhurst, AL Smith, NJC King. Cytometry Part A. 
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="90971518" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 50px></div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="90971518" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 30px"></div>
 
 <div class='row'>
     <div class="image">
@@ -133,7 +133,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 [IgG3+ B cells are associated with the development of multiple sclerosis](https://onlinelibrary.wiley.com/doi/abs/10.1002/cti2.1133). 2020. F Marsh‐Wakefield, T Ashhurst, S Trend, HM McGuire, P Juillard, A Zinger, ... Clinical & Translational Immunology 9 (5), e01133
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="80869285" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 50px></div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="80869285" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 30px"></div>
 
 <div class='row'>
     <div class="image">
@@ -145,7 +145,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 [Contribution of STAT1 to innate and adaptive immunity during type I interferon-mediated lethal virus infection](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008525&rev=1). 2020. SR Jung, TM Ashhurst, PK West, B Viengkhou, NJC King, IL Campbell, ... PLoS Pathogens 16 (4), e1008525
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="80182851" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 50px></div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="80182851" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 30px"></div>
 
 [Zika virus encephalitis in immunocompetent mice is dominated by innate immune cells and does not require T or B cells](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5). 2019. E Hayashida, ZL Ling, TM Ashhurst, B Viengkhou, SR Jung, ... Journal of Neuroinflammation 16 (1), 1-15
 
@@ -175,7 +175,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 - Media: [ABC News](http://www.abc.net.au/science/articles/2014/01/16/3926376.htm), [The Guardian](http://www.theguardian.com/world/2014/jan/16/heart-attack-damage-can-be-reduced-with-a-simple-injection-say-experts).
 - In the [top 5% of all research outputs](https://sciencetm.altmetric.com/details/2046537) scored by Altmetric
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="2046537" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 50px></div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="2046537" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 30px"></div>
 
 [Antiviral macrophage responses in flavivirus encephalitis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3928696/). 2013. TM Ashhurst, C Van Vreden, L Munoz-Erazo, P Niewold, K Watabe, ... The Indian journal of medical research 138 (5), 632
 
