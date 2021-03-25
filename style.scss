@@ -513,13 +513,21 @@ footer {
     width: 45%; 
 }
 
-.boxcontainer{
-  float: left;
-  min-height: 300px;
-  width: 100%;
+.boxcontainer {
+  width: 80%;
+  height: 200px;
+  margin: auto;
+  padding: 10px;
 }
 
-.boxrow{
+.boxleft {
+  width: 40%;
+  background: red;
+  float: left;
+}
+
+.boxright {
+  margin-left: 40%;
 }
 
 #wrapper { 
