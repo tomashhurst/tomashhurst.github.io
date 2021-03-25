@@ -60,7 +60,8 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 </div>
 
 [Integrated immune dynamics define correlates of COVID-19 severity and antibody responses](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7). 2021. M Koutsakos, LC Rowntree, L Hensen, ... TM Ashhurst, ... K Kedzierska. Cell Reports Medicine. 
-- News items: [Doherty Institute News](https://www.doherty.edu.au/news-events/news/mapping-an-effective-immune-response-to-covid-19), [Medical Xpress](https://medicalxpress.com/news/2021-02-effective-immune-response-covid-.html), [Herald Sun](https://www.heraldsun.com.au/coronavirus/melbourne-experts-uncover-why-covid-affects-people-differently/news-story/ed5ffb9604c1b4db776503562e494f71), [Ticker](https://twitter.com/tickerNEWSau/status/1359991653243572224?s=20).
+- Media: [Doherty Institute News](https://www.doherty.edu.au/news-events/news/mapping-an-effective-immune-response-to-covid-19), [Medical Xpress](https://medicalxpress.com/news/2021-02-effective-immune-response-covid-.html), [Herald Sun](https://www.heraldsun.com.au/coronavirus/melbourne-experts-uncover-why-covid-affects-people-differently/news-story/ed5ffb9604c1b4db776503562e494f71), [Ticker](https://twitter.com/tickerNEWSau/status/1359991653243572224?s=20).
+- Metrics: [Altmetric](https://monash.altmetric.com/details/99729668), [PlumX metrics](https://plu.mx/plum/a/?doi=10.1016/j.xcrm.2021.100208&theme=plum-jbs-theme&hideUsage=true).
 
 <br />
 <br />
@@ -174,7 +175,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 [The plasticity of inflammatory monocyte responses to the inflamed central nervous system](https://www.sciencedirect.com/science/article/pii/S0008874914001117). 2014. TM Ashhurst\*, C van Vreden\*, P Niewold\*, NJC King. Cellular immunology 291 (1-2), 49-57
 
 [Therapeutic inflammatory monocyte modulation using immune-modifying microparticles](https://stm.sciencemag.org/content/6/219/219ra7.short). 2014. DR Getts, RL Terry, MT Getts, C Deffrasnes, M Müller, C van Vreden, ... Science translational medicine 6 (219), 219ra7-219ra7. 
-- *News items: [ABC News](http://www.abc.net.au/science/articles/2014/01/16/3926376.htm), [The Guardian](http://www.theguardian.com/world/2014/jan/16/heart-attack-damage-can-be-reduced-with-a-simple-injection-say-experts)*.
+- Media: [ABC News](http://www.abc.net.au/science/articles/2014/01/16/3926376.htm), [The Guardian](http://www.theguardian.com/world/2014/jan/16/heart-attack-damage-can-be-reduced-with-a-simple-injection-say-experts)*.
 
 [Antiviral macrophage responses in flavivirus encephalitis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3928696/). 2013. TM Ashhurst, C Van Vreden, L Munoz-Erazo, P Niewold, K Watabe, ... The Indian journal of medical research 138 (5), 632
 
