@@ -513,15 +513,17 @@ footer {
     width: 45%; 
 }
 
+.boxright{
+    float:right;
+    margin-right:10px;
+    max-width: 420px;
+    width: 45%; 
+}
+
 .boxcontainer{
   float: left;
   min-height: 300px;
   width: 100%;
-}
-
-.boxright{
-    float:left;
-    margin-right:200px;
 }
 
 .boxrow{
