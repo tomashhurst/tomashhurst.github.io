@@ -63,7 +63,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 - Media: [Doherty Institute News](https://www.doherty.edu.au/news-events/news/mapping-an-effective-immune-response-to-covid-19), [Medical Xpress](https://medicalxpress.com/news/2021-02-effective-immune-response-covid-.html), [Herald Sun](https://www.heraldsun.com.au/coronavirus/melbourne-experts-uncover-why-covid-affects-people-differently/news-story/ed5ffb9604c1b4db776503562e494f71), [Ticker](https://twitter.com/tickerNEWSau/status/1359991653243572224?s=20).
 - Metrics: [Altmetric](https://monash.altmetric.com/details/99729668), [PlumX metrics](https://plu.mx/plum/a/?doi=10.1016/j.xcrm.2021.100208&theme=plum-jbs-theme&hideUsage=true).
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="99729668"></div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="99729668" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <br />
 <br />
@@ -110,7 +110,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 - Code available from our [Github page](https://github.com/ImmuneDynamics/spectre)
 - Protocols and instructions available on the [Spectre Home Page](https://wiki.centenary.org.au/display/SPECTRE).
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="92965811"></div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="92965811" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <br />
 
