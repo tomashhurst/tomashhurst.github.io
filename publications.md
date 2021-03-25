@@ -172,7 +172,8 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 [The plasticity of inflammatory monocyte responses to the inflamed central nervous system](https://www.sciencedirect.com/science/article/pii/S0008874914001117). 2014. TM Ashhurst\*, C van Vreden\*, P Niewold\*, NJC King. Cellular immunology 291 (1-2), 49-57
 
 [Therapeutic inflammatory monocyte modulation using immune-modifying microparticles](https://stm.sciencemag.org/content/6/219/219ra7.short). 2014. DR Getts, RL Terry, MT Getts, C Deffrasnes, M Müller, C van Vreden, ... Science translational medicine 6 (219), 219ra7-219ra7. 
-- Media: [ABC News](http://www.abc.net.au/science/articles/2014/01/16/3926376.htm), [The Guardian](http://www.theguardian.com/world/2014/jan/16/heart-attack-damage-can-be-reduced-with-a-simple-injection-say-experts)*.
+- Media: [ABC News](http://www.abc.net.au/science/articles/2014/01/16/3926376.htm), [The Guardian](http://www.theguardian.com/world/2014/jan/16/heart-attack-damage-can-be-reduced-with-a-simple-injection-say-experts).
+- In the [top 5% of all research outputs](https://sciencetm.altmetric.com/details/2046537) scored by Altmetric
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="2046537" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
