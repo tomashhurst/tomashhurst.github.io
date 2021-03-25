@@ -42,10 +42,10 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
             <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">
             </script>
     </div>
-    <div class="box">
+    <div class="box" style="margin-bottom: 5px">
             <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js">
             </script>
-            <div data-badge-details="right" data-badge-type="donut" data-altmetric-id="60344016" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 30px; margin-bottom: 35px">
+            <div data-badge-details="right" data-badge-type="donut" data-altmetric-id="60344016" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 30px; margin-bottom: 30px">
             </div>
     </div>
 </div>
