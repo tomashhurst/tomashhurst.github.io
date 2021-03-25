@@ -77,6 +77,8 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 [Intrapulmonary vaccination with delta-inulin adjuvant stimulates non-polarised chemotactic signalling and diverse cellular interaction](https://doi.org/10.1038/s41385-021-00379-6). 2021. KC Ferrell, EL Stewart, C Counoupas, TM Ashhurst, WJ Britton, N Petrovsky, JA Triccas. Mucosal Immunology.
 
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="99422271" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 <br />
 
 <div class='row'>
@@ -90,6 +92,8 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 [Using single-cell cytometry to illustrate integrated multi-perspective evaluation of clustering algorithms using Pareto fronts](https://doi.org/10.1093/bioinformatics/btab038). 2021. GH Putri, I Koprinska, TM Ashhurst, NJC King, MN Read. Bioinformatics
 
 - Code available from the [Github repository](https://github.com/ghar1821/ParetoBench).
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="98986030" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <br />
 <br />
@@ -123,7 +127,8 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold, TM Ashhurst, AL Smith, NJC King. Cytometry Part A. 
 
-<br />
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="90971518" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 <br />
 
 <div class='row'>
@@ -136,7 +141,8 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 [IgG3+ B cells are associated with the development of multiple sclerosis](https://onlinelibrary.wiley.com/doi/abs/10.1002/cti2.1133). 2020. F Marsh‐Wakefield, T Ashhurst, S Trend, HM McGuire, P Juillard, A Zinger, ... Clinical & Translational Immunology 9 (5), e01133
 
-<br />
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="80869285" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 <br />
 
 <div class='row'>
@@ -149,7 +155,8 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 [Contribution of STAT1 to innate and adaptive immunity during type I interferon-mediated lethal virus infection](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008525&rev=1). 2020. SR Jung, TM Ashhurst, PK West, B Viengkhou, NJC King, IL Campbell, ... PLoS Pathogens 16 (4), e1008525
 
-<br />
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="80182851" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 <br />
 <br />
 
