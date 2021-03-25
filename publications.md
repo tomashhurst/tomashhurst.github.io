@@ -35,7 +35,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 'Mass Cytometry: Methods and Protocols' has been downloaded over [44,000 times](https://link.springer.com/book/10.1007/978-1-4939-9454-0). Protocols provided in this book have been cited in a wide variety of applications, including COVID-19 ([Rodriguez et al. 2020](https://doi.org/10.1016/j.xcrm.2020.100078), [Koutsakos et al. 2021](https://doi.org/10.1016/j.xcrm.2021.100208)).
 
-<div class="entry">
+<div class="container" style="margin-bottom: 50px">
     <div class="box" style="margin-bottom: 50px; width: 50%">
         <div class="__dimensions_badge_embed__" data-doi="10.1007/978-1-4939-9454-0" data-hide-zero-citations="true" data-legend="always" data-style="small_circle" style="margin-left: 30px">
         </div>
