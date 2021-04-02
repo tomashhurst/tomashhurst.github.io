@@ -99,7 +99,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 [Integrated immune dynamics define correlates of COVID-19 severity and antibody responses](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7). 2021. M Koutsakos, LC Rowntree, L Hensen, 
 BY Chua, CE van de Sandt, JR Habel, W Zhang, X Jia, L Kedzierski, **TM Ashhurst**, ... K Kedzierska. Cell Reports Medicine. *Lead the computational analysis of COVID-19 blood samples, and supervised the development of TrackSOM for time-series tracking*.
 
-- [Summary](https://immunedynamics.io/koutsakos2021/)
+- [Summary](https://tomashhurst.github.io/koutsakos2021/)
 - Media: [Doherty Institute News](https://www.doherty.edu.au/news-events/news/mapping-an-effective-immune-response-to-covid-19), [Medical Xpress](https://medicalxpress.com/news/2021-02-effective-immune-response-covid-.html), [Herald Sun](https://www.heraldsun.com.au/coronavirus/melbourne-experts-uncover-why-covid-affects-people-differently/news-story/ed5ffb9604c1b4db776503562e494f71), [Ticker](https://twitter.com/tickerNEWSau/status/1359991653243572224?s=20).
 
 <br />
