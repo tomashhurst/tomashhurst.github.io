@@ -21,11 +21,9 @@ Dr. Ashhurst's training includes a Bachelor of Science (hons) and a Ph.D. in Med
 Dr. Ashhurst was awarded a prestigious [ISAC Marylou Ingram Scholarship](https://isac-net.org/page/Marylou-Ingram-Scholars) by the [International Society for the Advancement of Cytometry (ISAC)](https://isac-net.org/) in 2017, and currently serves as the 'Systems Cytometry' & NSW representative of the [Systems Immunology special interest group (SIG)](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/) of the [Australian and New Zealand Society of Immunology](https://www.immunology.org.au/). He is also actively involved in the [Australasian Cytometry Society](https://cytometry.org.au/), [Oz Single Cell consortium](https://www.singlecells.org.au/), and [Human Cell Atlas (HCA)](https://www.humancellatlas.org/) community, attending HCA general meetings in [Hinxton, UK (2018)](https://tomashhurst.github.io/community/), and [Tokyo, Japan (2019)](https://youtu.be/xYqd2w_aRH0?t=327).
 
 <br />
-<br />
 
 ---
 
-<br />
 <br />
 
 <table class="table gmisc_table">
@@ -58,12 +56,12 @@ Dr. Ashhurst was awarded a prestigious [ISAC Marylou Ingram Scholarship](https:/
 <!-- FOURTH ROW: Description --> 
       <tr>
         <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FAFAFA;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">News
+          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">My Profile
           </div>
             My profile, contact information, research, publications, community engagement, and talks.
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">My Profile
+          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">News
           </div>
            News, announcements, webinars, and recent publications.
         </td>
