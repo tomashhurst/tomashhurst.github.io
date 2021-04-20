@@ -22,81 +22,89 @@ Dr. Ashhurst was awarded a prestigious [ISAC Marylou Ingram Scholarship](https:/
 
 ---
 
-**Contact info**
-
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/EmailSVG.svg" alt="Email logo" width="20"> Email: [thomas.ashhurst@sydney.edu.au](mailto:thomas.ashhurst@sydney.edu.au) <br/>
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/TwitterSVG.svg" alt="Twitter logo" width="20"> Twitter: [@TomAsh_1](https://twitter.com/TomAsh_1) <br/>
-
-**Online profiles**
-
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/GithubSVG.svg" alt="Github logo" width="20"> [Github](https://github.com/tomashhurst) <br/>
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/LinkedInSVG.svg" alt="LinkedIn logo" width="20"> [LinkedIn](https://www.linkedin.com/in/thomas-ashhurst/) <br/>
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ResearchGate_icon_SVG.svg" alt="ResearchGate logo" width="20"> [ResearchGate](https://www.researchgate.net/profile/Thomas-Ashhurst) <br/>
-&nbsp;&nbsp;&nbsp;<img src="https://s3.amazonaws.com/protocols-files/public/6f37aae407d1c3261f56707cf7d8e3a47c4d284af7e8d2ae19cb40776fda17a7/b9mjcz36.png" alt="Logo" width="20"> [Protocols.io](https://www.protocols.io/workspaces/thomas-ashhurst) <br/>
-
-**Online Publication lists**
-
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="15"> [Google Scholar](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) <br/>
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ORCID_iD.svg" alt="Logo" width="15"> [ORCID](https://orcid.org/0000-0001-7269-7773) <br/>
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/b5544b7d0236876ce33e51e6c8b5eb3e6ef55e84/custom_SVG/Loop.svg" alt="Logo" width="15"> [Loop](https://loop.frontiersin.org/people/241397) <br/>
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/a9738ae6b0e3712363450fd03e97e59690fc40cc/custom_SVG/Scopus_logo.svg" alt="Logo" width="15"> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55432845900) <br/>
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/cd9d6c3a93fa1dfe723622955b19be00b3729893/custom_SVG/Publons.svg" alt="Logo" width="15"> [Publons](https://publons.com/researcher/3719456/thomas-m-ashhurst/) <br/>
-
-**Affiliations**
-
-- High-dimensional cytometry specialist, [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au/), [Charles Perkins Centre](https://www.sydney.edu.au/charles-perkins-centre/), [The University of Sydney](https://www.sydney.edu.au/).
-- Marylou Ingram Scholar, the [International Society for the Advancement of Cytometry (ISAC)](https://isac-net.org/).
-- Co-lead, [Immune Dynamics](https://tomashhurst.github.io/immunedynamics) collaborative team.
-- Systems Cytometry & NSW representative, the [Australia and New Zealand Society for Immunology (ASI)](https://www.immunology.org.au/).
-- Member and grantee, the [Marie Bashir Institute for Infectious Diseases and Biosecurity (MBI)](https://www.sydney.edu.au/marie-bashir-institute/).
-- Member and frequent invited speaker with the [Oz Single Cell (OSC)](https://www.singlecells.org.au/) community, the [Australasian Cytometry Society (ASC)](https://cytometry.org.au/), the [Australia and New Zealand Society for Immunology (ASI)](https://www.immunology.org.au/), and the [Human Cell Atlas (HCA)](https://www.humancellatlas.org/) community.
-
-**Publications**
-
-- A list of publications can be found on the [publications](https://tomashhurst.github.io/publications/) page. 
-- Alternatively, online publication lists can be found on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date), <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="15"> [Google Scholar](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en), 
-<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ORCID_iD.svg" alt="Logo" width="15"> [ORCID](https://orcid.org/0000-0001-7269-7773), 
-<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/b5544b7d0236876ce33e51e6c8b5eb3e6ef55e84/custom_SVG/Loop.svg" alt="Logo" width="15"> [Loop](https://loop.frontiersin.org/people/241397), 
-<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/a9738ae6b0e3712363450fd03e97e59690fc40cc/custom_SVG/Scopus_logo.svg" alt="Logo" width="15"> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55432845900), or 
-<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/cd9d6c3a93fa1dfe723622955b19be00b3729893/custom_SVG/Publons.svg" alt="Logo" width="15"> [Publons](https://publons.com/researcher/3719456/thomas-m-ashhurst/). <br/>
-
-**Funding**
-
-*Scholarships and fellowships*
-
-- The [International Society for the Advancement of Cytometry](https://isac-net.org/) (ISAC): [Marylou Ingram Scholarship](https://isac-net.org/page/Marylou-Ingram-Scholars) (2017).
-- [Sydney Medical School](https://www.sydney.edu.au/medicine-health/schools/sydney-medical-school.html) travelling fellowship: visiting researcher at [Stanford University](https://www.stanford.edu/) (2014).
-
-*Co-investigator*
-
-- [Sydney Catalyst](https://sydneycatalyst.org.au/): Cardiovascular initiative catalyst awards for seed funding in bioengineering and digital science (2020).
-- [Marie Bashir Institute for Infectious Diseases and Biosecurity (MBI)](https://www.sydney.edu.au/marie-bashir-institute/): Strategic multidisciplinary funding call (2017).
-
-*Associate investigator*
-
-- [National Health and Medical Research Council (NHMRC)](https://www.nhmrc.gov.au/): Ideas Grants (2021).
-- [Medical Research Future Fund](https://www.health.gov.au/initiatives-and-programs/medical-research-future-fund): 2020 Respiratory Medicine Clinical Trials on COVID 19 (2020).
-
-**Selected awards**
-
-- ISAC Exceptional Student Award (2017)
-- CYTO travel awards (2014 - 2019)
-- ACS travel awards (2012, 2019)
-- ICI travel award (2016)
-- Outstanding poster/talk awards (CYTO 2013, ACS 2014, ASI 2015)
-- Australian Postgraduate Award (2012)
-- Australian Defence Force Academy (ADFA) Education award (2005)
-
-**Community**
-
-- [ISAC Marylou Ingram Scholar](https://isac-net.org/page/Marylou-Ingram-Scholars) with the [International Society for the Advancement of Cytometry (ISAC)](https://isac-net.org/).
-- 'Systems Cytometry' & NSW representative of the [Systems Immunology special interest group (SIG)](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/) of the [Australian and New Zealand Society of Immunology](https://www.immunology.org.au/).
-- Actively involved in a number of socities that span immunology and cytometry. More information can be found on the [community](https://tomashhurst.github.io/community/) page.
-- Provided peer review for [Nature Communications](https://www.nature.com/ncomms/), [Cytometry A](https://onlinelibrary.wiley.com/journal/15524930), [Cytometry B](https://onlinelibrary.wiley.com/journal/15524957), [Bioinformatics](https://academic.oup.com/bioinformatics), and [Briefings in Bioinformatics](https://academic.oup.com/bib).
-
-**Sites**
-
-- [Spectre Home Page](https://github.com/ImmuneDynamics/Spectre)
-- [Sydney Cytometry Extranet](https://sydneycytometry.org.au/wiki-launch)
+<table class="table gmisc_table">
+  <tbody>
+<!-- FIRST ROW: TITLE --> 
+<!-- THIRD ROW: Image --> 
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+        <a href="https://immunedynamics.github.io/thomas-ashhurst/">
+          <src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" style="padding-top: 5px">
+          <!--img height = "200px"-->
+        </a>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+        <a href="https://immunedynamics.github.io/">
+            <src="https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/New%20logo%202.png?raw=true" style="padding-top: 5px">
+        </a>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+        <a href="https://immunedynamics.github.io/research/">
+            <src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TAlogoDark2.png" style="padding-top: 5px">
+        </a>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+        <a href="https://immunedynamics.github.io/spectre/">
+            <src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/images/Spectre%20logo%20wide.png" style="padding-top: 5px">
+        </a>
+      </td>
+    </tr>
+<!-- FOURTH ROW: Description --> 
+      <tr>
+        <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FAFAFA;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">News
+          </div>
+            My profile, contact information, research, publications, community engagement, and talks.
+        </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">My Profile
+          </div>
+           News, announcements, webinars, and recent publications.
+        </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid FFFFFF000;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid FFFFFF000;text-align:left; vertical-align:top"> 
+          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">Immune Dynamics Team
+          </div>
+           Information on the 'Immune Dynamics' team at the University of Sydney, including our research and resources.
+        </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top"> 
+          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">SPECTRE
+          </div>
+            The home page for Spectre, a computational toolkit for comprehensive end-to-end integration, exploration, and analysis of high-dimensional cytometry data.
+        </td>
+     </tr>
+<!-- FIFTH ROW: Go to page --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.github.io/thomas-ashhurst/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.github.io/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.github.io/research/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.github.io/spectre/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                  </p>
+              </div>
+          </td>
+      </tr>
+    </tbody>
+</table>
 
 <br />
+
