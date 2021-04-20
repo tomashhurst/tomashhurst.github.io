@@ -51,7 +51,7 @@ Dr. Ashhurst was awarded a prestigious [ISAC Marylou Ingram Scholarship](https:/
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
         <a href="https://immunedynamics.github.io/spectre/">
-            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/images/Spectre%20logo%20wide.png" style="padding-top: 5px">
+            <img src="https://wiki.centenary.org.au/download/attachments/146080604/SPECTRE?version=6&modificationDate=1588780080372&api=v2" style="padding-top: 5px">
         </a>
       </td>
     </tr>
