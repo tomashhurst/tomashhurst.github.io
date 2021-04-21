@@ -66,7 +66,7 @@ Dr. Ashhurst was awarded a prestigious [ISAC Marylou Ingram Scholarship](https:/
            Information on the 'Immune Dynamics' research team at the University of Sydney, including our research and resources.
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">News
+          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">Sydney Cytometry Facility
           </div>
            Information on the Sydney Cytometry Facility at the University of Sydney and Centenary Institute.
         </td>
