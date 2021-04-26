@@ -25,18 +25,15 @@ Dr. Ashhurst was awarded a prestigious [ISAC Marylou Ingram Scholarship](https:/
 ---
 
 <br />
+<br />
+
+<h1>Sites</h1>
 
 <table class="table gmisc_table">
   <tbody>
 <!-- FIRST ROW: TITLE --> 
 <!-- THIRD ROW: Image --> 
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-        <a href="https://immunedynamics.github.io/thomas-ashhurst/">
-          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" style="padding-top: 5px">
-          <!--img height = "200px"-->
-        </a>
-      </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
         <a href="https://immunedynamics.github.io/research/">
             <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TAlogoDark2.png" style="padding-top: 5px">
@@ -55,11 +52,6 @@ Dr. Ashhurst was awarded a prestigious [ISAC Marylou Ingram Scholarship](https:/
     </tr>
 <!-- FOURTH ROW: Description --> 
       <tr>
-        <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FAFAFA;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">My Profile
-          </div>
-            My profile, contact information, research, publications, community engagement, and talks.
-        </td>
         <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid FFFFFF000;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid FFFFFF000;text-align:left; vertical-align:top"> 
           <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">Immune Dynamics Team
           </div>
@@ -81,21 +73,14 @@ Dr. Ashhurst was awarded a prestigious [ISAC Marylou Ingram Scholarship](https:/
           <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                      <a href="https://immunedynamics.github.io/thomas-ashhurst/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
-                  </p>
-              </div>
-          </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
-              <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
-                      <a href="https://immunedynamics.github.io/research/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
-                  </p>
-              </div>
-          </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
-              <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
                       <a href="https://immunedynamics.github.io/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://sydneycytometry.org.au"><b><span style="font-size: 18px">MORE INFO</span></b></a>
                   </p>
               </div>
           </td>
@@ -111,5 +96,4 @@ Dr. Ashhurst was awarded a prestigious [ISAC Marylou Ingram Scholarship](https:/
 </table>
 
 <br />
-
 
