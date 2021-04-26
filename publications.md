@@ -8,16 +8,16 @@ permalink: /publications/
 
 ![Publications](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Publication%202.png)
 
-My publications include [1 book](https://immunedynamics.io/thomas-ashhurst/publications/#books), [1 pre-print](https://immunedynamics.io/thomas-ashhurst/publications/#pre-prints), and [22 published articles](https://immunedynamics.io/thomas-ashhurst/publications/#papers), with [505 citations](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) since 2012 and an [h-index of 9](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) (via Google Scholar). Online publication lists can be found on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date),
-<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="15"> [Google Scholar](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en),
-<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ORCID_iD.svg" alt="Logo" width="15"> [ORCID](https://orcid.org/0000-0001-7269-7773),
-<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/b5544b7d0236876ce33e51e6c8b5eb3e6ef55e84/custom_SVG/Loop.svg" alt="Logo" width="15"> [Loop](https://loop.frontiersin.org/people/241397),
-<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/a9738ae6b0e3712363450fd03e97e59690fc40cc/custom_SVG/Scopus_logo.svg" alt="Logo" width="15"> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55432845900), or
+Online publication lists can be found on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date), 
+<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="15"> [Google Scholar](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en), 
+<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ORCID_iD.svg" alt="Logo" width="15"> [ORCID](https://orcid.org/0000-0001-7269-7773), 
+<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/b5544b7d0236876ce33e51e6c8b5eb3e6ef55e84/custom_SVG/Loop.svg" alt="Logo" width="15"> [Loop](https://loop.frontiersin.org/people/241397), 
+<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/a9738ae6b0e3712363450fd03e97e59690fc40cc/custom_SVG/Scopus_logo.svg" alt="Logo" width="15"> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55432845900), or 
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/cd9d6c3a93fa1dfe723622955b19be00b3729893/custom_SVG/Publons.svg" alt="Logo" width="15"> [Publons](https://publons.com/researcher/3719456/thomas-m-ashhurst/). <br/>
 
 <br />
 
-## Books
+## Books ##
 
 ---
 
@@ -33,7 +33,7 @@ My publications include [1 book](https://immunedynamics.io/thomas-ashhurst/publi
 
 This book details a compilation of up-to-date and cutting-edge protocols in mass cytometry. Chapters guide readers through setting up a facility, panel design and reagent preparation, sample preparation, specific applications, and data analysis. Written in the highly successful Methods in Molecular Biology series format, chapters include introductions to their respective topics, lists of the necessary materials and reagents, step-by-step, readily reproducible laboratory protocols, and tips on troubleshooting and avoiding known pitfalls. Authoritative and cutting-edge, Mass Cytometry: Methods and Protocols aims to ensure successful results in the further study of this vital field.
 
-'Mass Cytometry: Methods and Protocols' has been downloaded over [45,000 times](https://link.springer.com/book/10.1007/978-1-4939-9454-0). Protocols provided in this book have been cited in a wide variety of applications, including COVID-19 ([Rodriguez et al. 2020](https://doi.org/10.1016/j.xcrm.2020.100078), [Koutsakos et al. 2021](https://doi.org/10.1016/j.xcrm.2021.100208)).
+'Mass Cytometry: Methods and Protocols' has been downloaded over [44,000 times](https://link.springer.com/book/10.1007/978-1-4939-9454-0). Protocols provided in this book have been cited in a wide variety of applications, including COVID-19 ([Rodriguez et al. 2020](https://doi.org/10.1016/j.xcrm.2020.100078), [Koutsakos et al. 2021](https://doi.org/10.1016/j.xcrm.2021.100208)).
 
 <br />
 
@@ -43,50 +43,13 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 [High Dimensional Data Analysis Strategies Homeshow 2020 - in ASI News](https://www.immunology.org.au/files/Newsletter_pdfs/ASI017_Dec_2020.pdf#page=35). 2020. Australia and New Zealand Society for Immunology.
 
-[High-dimensional single cell mass cytometry (CyTOF) comes to Australia with the establishment of the Ramaciotti Facility for Human Systems Biology](https://www.immunology.org.au/files/Newsletter_pdfs/ASI_NL_March_2015.pdf). 2015. T Ashhurst, N King, A Smith, BF de St Groth. ASI Newsletter.
+[High-dimensional single cell mass cytometry (CyTOF) comes to Australia with the establishment of the Ramaciotti Facility for Human Systems Biology](https://www.immunology.org.au/files/Newsletter_pdfs/ASI_NL_March_2015.pdf). 2015. **T Ashhurst**, N King, A Smith, BF de St Groth. ASI Newsletter.
 
 <br />
 
-## Pre-prints
+## Papers ##
 
 ---
-
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-46-9.png?version=1&modificationDate=1613891282510&api=v2" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
-
-[Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). 2020. **TM Ashhurst**\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... bioRxiv.
-
-- Presentation at the Oz Single Cell webinar series: [computational biology](https://youtu.be/poEDERGXrQw?t=3148).
-- Code available from our [Github page](https://github.com/ImmuneDynamics/spectre)
-- Protocols and instructions available on the [Spectre Home Page](https://wiki.centenary.org.au/display/SPECTRE).
-- In the [top 5% of all research outputs](https://www.altmetric.com/details/92965811) scored by Altmetric
-
-<br />
-
-## Papers
-
----
-
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/FMW%202021.png?raw=true" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
-
-**Making the most of high dimensional cytometry data**. 2021. A Mitchell\*, F Marsh-Wakefield\*, S Norton, **TM Ashhurst**, ... HM McGuire, R Kemp. Immunology and Cellular Biology (accepted for publication).
-
-<br />
-<br />
-<br />
-<br />
-<br />
 
 <div class='row'>
     <div class="image">
@@ -96,12 +59,10 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
     </div>
 </div>
 
-[Integrated immune dynamics define correlates of COVID-19 severity and antibody responses](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7). 2021. M Koutsakos, LC Rowntree, L Hensen, 
-BY Chua, CE van de Sandt, JR Habel, W Zhang, X Jia, L Kedzierski, **TM Ashhurst**, ... K Kedzierska. Cell Reports Medicine. *Lead the computational analysis of COVID-19 blood samples, and supervised the development of TrackSOM for time-series tracking*.
+[Integrated immune dynamics define correlates of COVID-19 severity and antibody responses](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7). 2021. M Koutsakos, LC Rowntree, L Hensen, ... **TM Ashhurst**, ... K Kedzierska. Cell Reports Medicine. 
+- News items: [Doherty Institute News](https://www.doherty.edu.au/news-events/news/mapping-an-effective-immune-response-to-covid-19), [Medical Xpress](https://medicalxpress.com/news/2021-02-effective-immune-response-covid-.html), [Herald Sun](https://www.heraldsun.com.au/coronavirus/melbourne-experts-uncover-why-covid-affects-people-differently/news-story/ed5ffb9604c1b4db776503562e494f71), [Ticker](https://twitter.com/tickerNEWSau/status/1359991653243572224?s=20).
 
-- [Summary](https://tomashhurst.github.io/koutsakos2021/)
-- Media: [Doherty Institute News](https://www.doherty.edu.au/news-events/news/mapping-an-effective-immune-response-to-covid-19), [Medical Xpress](https://medicalxpress.com/news/2021-02-effective-immune-response-covid-.html), [Herald Sun](https://www.heraldsun.com.au/coronavirus/melbourne-experts-uncover-why-covid-affects-people-differently/news-story/ed5ffb9604c1b4db776503562e494f71), [Ticker](https://twitter.com/tickerNEWSau/status/1359991653243572224?s=20).
-
+<br />
 <br />
 
 <div class='row'>
@@ -124,7 +85,7 @@ BY Chua, CE van de Sandt, JR Habel, W Zhang, X Jia, L Kedzierski, **TM Ashhurst*
     </div>
 </div>
 
-[Using single-cell cytometry to illustrate integrated multi-perspective evaluation of clustering algorithms using Pareto fronts](https://doi.org/10.1093/bioinformatics/btab038). 2021. GH Putri, I Koprinska, **TM Ashhurst**, NJC King, MN Read. Bioinformatics. *Supervising role*.
+[Using single-cell cytometry to illustrate integrated multi-perspective evaluation of clustering algorithms using Pareto fronts](https://doi.org/10.1093/bioinformatics/btab038). 2021. GH Putri, I Koprinska, **TM Ashhurst**, NJC King, MN Read. Bioinformatics
 
 - Code available from the [Github repository](https://github.com/ghar1821/ParetoBench).
 
@@ -135,12 +96,28 @@ BY Chua, CE van de Sandt, JR Habel, W Zhang, X Jia, L Kedzierski, **TM Ashhurst*
 <div class='row'>
     <div class="image">
         <a href="#">
+            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-46-9.png?version=1&modificationDate=1613891282510&api=v2" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+[Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). 2020. **TM Ashhurst**\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... bioRxiv.
+
+- Presentation at the Oz Single Cell webinar series: [computational biology](https://youtu.be/poEDERGXrQw?t=3148).
+- Code available from our [Github page](https://github.com/ImmuneDynamics/spectre)
+- Protocols and instructions available on the [Spectre Home Page](https://wiki.centenary.org.au/display/SPECTRE).
+
+<br />
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
             <img src="https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/Niewold%202020.png?raw=true" alt="icon" width="250" align="right">
         </a>
     </div>
 </div>
 
-[Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold, **TM Ashhurst**, AL Smith, NJC King. Cytometry Part A. *Co-lead author*.
+[Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold\*, **TM Ashhurst**\*, AL Smith, NJC King. Cytometry Part A. 
 
 <br />
 <br />
@@ -176,13 +153,11 @@ BY Chua, CE van de Sandt, JR Habel, W Zhang, X Jia, L Kedzierski, **TM Ashhurst*
 
 [Dimensionality Reduction for Clustering and Cluster Tracking of Cytometry Data](https://link.springer.com/chapter/10.1007/978-3-030-30490-4_50). 2019. GH Putri, MN Read, I Koprinska, **TM Ashhurst**, NJC King. International Conference on Artificial Neural Networks, 624-640
 
-[ChronoClust: Density-based clustering and cluster tracking in high-dimensional time-series data](https://www.sciencedirect.com/science/article/pii/S0950705119300796). 2019. GH Putri, MN Read, I Koprinska, D Singh, U Röhm, **TM Ashhurst**, NJC King. Knowledge-Based Systems 174, 9-26
+[ChronoClust: Density-based clustering and cluster tracking in high-dimensional time-series data](https://www.sciencedirect.com/science/article/pii/S0950705119300796). 2019. GH Putri, MN Read, I Koprinska, D Singh, U Röhm, **TM Ashhurst**, ... Knowledge-Based Systems 174, 9-26
 
 [Cyt‐Geist: Current and future challenges in cytometry: Reports of the CYTO 2018 conference workshops](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.23777). 2019. K Czechowska, J Lannigan, L Wang, J Arcidiacono, **TM Ashhurst**, ... Cytometry Part A 95 (6), 598-644
 
 [Analysis of the murine bone marrow hematopoietic system using mass and flow cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). 2019. **TM Ashhurst**, DA Cox, AL Smith, NJC King. Mass Cytometry, 159-192
-
-- [>2,300 downloads](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12) since 2019.
 
 [Staining of phosphorylated signalling markers protocol for mass cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_10). 2019. D Shinko, **TM Ashhurst**, HM McGuire, KA Charles. Mass Cytometry, 139-146
 
@@ -198,11 +173,11 @@ BY Chua, CE van de Sandt, JR Habel, W Zhang, X Jia, L Kedzierski, **TM Ashhurst*
 
 [The plasticity of inflammatory monocyte responses to the inflamed central nervous system](https://www.sciencedirect.com/science/article/pii/S0008874914001117). 2014. **TM Ashhurst**\*, C van Vreden\*, P Niewold\*, NJC King. Cellular immunology 291 (1-2), 49-57
 
-[Therapeutic inflammatory monocyte modulation using immune-modifying microparticles](https://stm.sciencemag.org/content/6/219/219ra7.short). 2014. DR Getts, RL Terry, MT Getts, C Deffrasnes, M Müller, C van Vreden, **TM Ashhurst** ... Science translational medicine 6 (219), 219ra7-219ra7.
+[Therapeutic inflammatory monocyte modulation using immune-modifying microparticles](https://stm.sciencemag.org/content/6/219/219ra7.short). 2014. DR Getts, RL Terry, MT Getts, C Deffrasnes, M Müller, C van Vreden, ... **TM Ashhurst**, ... Science translational medicine 6 (219), 219ra7-219ra7. 
 - *News items: [ABC News](http://www.abc.net.au/science/articles/2014/01/16/3926376.htm), [The Guardian](http://www.theguardian.com/world/2014/jan/16/heart-attack-damage-can-be-reduced-with-a-simple-injection-say-experts)*.
 
 [Antiviral macrophage responses in flavivirus encephalitis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3928696/). 2013. **TM Ashhurst**, C Van Vreden, L Munoz-Erazo, P Niewold, K Watabe, ... The Indian journal of medical research 138 (5), 632
 
-[Targeted blockade in lethal West Nile virus encephalitis indicates a crucial role for very late antigen (VLA)-4-dependent recruitment of nitric oxide-producing macrophages](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246). 2012. DR Getts, RL Terry, MT Getts, M Müller, S Rana, C Deffrasnes, **TM Ashhurst**... Journal of Neuroinflammation 9 (1), 246.
+[Targeted blockade in lethal West Nile virus encephalitis indicates a crucial role for very late antigen (VLA)-4-dependent recruitment of nitric oxide-producing macrophages](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246). 2012. DR Getts, RL Terry, MT Getts, M Müller, S Rana, C Deffrasnes, ... **TM Ashhurst** ... Journal of Neuroinflammation 9 (1), 246
 
 <br />
