@@ -32,17 +32,17 @@ Dr. Ashhurst was awarded a prestigious [ISAC Marylou Ingram Scholarship](https:/
 <!-- FIRST ROW: TITLE --> 
 <!-- THIRD ROW: Image --> 
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
         <a href="https://immunedynamics.github.io/research/">
             <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TAlogoDark2.png" style="padding-top: 5px">
         </a>
       </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
         <a href="https://sydneycytometry.org.au/">
             <img src="https://avatars.githubusercontent.com/u/26994976?s=200&v=4" style="padding-top: 5px">
         </a>
       </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
         <a href="https://immunedynamics.github.io/spectre/">
             <img src="https://wiki.centenary.org.au/download/attachments/146080604/SPECTRE?version=6&modificationDate=1588780080372&api=v2" style="padding-top: 5px">
         </a>
@@ -51,19 +51,22 @@ Dr. Ashhurst was awarded a prestigious [ISAC Marylou Ingram Scholarship](https:/
 <!-- FOURTH ROW: Description --> 
       <tr>
         <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid FFFFFF000;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid FFFFFF000;text-align:left; vertical-align:top"> 
-          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">Immune Dynamics Team
+          <div style="text-align:middle;font-size:16px;font-weight:350;color:#00003f">Immune Dynamics Team
           </div>
-           Information on the 'Immune Dynamics' research team at the University of Sydney, including our research and resources.
+            Information on the 'Immune Dynamics' research team at the University of Sydney, including our research and resources.
+            <br />
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">Sydney Cytometry Facility
+          <div style="text-align:middle;font-size:16px;font-weight:350;color:#00003f">Sydney Cytometry Facility
           </div>
-           Information on the Sydney Cytometry Facility at the University of Sydney and Centenary Institute.
+            Information on the Sydney Cytometry Facility at the University of Sydney and Centenary Institute.
+            <br />
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top"> 
-          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">SPECTRE
+          <div style="text-align:middle;font-size:16px;font-weight:350;color:#00003f">SPECTRE
           </div>
             The home page for Spectre, a computational toolkit for comprehensive end-to-end integration, exploration, and analysis of high-dimensional cytometry data.
+            <br />
         </td>
      </tr>
 <!-- FIFTH ROW: Go to page --> 
