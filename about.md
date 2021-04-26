@@ -23,12 +23,9 @@ Dr. Ashhurst was awarded a prestigious [ISAC Marylou Ingram Scholarship](https:/
 <br />
 <br />
 
----
-
 <h1>Sites</h1>
 
-<br />
-<br />
+---
 
 <table class="table gmisc_table">
   <tbody>
