@@ -6,12 +6,6 @@ permalink: /about/
 
 ---
 
----
-layout: ta
-title: Thomas Ashhurst, Ph.D
-permalink: /thomas-ashhurst/
----
-
 <div class='row'>
     <div class="image">
         <a href="#">
