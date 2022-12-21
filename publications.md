@@ -8,12 +8,19 @@ permalink: /publications/
 
 ![Publications](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Publication%202.png)
 
-My publications consist of [1 book](https://immunedynamics.io/thomas-ashhurst/publications/#books), [2 pre-print](https://immunedynamics.io/thomas-ashhurst/publications/#pre-prints), and [25 published articles](https://immunedynamics.io/thomas-ashhurst/publications/#publications), with [732 citations](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) since 2012 and an [h-index of 15](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) (via Google Scholar). These publications include [1 as co-lead editor](https://immunedynamics.io/thomas-ashhurst/publications/stats), [7 as lead or co-lead author](https://immunedynamics.io/thomas-ashhurst/publications/stats), and [5 as senior or co-supervising author](https://immunedynamics.io/thomas-ashhurst/publications/stats); with [2 as corresponding author](https://immunedynamics.io/thomas-ashhurst/publications/stats). Online publication lists can be found on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date),
-<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="15"> [Google Scholar](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en),
-<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ORCID_iD.svg" alt="Logo" width="15"> [ORCID](https://orcid.org/0000-0001-7269-7773),
-<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/b5544b7d0236876ce33e51e6c8b5eb3e6ef55e84/custom_SVG/Loop.svg" alt="Logo" width="15"> [Loop](https://loop.frontiersin.org/people/241397),
-<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/a9738ae6b0e3712363450fd03e97e59690fc40cc/custom_SVG/Scopus_logo.svg" alt="Logo" width="15"> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55432845900), or
-<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/cd9d6c3a93fa1dfe723622955b19be00b3729893/custom_SVG/Publons.svg" alt="Logo" width="15"> [Publons](https://publons.com/researcher/3719456/thomas-m-ashhurst/). I have published [1 protocol](https://immunedynamics.io/thomas-ashhurst/publications/#protocols) with [protocols.io](https://www.protocols.io/) and [1 newsletter](https://immunedynamics.io/thomas-ashhurst/publications/#newsletters) article with the [Australia and New Zealand Society for Immunology](https://www.immunology.org.au/). My software toolkit, [Spectre](https://immunedynamics.io/spectre/), has been cited in [26 publications](https://immunedynamics.io/spectre/metrics/) in prestigious journals such as [Cell](https://immunedynamics.io/spectre/metrics/) and [Nature Immunology](https://immunedynamics.io/spectre/metrics/), and is a featured analysis package for the [Human Cell Atlas](https://data.humancellatlas.org/analyze/methods/spectre) project.
+My publications consist of [1 book](https://immunedynamics.io/thomas-ashhurst/publications/#books) and [31 published articles](https://immunedynamics.io/thomas-ashhurst/publications/#publications), with [866 citations](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) since 2012 and an [h-index of 15](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) (via Google Scholar). These publications include [1 book as editor](https://immunedynamics.io/thomas-ashhurst/publications/stats) and [8 articles as lead, senior, or corresponding author](https://immunedynamics.io/thomas-ashhurst/publications/stats). Online publication lists can be found on 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date),
+<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="15"> 
+[Google Scholar](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en),
+<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ORCID_iD.svg" alt="Logo" width="15"> 
+[ORCID](https://orcid.org/0000-0001-7269-7773),
+<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/b5544b7d0236876ce33e51e6c8b5eb3e6ef55e84/custom_SVG/Loop.svg" alt="Logo" width="15"> 
+[Loop](https://loop.frontiersin.org/people/241397),
+<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/a9738ae6b0e3712363450fd03e97e59690fc40cc/custom_SVG/Scopus_logo.svg" alt="Logo" width="15"> 
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=55432845900), or
+<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/cd9d6c3a93fa1dfe723622955b19be00b3729893/custom_SVG/Publons.svg" alt="Logo" width="15"> 
+[Publons](https://publons.com/researcher/3719456/thomas-m-ashhurst/). 
+I have published [1 protocol](https://immunedynamics.io/thomas-ashhurst/publications/#protocols) with [protocols.io](https://www.protocols.io/) and [1 newsletter](https://immunedynamics.io/thomas-ashhurst/publications/#newsletters) article with the [Australia and New Zealand Society for Immunology](https://www.immunology.org.au/). My software toolkit, [Spectre](https://immunedynamics.io/spectre/), has been cited in [37 publications](https://immunedynamics.io/spectre/metrics/) in prestigious journals such as [Cell](https://immunedynamics.io/spectre/metrics/) and [Nature Immunology](https://immunedynamics.io/spectre/metrics/), and is a featured analysis package for the [Human Cell Atlas](https://data.humancellatlas.org/analyze/methods/spectre) project.
 
 <br />
 
@@ -33,7 +40,7 @@ HM McGuire\*, **TM Ashhurst**\* (eds). 2019. [Mass Cytometry: Methods and Protoc
 
 This book details a compilation of up-to-date and cutting-edge protocols in mass cytometry. Chapters guide readers through setting up a facility, panel design and reagent preparation, sample preparation, specific applications, and data analysis. Written in the highly successful Methods in Molecular Biology series format, chapters include introductions to their respective topics, lists of the necessary materials and reagents, step-by-step, readily reproducible laboratory protocols, and tips on troubleshooting and avoiding known pitfalls. Authoritative and cutting-edge, Mass Cytometry: Methods and Protocols aims to ensure successful results in the further study of this vital field.
 
-'Mass Cytometry: Methods and Protocols' has been downloaded over [51,000 times](https://link.springer.com/book/10.1007/978-1-4939-9454-0) and cited [66 times](https://link.springer.com/book/10.1007/978-1-4939-9454-0). Protocols provided in this book have been cited in a wide variety of applications, including COVID-19 ([Rodriguez et al. 2020](https://doi.org/10.1016/j.xcrm.2020.100078), [Koutsakos et al. 2021](https://doi.org/10.1016/j.xcrm.2021.100208)).
+'Mass Cytometry: Methods and Protocols' has been downloaded over [57,000 times](https://link.springer.com/book/10.1007/978-1-4939-9454-0) and cited [84 times](https://link.springer.com/book/10.1007/978-1-4939-9454-0). Protocols provided in this book have been cited in a wide variety of applications, including COVID-19 ([Rodriguez et al. 2020](https://doi.org/10.1016/j.xcrm.2020.100078), [Koutsakos et al. 2021](https://doi.org/10.1016/j.xcrm.2021.100208)).
 
 <br />
 
@@ -45,19 +52,6 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 ---
 
-
-
-
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://pbs.twimg.com/media/E3fVnu9VgAo9BYl?format=jpg&name=4096x4096" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
-
-GH Putri, J Chung, DN Edwards, F Marsh-Wakefield, S Dervish, I Koprinska, NJC King, **TM Ashhurst**, MN Read. 2021. [TrackSOM: mapping immune response dynamics through sequential clustering of time- and disease-course single-cell cytometry data](https://www.biorxiv.org/content/10.1101/2021.06.08.447468v1). bioRxiv (pre-print).
-
 <br />
 
 
@@ -68,6 +62,163 @@ GH Putri, J Chung, DN Edwards, F Marsh-Wakefield, S Dervish, I Koprinska, NJC Ki
 ## Publications
 
 ---
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/team/thomas-ashhurst/HD2022.webp" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+Sedigheh Jalali, Christopher M Harpur, Adam T Piers, Maria Auladell, Louis Perriman, Shuo Li, Kim An, Jeremy Anderson, Stuart P Berzins, Paul V Licciardi, **Thomas M Ashhurst**, Igor E Konstantinov, Daniel G Pellicci. 2022. [A high‐dimensional cytometry atlas of peripheral blood over the human life span](https://doi.org/10.1111/imcb.12594). Immunology and Cell Biology, 100: 805-821.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://pbs.twimg.com/media/FXyLVdjaMAIbFeo?format=jpg&name=360x360" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+Niels JM Verstegen, Ruth R Hagen, Jet van den Dijssel, Lisan H Kuijper, Christine Kreher, **Thomas Ashhurst**, Laura YL Kummer, ... Marieke SM van Ham, Anja ten Brinke, Carolien E van de Sandt, on behalf of the T2B! immunity against SARS-CoV-2 study group. 2022. [Immune dynamics in SARS-CoV-2 experienced immunosuppressed rheumatoid arthritis or multiple sclerosis patients vaccinated with mRNA-1273](https://elifesciences.org/articles/77969). eLife.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://pbs.twimg.com/media/FWxoSnJWYAAqAPe?format=jpg&name=4096x4096" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+Givanna H Putri, Jonathan Chung, Davis N Edwards, Felix Marsh‐Wakefield, Irena Koprinska, Suat Dervish, Nicholas JC King, **Thomas M Ashhurst**, Mark N Read. 2022. [TrackSOM: mapping immune response dynamics through clustering of time‐course cytometry data](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24668). Cytometry Part A.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/COVID%20resp.png?raw=true" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+W Zhang, B Chua, K Selva, L Kedzierski, **T Ashhurst**, E Haycroft, ... Thi Nguyen, Katherine Kedzierska. 2022. [SARS-CoV-2 infection results in immune responses in the respiratory tract and peripheral blood that suggest mechanisms of disease severity](https://www.nature.com/articles/s41467-022-30088-y). Nature Communications.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/West%202022.png?raw=true" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+Phillip K. West, Andrew N. McCorkindale, Boris Guennewig, **Thomas M. Ashhurst**, Barney Viengkhou, Emina Hayashida, So Ri Jung, Oleg Butovsky, Iain L. Campbell & Markus J. Hofer (2022). [The cytokines interleukin-6 and interferon-α induce distinct microglia phenotypes](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-022-02441-x). Journal of Neuroinflammation. 19, 96.
+
+<br />
+<br />
+<br />
+<br />
+
+
+
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/Marsh-Wakefield%202022.png?raw=true" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+Felix Marsh-Wakefield, Pierre Juillard, **Thomas M Ashhurst**, Annette Juillard, Diana Shinko, Givanna H Putri, Mark N Read, Helen M McGuire, Scott N Byrne, Simon Hawke, Georges E Grau (2022). [Peripheral B cell dysregulation is associated with relapse after long-term quiescence in multiple sclerosis patients](https://doi.org/10.1111/imcb.12552). Immunology and Cell Biology. Online.
+
+<br />
+<br />
+<br />
+<br />
+
+
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://ars.els-cdn.com/content/image/X26659913.jpg" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+LuukWieske, Koos P Jvan Dam, Maurice Steenhuis, ... Filip Eftimov on behalf of the **T2B! Immunity against SARS-CoV-2 study group**. [Humoral responses after second and third SARS-CoV-2 vaccination in patients with immune-mediated inflammatory disorders on immunosuppressants: a cohort study](https://www.sciencedirect.com/science/article/pii/S2665991322000340#!). The Lancet Rheumatology. In press.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+
+
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://user-images.githubusercontent.com/11766139/132227057-93345bef-efd2-45af-b6bf-4f1cec8399e2.png" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+T Liechti, L Weber, **TM Ashhurst**, N Stanley, M Prlic, S Van Gassen, F Mair. (2021). [An updated guide for the perplexed: cytometry in the high-dimensional era](https://www.nature.com/articles/s41590-021-01006-z). Nature Immunology.
+
+- Featured on the Nature's [Immunology](https://www.nature.com/subjects/immunology) subject page.
+
+<br />
+<br />
+<br />
+<br />
+
+
+
+
+
+
+
 
 <div class='row'>
     <div class="image">
@@ -89,7 +240,7 @@ AG Spiteri, RL Terry, CL Wishart, **TM Ashhurst**, IL Campbell, MJ Hofer, NJC Ki
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-46-9.png?version=1&modificationDate=1613891282510&api=v2" alt="icon" width="250" align="right">
+            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/images/Spectre%20logo%20wide.png" alt="icon" width="250" align="right">
         </a>
     </div>
 </div>
