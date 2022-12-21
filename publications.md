@@ -62,6 +62,8 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 Sedigheh Jalali, Christopher M Harpur, Adam T Piers, Maria Auladell, Louis Perriman, Shuo Li, Kim An, Jeremy Anderson, Stuart P Berzins, Paul V Licciardi, **Thomas M Ashhurst**\*, Igor E Konstantinov\*, Daniel G Pellicci\*. 2022. [A high‐dimensional cytometry atlas of peripheral blood over the human life span](https://doi.org/10.1111/imcb.12594). Immunology and Cell Biology, 100: 805-821.
 
+- Editors Choice, ICB
+
 <br />
 <br />
 <br />
