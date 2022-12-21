@@ -8,7 +8,7 @@ permalink: /publications/
 
 ![Publications](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Publication%202.png)
 
-My publications consist of [1 book](https://tomashhurst.github.io/publications/#books) and [32 published articles](https://tomashhurst.github.io/publications/#publications), with [965 citations](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) since 2012 and an [h-index of 17](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) (via Google Scholar). These publications include 1 book as editor and 9 articles as lead, senior, or corresponding author. Online publication lists can be found on 
+My publications consist of [1 book](https://tomashhurst.github.io/publications/#books) and [32 published articles](https://tomashhurst.github.io/publications/#lead-or-senior-author), with [965 citations](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) since 2012 and an [h-index of 17](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) (via Google Scholar). These publications include 1 book as editor and 9 articles as [lead, senior, and/or corresponding author](https://tomashhurst.github.io/publications/#lead-or-senior-author). Online publication lists can be found on 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date),
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="15"> 
 [Google Scholar](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en),
@@ -47,19 +47,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 
 
-
-## Pre-prints
-
----
-
-<br />
-
-
-
-
-
-
-## Publications
+## Lead or senior author
 
 ---
 
@@ -84,6 +72,149 @@ Sedigheh Jalali, Christopher M Harpur, Adam T Piers, Maria Auladell, Louis Perri
 <div class='row'>
     <div class="image">
         <a href="#">
+            <img src="https://pbs.twimg.com/media/FWxoSnJWYAAqAPe?format=jpg&name=4096x4096" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+Givanna H Putri, Jonathan Chung, Davis N Edwards, Felix Marsh‐Wakefield, Irena Koprinska, Suat Dervish, Nicholas JC King, **Thomas M Ashhurst**, Mark N Read. 2022. [TrackSOM: mapping immune response dynamics through clustering of time‐course cytometry data](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24668). Cytometry Part A.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/images/Spectre%20logo%20wide.png" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+**TM Ashhurst**\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... 2021. [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). Cytometry A (accepted). *Corresponding author*.
+
+- Preprint available [here](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract).
+- Presentation at the Oz Single Cell webinar series: [computational biology](https://youtu.be/poEDERGXrQw?t=3148).
+- Our high-dimensional analysis workshops featured in: [High Dimensional Data Analysis Strategies Homeshow 2020 - in ASI News](https://www.immunology.org.au/files/Newsletter_pdfs/ASI017_Dec_2020.pdf#page=35). 2020. Australia and New Zealand Society for Immunology.
+- Code available from our [Github page](https://github.com/ImmuneDynamics/spectre)
+- Protocols and instructions available on the [Spectre Home Page](https://immunedynamics.github.io/spectre).
+- In the [top 5% of all research outputs](https://www.altmetric.com/details/92965811) scored by Altmetric
+
+<br />
+<p> </p>
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/Niewold%202020.png?raw=true" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+P Niewold\*, **TM Ashhurst**\*, AL Smith, NJC King. 2020. [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). Cytometry Part A.
+
+- ISAC [webinar](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211) on spectral cytometry
+
+<br />
+<p> </p>
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/team/thomas-ashhurst/Czechowska%202019.jpg" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+R Salomon\*, C Hall\*, **TM Ashhurst**\* (2019). Cytometry in the Era of the Human Cell Atlas (WS06). Part of: K Czechowsk et al. (2019). [Cyt‐Geist: Current and future challenges in cytometry: Reports of the CYTO 2018 conference workshops](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.23777). Cytometry Part A 95 (6), 598-644
+
+- Published following a workshop at [CYTO 2018](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23350) on the use of cytometry in the era of the [Human Cell Atlas](http://humancellatlas.org/).
+
+<br />
+<br />
+
+
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/team/thomas-ashhurst/Ashhurst%202019%20leuk.png" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+**TM Ashhurst**, DA Cox, AL Smith, NJC King. 2019. [Analysis of the murine bone marrow hematopoietic system using mass and flow cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). Mass Cytometry, 159-192
+
+- [>2,300 downloads](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12) since 2019.
+- Protocols dervied from this paper are listed on the [resource](https://immunedynamics.github.io/resources) page
+
+<br />
+
+
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/team/thomas-ashhurst/Ashhurst%202017.png" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+**TM Ashhurst**, AL Smith, NJC King. 2017. [High‐Dimensional Fluorescence Cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). Current Protocols in Immunology 119 (1), 5.8. 1-5.8. 38. *Corresponding author*.
+
+- In this paper we describe panel design strategies for panels up to 26 colours.
+- This is the first publication we are aware of describing a panel above 18 colours, following [Dr. Pratip Chattodpahyay](https://med.nyu.edu/faculty/pratip-chattopadhyay)'s presentation of 25-colour flow at CYTO 2014. 
+- Highly optimised panels of over 18 colours published around the same include [Staser et al, 2017](https://onlinelibrary.wiley.com/doi/10.1002/cyto.a.23303) and [Mair & Prlic, 2018](https://onlinelibrary.wiley.com/doi/10.1002/cyto.a.23331)
+ 
+<br />
+
+
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/team/thomas-ashhurst/Ashhurst%202014.gif" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+**TM Ashhurst**\*, C van Vreden\*, P Niewold\*, NJC King. 2014. [The plasticity of inflammatory monocyte responses to the inflamed central nervous system](https://www.sciencedirect.com/science/article/pii/S0008874914001117). Cellular immunology 291 (1-2), 49-57
+
+<br />
+<br />
+
+
+
+
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/logo-ijmedres.gif" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+**TM Ashhurst**, C Van Vreden, L Munoz-Erazo, P Niewold, K Watabe, ... 2013. [Antiviral macrophage responses in flavivirus encephalitis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3928696/). The Indian journal of medical research 138 (5), 632
+
+<br />
+
+
+## Co-author
+
+---
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
             <img src="https://pbs.twimg.com/media/FXyLVdjaMAIbFeo?format=jpg&name=360x360" alt="icon" width="250" align="right">
         </a>
     </div>
@@ -97,21 +228,7 @@ Niels JM Verstegen, Ruth R Hagen, Jet van den Dijssel, Lisan H Kuijper, Christin
 <br />
 <br />
 
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://pbs.twimg.com/media/FWxoSnJWYAAqAPe?format=jpg&name=4096x4096" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
 
-Givanna H Putri, Jonathan Chung, Davis N Edwards, Felix Marsh‐Wakefield, Irena Koprinska, Suat Dervish, Nicholas JC King, **Thomas M Ashhurst**, Mark N Read. 2022. [TrackSOM: mapping immune response dynamics through clustering of time‐course cytometry data](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24668). Cytometry Part A.
-
-<br />
-<br />
-<br />
-<br />
-<br />
 
 
 <div class='row'>
@@ -237,35 +354,6 @@ AG Spiteri, RL Terry, CL Wishart, **TM Ashhurst**, IL Campbell, MJ Hofer, NJC Ki
 
 
 
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/images/Spectre%20logo%20wide.png" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
-
-**TM Ashhurst**\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... 2021. [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). Cytometry A (accepted). *Corresponding author*.
-
-- Preprint available [here](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract).
-- Presentation at the Oz Single Cell webinar series: [computational biology](https://youtu.be/poEDERGXrQw?t=3148).
-- Our high-dimensional analysis workshops featured in: [High Dimensional Data Analysis Strategies Homeshow 2020 - in ASI News](https://www.immunology.org.au/files/Newsletter_pdfs/ASI017_Dec_2020.pdf#page=35). 2020. Australia and New Zealand Society for Immunology.
-- Code available from our [Github page](https://github.com/ImmuneDynamics/spectre)
-- Protocols and instructions available on the [Spectre Home Page](https://immunedynamics.github.io/spectre).
-- In the [top 5% of all research outputs](https://www.altmetric.com/details/92965811) scored by Altmetric
-
-<br />
-<p> </p>
-
-
-
-
-
-
-
-
-
-
 
 <div class='row'>
     <div class="image">
@@ -343,25 +431,6 @@ GH Putri, I Koprinska, **TM Ashhurst**, NJC King, MN Read. 2021. [Using single-c
 <br />
 <br />
 <br />
-
-
-
-
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/Niewold%202020.png?raw=true" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
-
-P Niewold\*, **TM Ashhurst**\*, AL Smith, NJC King. 2020. [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). Cytometry Part A.
-
-- ISAC [webinar](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211) on spectral cytometry
-
-<br />
-<p> </p>
-
 
 
 
@@ -452,57 +521,7 @@ E Hayashida, ZL Ling, **TM Ashhurst**, B Viengkhou, SR Jung, ... 2019. [Zika vir
 <br />
 <br />
 
-
-
-
-
-
-
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/team/thomas-ashhurst/Czechowska%202019.jpg" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
-
-R Salomon\*, C Hall\*, **TM Ashhurst**\* (2019). Cytometry in the Era of the Human Cell Atlas (WS06). Part of: K Czechowsk et al. (2019). [Cyt‐Geist: Current and future challenges in cytometry: Reports of the CYTO 2018 conference workshops](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.23777). Cytometry Part A 95 (6), 598-644
-
-- Published following a workshop at [CYTO 2018](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23350) on the use of cytometry in the era of the [Human Cell Atlas](http://humancellatlas.org/).
-
-<br />
-<br />
-
-
-
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/team/thomas-ashhurst/Ashhurst%202019%20leuk.png" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
-
-**TM Ashhurst**, DA Cox, AL Smith, NJC King. 2019. [Analysis of the murine bone marrow hematopoietic system using mass and flow cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). Mass Cytometry, 159-192
-
-- [>2,300 downloads](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12) since 2019.
-- Protocols dervied from this paper are listed on the [resource](https://immunedynamics.github.io/resources) page
-
-<br />
-
-
-
-
 D Shinko, **TM Ashhurst**, HM McGuire, KA Charles. 2019. [Staining of phosphorylated signalling markers protocol for mass cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_10). Mass Cytometry, 139-146
-
-
-
-
-
-
-
-
-
 
 SR Jung, T Suprunenko, **TM Ashhurst**, NJC King, MJ Hofer. 2018. [Collateral Damage: What Effect Does Anti-CD4 and Anti-CD8α Antibody–Mediated Depletion Have on Leukocyte Populations?](https://www.jimmunol.org/content/201/7/2176.abstract). The Journal of Immunology 201 (7), 2176-2186
 
@@ -510,67 +529,12 @@ TM Campbell, BP McSharry, M Steain, **TM Ashhurst**, B Slobedman, ... 2018. [Var
 
 <br/>
 
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/team/thomas-ashhurst/Ashhurst%202017.png" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
-
-**TM Ashhurst**, AL Smith, NJC King. 2017. [High‐Dimensional Fluorescence Cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). Current Protocols in Immunology 119 (1), 5.8. 1-5.8. 38. *Corresponding author*.
-
-- In this paper we describe panel design strategies for panels up to 26 colours.
-- This is the first publication we are aware of describing a panel above 18 colours, following [Dr. Pratip Chattodpahyay](https://med.nyu.edu/faculty/pratip-chattopadhyay)'s presentation of 25-colour flow at CYTO 2014. 
-- Highly optimised panels of over 18 colours published around the same include [Staser et al, 2017](https://onlinelibrary.wiley.com/doi/10.1002/cyto.a.23303) and [Mair & Prlic, 2018](https://onlinelibrary.wiley.com/doi/10.1002/cyto.a.23331)
- 
-<br />
-
-
-
-
 M Huber, T Suprunenko, **T Ashhurst**, F Marbach, H Raifer, S Wolff, ... 2017. [IRF9 Prevents CD8+ T cell exhaustion in an extrinsic manner during acute Lymphocytic choriomeningitis virus infection](https://jvi.asm.org/content/91/22/e01219-17.short). Journal of Virology 91 (22)
 
 RL Terry, C Deffrasnes, DR Getts, C Minten, C Van Vreden, **TM Ashhurst**, ... 2015. [Defective inflammatory monocyte development in IRF8-deficient mice abrogates migration to the West Nile virus-infected brain](https://www.karger.com/Article/Abstract/365972). Journal of innate immunity 7 (1), 102-112
 
 DR Getts, RL Terry, MT Getts, C Deffrasnes, M Müller, C van Vreden, **TM Ashhurst** ... 2014. [Therapeutic inflammatory monocyte modulation using immune-modifying microparticles](https://stm.sciencemag.org/content/6/219/219ra7.short). Science translational medicine 6 (219), 219ra7-219ra7.
 - *News items: [ABC News](http://www.abc.net.au/science/articles/2014/01/16/3926376.htm), [The Guardian](http://www.theguardian.com/world/2014/jan/16/heart-attack-damage-can-be-reduced-with-a-simple-injection-say-experts)*.
-
-
-
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/team/thomas-ashhurst/Ashhurst%202014.gif" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
-
-**TM Ashhurst**\*, C van Vreden\*, P Niewold\*, NJC King. 2014. [The plasticity of inflammatory monocyte responses to the inflamed central nervous system](https://www.sciencedirect.com/science/article/pii/S0008874914001117). Cellular immunology 291 (1-2), 49-57
-
-<br />
-<br />
-
-
-
-
-
-
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/logo-ijmedres.gif" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
-
-**TM Ashhurst**, C Van Vreden, L Munoz-Erazo, P Niewold, K Watabe, ... 2013. [Antiviral macrophage responses in flavivirus encephalitis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3928696/). The Indian journal of medical research 138 (5), 632
-
-<br />
-
-
-
-
 
 DR Getts, RL Terry, MT Getts, M Müller, S Rana, C Deffrasnes, **TM Ashhurst**... 2012. [Targeted blockade in lethal West Nile virus encephalitis indicates a crucial role for very late antigen (VLA)-4-dependent recruitment of nitric oxide-producing macrophages](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246). Journal of Neuroinflammation 9 (1), 246.
 
