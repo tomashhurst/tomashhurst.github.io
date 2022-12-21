@@ -65,8 +65,6 @@ Sedigheh Jalali, Christopher M Harpur, Adam T Piers, Maria Auladell, Louis Perri
 - Editors Choice, ICB
 
 <br />
-<br />
-<br />
 
 
 <div class='row'>
@@ -79,8 +77,6 @@ Sedigheh Jalali, Christopher M Harpur, Adam T Piers, Maria Auladell, Louis Perri
 
 Givanna H Putri, Jonathan Chung, Davis N Edwards, Felix Marsh‐Wakefield, Irena Koprinska, Suat Dervish, Nicholas JC King, **Thomas M Ashhurst**, Mark N Read. 2022. [TrackSOM: mapping immune response dynamics through clustering of time‐course cytometry data](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24668). Cytometry Part A.
 
-<br />
-<br />
 <br />
 
 <div class='row'>
