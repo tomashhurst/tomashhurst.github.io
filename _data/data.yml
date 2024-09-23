@@ -125,15 +125,6 @@ experiences:
             - Bullet point
             - Bullet 
 
-experiences:
-    title: Roles
-    info:
-      - role: Co-lead
-        time: 2021 - Present
-        company: Sydney Cytometry Core Research Facility, The University of Sydney
-        details: |
-          Describe your role here
-
 projects:
     title: Research
     intro: >
