@@ -119,7 +119,7 @@ oss:
 publications:
     title: Publications
     intro: |
-      Selected publications. Full list on [Google Scholar]{https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en}
+      Selected publications. Full list on <Google Scholar aref=https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en>
     papers:
       - title: Integration, exploration, and analysis of high‐dimensional sinngle-cell data
         link: "#"
