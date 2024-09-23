@@ -119,7 +119,7 @@ oss:
 publications:
     title: Publications
     intro: |
-      Selected publications. Full list on <Google Scholar aref=https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en>
+      Selected publications. Full list on <a href="https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en">Google Scholar</a>
     papers:
       - title: Integration, exploration, and analysis of high‐dimensional sinngle-cell data
         link: "#"
@@ -127,4 +127,4 @@ publications:
         conference: Cytometry Part A 101 (3), 237-253, 2022
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Page template by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
