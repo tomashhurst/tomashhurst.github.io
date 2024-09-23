@@ -57,7 +57,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Senior Cytometry Scientist with the [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au/), the co-leader of the Single Cell and Spatial Biology Research Node with the Charles Perkins Centre, and an Honorary Research Fellow in Infection, Immunity, and Inflammation at the University of Sydney. In these roles I specialise in the use of cutting edge high-dimensional cytometry, single-cell, and spatial multiomics technologies for interrogating cellular systems. My work involves the development of new computational and experimental methods to better understand immune development and pathology across the human lifespan, with a particular focus on the pathogenesis of severe respiratory and neuroinvasive infectious diseases. 
+      I am a Senior Cytometry Scientist with the [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au/), the co-leader of the Single Cell and Spatial Biology Research Node with the Charles Perkins Centre, and an Honorary Research Fellow in Infection, Immunity, and Inflammation at the University of Sydney. 
+      
+      <br />
+      
+      In these roles I specialise in the use of cutting edge high-dimensional cytometry, single-cell, and spatial multiomics technologies for interrogating cellular systems. My work involves the development of new computational and experimental methods to better understand immune development and pathology across the human lifespan, with a particular focus on the pathogenesis of severe respiratory and neuroinvasive infectious diseases. 
 education:
     title: Education
     info:
