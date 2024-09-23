@@ -121,9 +121,13 @@ publications:
       Selected publications. Full list on <a href="https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en">Google Scholar</a>
     papers:
       - title: Integration, exploration, and analysis of high‐dimensional sinngle-cell data
-        link: "#"
+        link: "https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.24350"
         authors: TM Ashhurst, F Marsh‐Wakefield, GH Putri, AG Spiteri, D Shinko, ...
         conference: Cytometry Part A 101 (3), 237-253, 2022
+      - title: A high‐dimensional cytometry atlas of peripheral blood over the human life span
+        link: https://onlinelibrary.wiley.com/doi/full/10.1111/imcb.12594
+        authors: S Jalali, CM Harpur, AT Piers, M Auladell, L Perriman, S Li, K An, ...
+        conference: Immunology and Cell Biology 100 (10), 805-821, 2022
 
 footer: >
     Page template by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
