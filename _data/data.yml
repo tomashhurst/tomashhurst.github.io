@@ -8,13 +8,13 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Thomas Ashhurst Ph.D
-    tagline: Senior Scientist
+    name: Thomas Ashhurst
+    tagline: Ph.D
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: thomas.ashhurst@sydney.edu.au
-    # phone: 012 345 6789
+    # phone: 
     # timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     # citizenship:
     website: https://immunedynamics.io/ # Include the full website URL, including "http://" or "https://".
@@ -54,7 +54,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Senior Cytometry Scientist with the Sydney Cytometry Core Research Facility, the co-leader of the Single Cell and Spatial Biology Research Node with the Charles Perkins Centre, and an Honorary Research Fellow in Infection, Immunity, and Inflammation at the University of Sydney. In these roles I specialise in the use of cutting edge high-dimensional cytometry, single-cell, and spatial multiomics technologies for interrogating cellular systems. My work involves the development of new computational and experimental methods to better understand immune development and pathology across the human lifespan, with a particular focus on the pathogenesis of severe respiratory and neuroinvasive infectious diseases. 
+      I am a Senior Cytometry Scientist with the [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au/), the co-leader of the Single Cell and Spatial Biology Research Node with the Charles Perkins Centre, and an Honorary Research Fellow in Infection, Immunity, and Inflammation at the University of Sydney. In these roles I specialise in the use of cutting edge high-dimensional cytometry, single-cell, and spatial multiomics technologies for interrogating cellular systems. My work involves the development of new computational and experimental methods to better understand immune development and pathology across the human lifespan, with a particular focus on the pathogenesis of severe respiratory and neuroinvasive infectious diseases. 
 education:
     title: Education
     info:
