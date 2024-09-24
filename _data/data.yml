@@ -73,9 +73,9 @@ education:
         time: 2021-present
         
 projects:
-    title: Professional services
+    title: Specialties
     intro: >
-      I provide a range of professional services in assay design, sample preparation, samples acquisition, and data analysis through the Sydney Cytometry Core Research Facility.
+      As part of the Sydney Cytometry Core Research Facility, I provide a range of professional services in assay design, sample preparation, samples acquisition, and data analysis.
     assignments:
       - title: Flow and spectral cytometry
         link: "https://sydneycytometry.org.au/flow-cytometry-analysis"
