@@ -89,21 +89,21 @@ certifications:
           start: 2022
           end: present
           organization: Sydney Cytometry Core Research Facility, The University of Sydney
-          credentialurl: https://sydneycytometry.org.au/
+          credentialurl: www.sydneycytometry.org.au/
           credentialname: Website
           details: |
         - name: Co-lead
           start: 2021
           end: present
           organization: Single Cell and Spatial Biology Node, The University of Sydney
-          credentialurl: https://www.sydney.edu.au/charles-perkins-centre/our-research/integrative-systems-and-modelling/single-cell-biology.html
+          credentialurl: www.sydney.edu.au/charles-perkins-centre/our-research/integrative-systems-and-modelling/single-cell-biology.html
           credentialname: Website
           details: |
         - name: Honorary Research Fellow
           start: 2021
           end: present
           organization: Infection, Immunity, and Inflammation Theme, The University of Sydney
-          credentialurl: https://www.sydney.edu.au/medicine-health/schools/sydney-medical-school/discipline-of-infectious-diseases-and-immunology.html
+          credentialurl: www.sydney.edu.au/medicine-health/schools/sydney-medical-school/discipline-of-infectious-diseases-and-immunology.html
           credentialname: Website
           details: |
 
