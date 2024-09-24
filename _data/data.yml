@@ -71,25 +71,6 @@ education:
       - degree: Honorary Research Fellow
         university: Infection, Immunity, and Inflammation, The University of Sydney
         time: 2021-present
-
-experiences:
-    title: Training & Experience
-    info:
-      - role: Senior Cytometry Scientist
-        time: 2022 - Present
-        company: Sydney Cytometry Core Research Facility, The University of Sydney
-      - role: Cytometry Specialist
-        time: 2017 - 2022
-        company: Sydney Cytometry Core Research Facility, The University of Sydney
-      - role: Cytometry Specialist
-        time: 2017 - 2022
-        company: Sydney Cytometry Core Research Facility, The University of Sydney
-      - role: PhD in Medicine (Immunology)
-        time: 2012-2017 (awarded 2019)
-        company: Discipline of Pathology, The University of Sydney
-       - role: Bachelor of Science (hons)
-        time: 2012-2017 (awarded 2019)
-        company: The University of Sydney
         
 projects:
     title: Professional services
@@ -145,6 +126,24 @@ publications:
         authors: HM McGuire, T Ashhurst (eds)
         conference: Methods in Molecular Biology, 2019
 
+experiences:
+    title: Training and Experience
+    info:
+      - role: Senior Cytometry Scientist
+        time: 2022 - Present
+        company: Sydney Cytometry Core Research Facility, The University of Sydney
+      - role: Cytometry Specialist
+        time: 2017 - 2022
+        company: Sydney Cytometry Core Research Facility, The University of Sydney
+      - role: Cytometry Specialist
+        time: 2017 - 2022
+        company: Sydney Cytometry Core Research Facility, The University of Sydney
+      - role: PhD in Medicine (Immunology)
+        time: 2012-2017 (awarded 2019)
+        company: Discipline of Pathology, The University of Sydney
+       - role: Bachelor of Science (hons)
+        time: 2012-2017 (awarded 2019)
+        company: The University of Sydney
 
 footer: >
     Page template by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
