@@ -98,21 +98,21 @@ experiences:
         company: Discipline of Pathology, The University of Sydney  
 
 certifications:
-      title: Roles
+      title: Current roles
       list:
         - name: Co-lead
           start: 2021
           end: present
-          organization: The University of Sydney
+          organization: Single Cell and Spatial Biology Node, The University of Sydney
           credentialurl: https://www.sydney.edu.au/charles-perkins-centre/our-research/integrative-systems-and-modelling/single-cell-biology.html
-          credentialname: Single Cell and Spatial Biology Node
+          credentialname: Link
           details: |
         - name: Honorary Research Fellow
           start: 2021
           end: present
-          organization: The University of Sydney
+          organization: Infection, Immunity, and Inflammation Theme, The University of Sydney
           credentialurl: https://www.sydney.edu.au/medicine-health/schools/sydney-medical-school/discipline-of-infectious-diseases-and-immunology.html
-          credentialname: Infection, Immunity, and Inflammation
+          credentialname: Link
           details: |
 
 projects:
