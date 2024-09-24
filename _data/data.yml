@@ -58,42 +58,45 @@ career-profile:
     title: Overview
     summary: |
       I am a Senior Cytometry Scientist with the <a href="https://sydneycytometry.org.au/">Sydney Cytometry Core Research Facility</a>, co-leader of the Single Cell and Spatial Biology Research Node with the Charles Perkins Centre, and an Honorary Research Fellow in Infection, Immunity, and Inflammation at the University of Sydney. In these roles I specialise in the use of cutting edge high-dimensional cytometry, single-cell, and spatial multiomics technologies for interrogating cellular systems. My work involves the development of new computational and experimental methods to better understand immune development and pathology across the human lifespan, with a particular interest in the pathogenesis of severe respiratory and neuroinvasive infectious diseases. 
+
 education:
-    title: Training & Experience
+    title: Affiliations
     info:
       - degree: Senior Cytometry Scientist
         university: Sydney Cytometry Core Research Facility, The University of Sydney
         time: 2022-present
-      - degree: Cytometry Specialist
-        university: Sydney Cytometry Core Research Facility, The University of Sydney
-        time: 2017-2022
-      - degree: PhD in Medicine (Immunology)
-        university: The University of Sydney
-        time: 2012-2017 (awarded 2019)
-      - degree: Bachelor of Science (hons)
-        university: The University of Sydney
-        time: 2008-2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Co-leader
+        university: Single Cell and Spatial Biology Node, The University of Sydney
+        time: 2021-present
+      - degree: Honorary Research Fellow
+        university: Infection, Immunity, and Inflammation, The University of Sydney
+        time: 2021-present
 
-certifications:
-      title: Affiliations
-      list:
-        - name: <a href="https://sydneycytometry.org.au/">Sydney Cytometry Core Research Facility</a>
-          organization: Senior Cytometry Scientist
-          details: |
-        - name: <a href="https://www.sydney.edu.au/charles-perkins-centre/our-research/integrative-systems-and-modelling/single-cell-biology.html">Single Cell and Spatial Biology Node</a>
-          organization: Co-leader
-          details: |
-        - name: <a href="https://www.sydney.edu.au/medicine-health/schools/sydney-medical-school/discipline-of-infectious-diseases-and-immunology.html">Infection, Immunity, and Inflammation Theme</a>
-          organization: Honorary Research Fellow
-          details: |
+experiences:
+    title: Training & Experience
+    info:
+      - role: Senior Cytometry Scientist
+        time: 2022 - Present
+        company: Sydney Cytometry Core Research Facility, The University of Sydney
+        details: |
+            - Visiting Scientist, Francis Crick Institute, London (2024)
+      - role: Cytometry Specialist
+        time: 2017 - 2022
+        company: Sydney Cytometry Core Research Facility, The University of Sydney
+      - role: Cytometry Specialist
+        time: 2017 - 2022
+        company: Sydney Cytometry Core Research Facility, The University of Sydney
+      - role: PhD in Medicine (Immunology)
+        time: 2012-2017 (awarded 2019)
+        company: Discipline of Pathology, The University of Sydney
+        details: |
+            - Visiting Scientist, Stanford University, USA (2014)
+       - role: Bachelor of Science (hons)
+        time: 2012-2017 (awarded 2019)
+        company: The University of Sydney
+        details: |
+            - Majors: Immunobiology and Microbiology
+            - Honours: Pathology
 
 projects:
     title: Professional services
