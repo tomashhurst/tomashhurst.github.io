@@ -78,8 +78,6 @@ experiences:
       - role: Senior Cytometry Scientist
         time: 2022 - Present
         company: Sydney Cytometry Core Research Facility, The University of Sydney
-        details: |
-            - Visiting Scientist, Francis Crick Institute, London (2024)
       - role: Cytometry Specialist
         time: 2017 - 2022
         company: Sydney Cytometry Core Research Facility, The University of Sydney
@@ -89,15 +87,10 @@ experiences:
       - role: PhD in Medicine (Immunology)
         time: 2012-2017 (awarded 2019)
         company: Discipline of Pathology, The University of Sydney
-        details: |
-            - Visiting Scientist, Stanford University, USA (2014)
        - role: Bachelor of Science (hons)
         time: 2012-2017 (awarded 2019)
         company: The University of Sydney
-        details: |
-            - Majors: Immunobiology and Microbiology
-            - Honours: Pathology
-
+        
 projects:
     title: Professional services
     intro: >
