@@ -83,19 +83,19 @@ education:
             - Bullet point
 
 certifications:
-      title: Affiliations
+      title: University of Sydney Affiliations
       list:
-        - name: <a href="https://sydneycytometry.org.au/">Sydney Cytometry Core Research Facility, The University of Sydney</a>
+        - name: <a href="https://sydneycytometry.org.au/">Sydney Cytometry Core Research Facility</a>
           start: 2022
           end: present
           organization: Senior Cytometry Scientist
           details: |
-        - name: <a href="www.sydney.edu.au/charles-perkins-centre/our-research/integrative-systems-and-modelling/single-cell-biology.html">Single Cell and Spatial Biology Node</a>, The University of Sydney
+        - name: <a href="www.sydney.edu.au/charles-perkins-centre/our-research/integrative-systems-and-modelling/single-cell-biology.html">Single Cell and Spatial Biology Node</a>
           start: 2021
           end: present
           organization: Co-leader
           details: |
-        - name: <a href="www.sydney.edu.au/medicine-health/schools/sydney-medical-school/discipline-of-infectious-diseases-and-immunology.html">Infection, Immunity, and Inflammation Theme, The University of Sydney</a>
+        - name: <a href="www.sydney.edu.au/medicine-health/schools/sydney-medical-school/discipline-of-infectious-diseases-and-immunology.html">Infection, Immunity, and Inflammation Theme</a>
           start: 2021
           end: present
           organization: Honorary Research Fellow
