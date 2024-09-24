@@ -57,7 +57,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Senior Cytometry Scientist with the <a href="https://sydneycytometry.org.au/">Sydney Cytometry Core Research Facility</a>, co-leader of the Single Cell and Spatial Biology Research Node with the Charles Perkins Centre, and an Honorary Research Fellow in Infection, Immunity, and Inflammation at the University of Sydney. In these roles I specialise in the use of cutting edge high-dimensional cytometry, single-cell, and spatial multiomics technologies for interrogating cellular systems. My work involves the development of new computational and experimental methods to better understand immune development and pathology across the human lifespan, with a particular focus on the pathogenesis of severe respiratory and neuroinvasive infectious diseases. 
+      I am a Senior Cytometry Scientist with the <a href="https://sydneycytometry.org.au/">Sydney Cytometry Core Research Facility</a>, co-leader of the Single Cell and Spatial Biology Research Node with the Charles Perkins Centre, and an Honorary Research Fellow in Infection, Immunity, and Inflammation at the University of Sydney. In these roles I specialise in the use of cutting edge high-dimensional cytometry, single-cell, and spatial multiomics technologies for interrogating cellular systems. My work involves the development of new computational and experimental methods to better understand immune development and pathology across the human lifespan, with a particular interest in the pathogenesis of severe respiratory and neuroinvasive infectious diseases. 
 education:
     title: Education
     info:
@@ -121,12 +121,16 @@ projects:
       I provide a range of professional services in assay design, sample preparation, samples acquisition, and data analysis through the Sydney Cytometry Core Research Facility.
     assignments:
       - title: Flow and spectral cytometry
+        link: "https://sydneycytometry.org.au/flow-cytometry-analysis"
         tagline: "LSR-II (BD), Fortessa X-20 (BD), Aurora (Cytek)"
       - title: Suspension and Imaging Mass cytometry
+        link: "https://sydneycytometry.org.au/mass-cytometry"
         tagline: "Helios and Hyperion systems (Standard BioTools)"
       - title: Single-cell multiomics
+        link: "https://sydneycytometry.org.au/genomic-cytometry"
         tagline: "Rhapsody HT (BD), Chromium X (10X Genomics)"
       - title: Spatial multiomics
+        link: "https://sydneycytometry.org.au/spatial-multiomics"
         tagline: "Xenium (10X Genomics), CosMx (NanoString), Visium/Visium HD (10X Genomics)"
         
 oss:
