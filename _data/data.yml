@@ -90,12 +90,12 @@ certifications:
           end: present
           organization: Senior Cytometry Scientist
           details: |
-        - name: <a href="www.sydney.edu.au/charles-perkins-centre/our-research/integrative-systems-and-modelling/single-cell-biology.html">Single Cell and Spatial Biology Node</a>
+        - name: <a href="https://www.sydney.edu.au/charles-perkins-centre/our-research/integrative-systems-and-modelling/single-cell-biology.html">Single Cell and Spatial Biology Node</a>
           start: 2021
           end: present
           organization: Co-leader
           details: |
-        - name: <a href="www.sydney.edu.au/medicine-health/schools/sydney-medical-school/discipline-of-infectious-diseases-and-immunology.html">Infection, Immunity, and Inflammation Theme</a>
+        - name: <a href="https://www.sydney.edu.au/medicine-health/schools/sydney-medical-school/discipline-of-infectious-diseases-and-immunology.html">Infection, Immunity, and Inflammation Theme</a>
           start: 2021
           end: present
           organization: Honorary Research Fellow
