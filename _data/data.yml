@@ -17,7 +17,7 @@ sidebar:
     # phone: 
     # timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     # citizenship:
-    website: https://immunedynamics.io/ # Include the full website URL, including "http://" or "https://".
+    website: https://tomashhurst.github.io/ # Include the full website URL, including "http://" or "https://".
     linkedin: thomas-ashhurst
     # xing: alandoe
     github: tomashhurst
@@ -66,28 +66,17 @@ education:
         time: 2021-present
 
 certifications:
-      title: Affiliations
+      title: My work
       list:
-        - name: <a href="https://www.sydneycytometry.org.au">Sydney Cytometry Core Research Facility</a>
-          organization: Senior Cytometry Scientist
-          credentialurl: www.sydneycytometry.org.au
-          credentialname: Website
+        - name: High-dimensional cytometry, single-cell, and spatial multiomics
           details: |
-            - A core research facility at the University of Sydney. Here I provide a range of professional services in assay design, sample preparation, samples acquisition, and data analysis.
-            - Platforms: flow cytometry (LSR-II, Fortessa X-20), spectral cytometry (Aurora), mass cytometry (Helios), imaging mass cytometry (Hyperion), single-cell muliomics (Rhapsody HT, Chromium X), spatial multiomics (Xenium, CosMx, Visium/Visium HD)
-        - name: Single Cell and Spatial Biology Research Node
-          organization: Co-lead
-          credentialurl: www.sydney.edu.au/charles-perkins-centre/our-research/integrative-systems-and-modelling/single-cell-biology.html
-          credentialname: Website
+            - Through the <a href="https://sydneycytometry.org.au">Sydney Cytometry Core Research Facility</a>, I provide a range of services in assay design, sample preparation, sample acquisition, and data analysis for high-dimensional cytometry, single-cell, and spatial multiomics technologies.
+            - Details of these services can be found through the <a href="https://sydneycytometry.org.au">Sydney Cytometry website</a>.
+        - name: Methods development systems immunology
           details: |
-            - A research node of the Charles Perkins Centre at the University of Sydney. Here we provide access to a network of experts in single cell and spatial biology.      
-        - name: Infection, Immunity, and Inflammation Theme
-          organization: Honorary Research Fellow
-          credentialurl: www.sydney.edu.au/medicine-health/schools/sydney-medical-school/discipline-of-infectious-diseases-and-immunology.html
-          credentialname: Website
-          details: |
-            - A research theme of the School of Medical Sciences focused on infectious and inflammatory diseases. Here I maintan an interest in the developing immune system in health and disease, with a particular focus on respiratory and neuroinvasive infectious diseases. 
-
+            - My work involves developing new laboratory and computational methods for cellular and spatial analysis. We apply these methods to study the development of the immune system over the human lifetime in health and disease.
+            - Details of this work can be found through the <a href="https://immunedynamics.github.io">Immune Dynamics website</a>.
+  
 projects:
     title: Interests
     assignments:
@@ -104,9 +93,6 @@ projects:
 oss:
     title: Resources
     contributions:
-      - title: Immune Dynamics team
-        link: "https://immunedynamics.io/"
-        tagline: "A multidisciplinary collaboration focused on developing open-source analysis tools for cytometry and spatial data"
       - title: Spectre
         link: "https://immunedynamics.io/spectre/"
         tagline: "A computational toolkit for high-dimensional cytometry and spatial analysis."
