@@ -4,7 +4,7 @@
 
 sidebar:
     position: left # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -39,20 +39,13 @@ sidebar:
     #     - idiom: English
     #       level: Native
 
-    interests:
-      title: Interests
-      info:
-        - item: Adult and paediatric immunology
-          link:
-
-        - item: Respiratory and neuroinvasive infectious disease
-          link:
-
-        - item: High-dimensional cytometry
-          link:
-
-        - item: Single-cell and spatial multiomics
-          link:
+interests:
+    title: Education
+    info:
+      - item: Ph.D in Medicine (Immunology)
+        link:
+      - item: Bachelor of Science (hons)
+        link:
 
 career-profile:
     title: Overview
@@ -73,9 +66,9 @@ education:
         time: 2021-present
         
 projects:
-    title: Specialties
+    title: Services
     intro: >
-      As part of the Sydney Cytometry Core Research Facility, I provide a range of professional services in assay design, sample preparation, samples acquisition, and data analysis.
+      I provide a range of professional services in assay design, sample preparation, samples acquisition, and data analysis as part of the <a href="https://sydneycytometry.org.au/">Sydney Cytometry Core Research Facility</a> at the University of Sydney.
     assignments:
       - title: Flow and spectral cytometry
         link: "https://sydneycytometry.org.au/flow-cytometry-analysis"
@@ -89,16 +82,37 @@ projects:
       - title: Spatial multiomics
         link: "https://sydneycytometry.org.au/spatial-multiomics"
         tagline: "Xenium (10X Genomics), CosMx (NanoString), Visium/Visium HD (10X Genomics)"
-        
+      - title: Computational analysis
+        link: "https://sydneycytometry.org.au/data-analysis"
+        tagline: "High-dimensional cytometry, single-cell, and spatial analysis"
+
 oss:
     title: Resources
     contributions:
+      - title: Sydney Cytometry
+        link: "https://sydneycytometry.org.au/"
+        tagline: "A core research facility for flow cytometry, cell sorting, image cytometry, mass cytometry and genomic cytometry that serves the University of Sydney campus and beyond."
+      - title: Immune Dynamics team
+        link: "https://immunedynamics.io/"
+        tagline: "A multidisciplinary collaboration focused on developing open-source analysis tools for cytometry and spatial data"
       - title: Spectre
         link: "https://immunedynamics.io/spectre/"
-        tagline: "High-dimensional cytometry and spatial analysis"
+        tagline: "A computational toolkit for high-dimensional cytometry and spatial analysis."
       - title: SuperCellCyto
         link: "https://phipsonlab.github.io/SuperCellCyto/"
-        tagline: "Scalable cytometry analysis of large datasets using SuperCells"
+        tagline: "Scalable cytometry analysis of large datasets using SuperCells."
+      - title: TrackSOM
+        link: "https://ghar1821.github.io/TrackSOM/"
+        tagline: "TrackSOM is an algorithm for investigating how the dynamic immune response evolves over time and/or disease severity."
+
+certifications:
+      title: Research
+      list:
+        - name: High-dimensional cytometry
+        - name: Single-cell and spatial multiomics
+        - name: Computational analysis
+        - name: Respiratory and neuroinvasive infectious disease
+        - name: Adult and paediatric immunology
 
 publications:
     title: Publications
