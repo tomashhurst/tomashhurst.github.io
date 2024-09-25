@@ -39,13 +39,13 @@ sidebar:
     #     - idiom: English
     #       level: Native
 
-interests:
-    title: Education
-    info:
-      - item: Ph.D in Medicine (Immunology)
-        link:
-      - item: Bachelor of Science (hons)
-        link:
+    interests:
+        title: Education
+        info:
+          - item: Ph.D in Medicine (Immunology)
+            link:
+          - item: Bachelor of Science (hons)
+            link:
 
 career-profile:
     title: Overview
