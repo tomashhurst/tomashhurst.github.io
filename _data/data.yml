@@ -73,7 +73,13 @@ certifications:
           credentialurl: www.sydneycytometry.org.au
           credentialname: Website
           details: |
-            - A core research facility at the University of Sydney. Here I provide a range of professional services in assay design, sample preparation, samples acquisition, and data analysis for a range of flow, mass, and genomic cytometry technologies.
+            - A core research facility at the University of Sydney. Here I provide a range of professional services in assay design, sample preparation, samples acquisition, and data analysis.
+            - Flow cytometry (LSR-II, Fortessa X-20)
+            - Spectral cytometry (Aurora)
+            - Mass cytometry (Helios)
+            - Imaging mass cytometry (Hyperion)
+            - Single-cell muliomics (Rhapsody HT, Chromium X)
+            - Spatial multiomics (Xenium, CosMx, Visium/Visium HD)
         - name: Single Cell and Spatial Biology Research Node
           organization: Co-lead
           credentialurl: www.sydney.edu.au/charles-perkins-centre/our-research/integrative-systems-and-modelling/single-cell-biology.html
