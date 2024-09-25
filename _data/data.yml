@@ -95,6 +95,9 @@ oss:
       - title: Immune Dynamics team
         link: "https://immunedynamics.io/"
         tagline: "A multidisciplinary collaboration focused on developing open-source analysis tools for cytometry and spatial data"
+      - title: Single Cell and Spatial Biology Node
+        link: "https://www.sydney.edu.au/charles-perkins-centre/our-research/integrative-systems-and-modelling/single-cell-biology.html"
+        tagline: "A research node of the Charles Perkins Centre, providing access to a network of experts in single cell and spatial biology"
       - title: Spectre
         link: "https://immunedynamics.io/spectre/"
         tagline: "A computational toolkit for high-dimensional cytometry and spatial analysis."
