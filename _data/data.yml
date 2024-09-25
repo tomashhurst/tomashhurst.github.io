@@ -70,37 +70,41 @@ certifications:
       list:
         - name: Sydney Cytometry Core Research Facility
           organization: Senior Cytometry Scientist
+          credentialurl: www.sydneycytometry.org.au
+          credentialname: Website
           details: |
             A core research facility at the University of Sydney. Here I provide a range of professional services in assay design, sample preparation, samples acquisition, and data analysis for a range of flow, mass, and genomic cytometry technologies.
         - name: Single Cell and Spatial Biology Research Node
           organization: Co-lead
+          credentialurl: www.sydney.edu.au/charles-perkins-centre/our-research/integrative-systems-and-modelling/single-cell-biology.html
+          credentialname: Website
           details: |
             A research node of the Charles Perkins Centre at the University of Sydney. Here we provide access to a network of experts in single cell and spatial biology.      
         - name: Infection, Immunity, and Inflammation Theme
           organization: Honorary Research Fellow
+          credentialurl: www.sydney.edu.au/medicine-health/schools/sydney-medical-school/discipline-of-infectious-diseases-and-immunology.html
+          credentialname: Website
           details: |
             A research theme of the School of Medical Sciences focused on infectious and inflammatory diseases. Here I maintan an interest in the developing immune system in health and disease, with a particular focus on respiratory and neuroinvasive infectious diseases. 
 
 projects:
     title: Interests
-    intro: >
-      I provide a range of professional services in assay design, sample preparation, samples acquisition, and data analysis as part of the <a href="https://sydneycytometry.org.au/">Sydney Cytometry Core Research Facility</a> at the University of Sydney.
     assignments:
       - title: High-dimensional cytometry
         link: ""
-        tagline: ""
+        tagline: "Leverating flow, spectral, mass, imaging mass cytometry technologies for mapping immune dynamics"
       - title: Single-cell and spatial multiomics
         link: ""
-        tagline: ""
+        tagline: "Deep characterisation of cellular systems and immune responses"
       - title: Computational data analysis
         link: ""
-        tagline: ""
+        tagline: "Scalable integration and analysis of high-dimensional cytometry and spatial data"
       - title: Respiratory and neuroinvasive infectious disease
         link: ""
-        tagline: ""
+        tagline: "Undestanding the determinats of immune mediated protection and pathology in viral encephalitis and COVID-19"
       - title: Adult and paediatric immunology
         link: ""
-        tagline: ""
+        tagline: "Development of the immune system over the human lifetime, and consequences for responses to infectious challenges"
 
 oss:
     title: Resources
