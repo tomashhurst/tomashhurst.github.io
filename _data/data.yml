@@ -68,7 +68,7 @@ education:
 certifications:
       title: Affiliations
       list:
-        - name: Sydney Cytometry Core Research Facility
+        - name: <a href="https://www.sydneycytometry.org.au">Sydney Cytometry Core Research Facility</a>
           organization: Senior Cytometry Scientist
           credentialurl: www.sydneycytometry.org.au
           credentialname: Website
@@ -109,15 +109,9 @@ projects:
 oss:
     title: Resources
     contributions:
-      - title: Sydney Cytometry
-        link: "https://sydneycytometry.org.au/"
-        tagline: "A core research facility for flow cytometry, cell sorting, image cytometry, mass cytometry and genomic cytometry that serves the University of Sydney campus and beyond."
       - title: Immune Dynamics team
         link: "https://immunedynamics.io/"
         tagline: "A multidisciplinary collaboration focused on developing open-source analysis tools for cytometry and spatial data"
-      - title: Single Cell and Spatial Biology Node
-        link: "https://www.sydney.edu.au/charles-perkins-centre/our-research/integrative-systems-and-modelling/single-cell-biology.html"
-        tagline: "A research node of the Charles Perkins Centre, providing access to a network of experts in single cell and spatial biology"
       - title: Spectre
         link: "https://immunedynamics.io/spectre/"
         tagline: "A computational toolkit for high-dimensional cytometry and spatial analysis."
