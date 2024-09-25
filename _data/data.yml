@@ -73,26 +73,26 @@ certifications:
           credentialurl: www.sydneycytometry.org.au
           credentialname: Website
           details: |
-            A core research facility at the University of Sydney. Here I provide a range of professional services in assay design, sample preparation, samples acquisition, and data analysis for a range of flow, mass, and genomic cytometry technologies.
+            - A core research facility at the University of Sydney. Here I provide a range of professional services in assay design, sample preparation, samples acquisition, and data analysis for a range of flow, mass, and genomic cytometry technologies.
         - name: Single Cell and Spatial Biology Research Node
           organization: Co-lead
           credentialurl: www.sydney.edu.au/charles-perkins-centre/our-research/integrative-systems-and-modelling/single-cell-biology.html
           credentialname: Website
           details: |
-            A research node of the Charles Perkins Centre at the University of Sydney. Here we provide access to a network of experts in single cell and spatial biology.      
+            - A research node of the Charles Perkins Centre at the University of Sydney. Here we provide access to a network of experts in single cell and spatial biology.      
         - name: Infection, Immunity, and Inflammation Theme
           organization: Honorary Research Fellow
           credentialurl: www.sydney.edu.au/medicine-health/schools/sydney-medical-school/discipline-of-infectious-diseases-and-immunology.html
           credentialname: Website
           details: |
-            A research theme of the School of Medical Sciences focused on infectious and inflammatory diseases. Here I maintan an interest in the developing immune system in health and disease, with a particular focus on respiratory and neuroinvasive infectious diseases. 
+            - A research theme of the School of Medical Sciences focused on infectious and inflammatory diseases. Here I maintan an interest in the developing immune system in health and disease, with a particular focus on respiratory and neuroinvasive infectious diseases. 
 
 projects:
     title: Interests
     assignments:
       - title: High-dimensional cytometry
         link: ""
-        tagline: "Leverating flow, spectral, mass, imaging mass cytometry technologies for mapping immune dynamics"
+        tagline: "Leveraging flow, spectral, mass, imaging mass cytometry technologies for mapping immune dynamics"
       - title: Single-cell and spatial multiomics
         link: ""
         tagline: "Deep characterisation of cellular systems and immune responses"
