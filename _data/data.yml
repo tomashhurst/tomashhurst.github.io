@@ -96,20 +96,14 @@ certifications:
 projects:
     title: Interests
     assignments:
-      - title: High-dimensional cytometry
-        link: ""
-        tagline: "Leveraging flow, spectral, mass, imaging mass cytometry technologies for mapping immune dynamics"
-      - title: Single-cell and spatial multiomics
-        link: ""
-        tagline: "Deep characterisation of cellular systems and immune responses"
       - title: Computational data analysis
-        link: ""
+        link: "https://immunedynamics.io/spectre/"
         tagline: "Scalable integration and analysis of high-dimensional cytometry and spatial data"
       - title: Respiratory and neuroinvasive infectious disease
-        link: ""
+        link: "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7"
         tagline: "Undestanding the determinats of immune mediated protection and pathology in viral encephalitis and COVID-19"
       - title: Adult and paediatric immunology
-        link: ""
+        link: "https://onlinelibrary.wiley.com/doi/full/10.1111/imcb.12594"
         tagline: "Development of the immune system over the human lifetime, and consequences for responses to infectious challenges"
 
 oss:
