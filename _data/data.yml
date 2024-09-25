@@ -42,9 +42,9 @@ sidebar:
     interests:
         title: Education
         info:
-          - item: Ph.D in Medicine (Immunology)
+          - item: Ph.D in Medicine (Immunology) 2019
             link:
-          - item: Bachelor of Science (hons)
+          - item: Bachelor of Science (hons) 2011
             link:
 
 career-profile:
@@ -64,27 +64,43 @@ education:
       - degree: Honorary Research Fellow
         university: Infection, Immunity, and Inflammation, The University of Sydney
         time: 2021-present
-        
+
+certifications:
+      title: Affiliations
+      list:
+        - name: Sydney Cytometry Core Research Facility
+          organization: Senior Cytometry Scientist
+          details: |
+            A core research facility at the University of Sydney. Here I provide a range of professional services in assay design, sample preparation, samples acquisition, and data analysis for a range of flow, mass, and genomic cytometry technologies.
+        - name: Single Cell and Spatial Biology Research Node
+          organization: Co-lead
+          details: |
+            A research node of the Charles Perkins Centre at the University of Sydney. Here we provide access to a network of experts in single cell and spatial biology.      
+        - name: Infection, Immunity, and Inflammation Theme
+          organization: Honorary Research Fellow
+          details: |
+            A research theme of the School of Medical Sciences focused on infectious and inflammatory diseases. Here I maintan an interest in the developing immune system in health and disease, with a particular focus on respiratory and neuroinvasive infectious diseases. 
+
 projects:
-    title: Services
+    title: Interests
     intro: >
       I provide a range of professional services in assay design, sample preparation, samples acquisition, and data analysis as part of the <a href="https://sydneycytometry.org.au/">Sydney Cytometry Core Research Facility</a> at the University of Sydney.
     assignments:
-      - title: Flow and spectral cytometry
-        link: "https://sydneycytometry.org.au/flow-cytometry-analysis"
-        tagline: "LSR-II (BD), Fortessa X-20 (BD), Aurora (Cytek)"
-      - title: Suspension and Imaging Mass cytometry
-        link: "https://sydneycytometry.org.au/mass-cytometry"
-        tagline: "Helios and Hyperion systems (Standard BioTools)"
-      - title: Single-cell multiomics
-        link: "https://sydneycytometry.org.au/genomic-cytometry"
-        tagline: "Rhapsody HT (BD), Chromium X (10X Genomics)"
-      - title: Spatial multiomics
-        link: "https://sydneycytometry.org.au/spatial-multiomics"
-        tagline: "Xenium (10X Genomics), CosMx (NanoString), Visium/Visium HD (10X Genomics)"
-      - title: Computational analysis
-        link: "https://sydneycytometry.org.au/data-analysis"
-        tagline: "High-dimensional cytometry, single-cell, and spatial analysis"
+      - title: High-dimensional cytometry
+        link: ""
+        tagline: ""
+      - title: Single-cell and spatial multiomics
+        link: ""
+        tagline: ""
+      - title: Computational data analysis
+        link: ""
+        tagline: ""
+      - title: Respiratory and neuroinvasive infectious disease
+        link: ""
+        tagline: ""
+      - title: Adult and paediatric immunology
+        link: ""
+        tagline: ""
 
 oss:
     title: Resources
@@ -107,15 +123,6 @@ oss:
       - title: TrackSOM
         link: "https://ghar1821.github.io/TrackSOM/"
         tagline: "TrackSOM is an algorithm for investigating how the dynamic immune response evolves over time and/or disease severity."
-
-certifications:
-      title: Research
-      list:
-        - name: High-dimensional cytometry
-        - name: Single-cell and spatial multiomics
-        - name: Computational analysis
-        - name: Respiratory and neuroinvasive infectious disease
-        - name: Adult and paediatric immunology
 
 publications:
     title: Publications
