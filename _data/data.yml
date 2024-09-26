@@ -144,6 +144,10 @@ experiences:
         time: 2022 - Present
         company: Sydney Cytometry Core Research Facility, The University of Sydney
         details: |
+            Achievements
+            - Established the University of Sydney's first single-cell and spatial multiomics service lab as part of the Sydney Cytometry Core Research Facility
+            - Introduced new methods for the integration of high-dimensional cytometry data to creat a cytometric map of the developing human system.
+            Roles:
             - Visiting Scientist, Francis Crick Institute, London (2024)
             - Honorary Research Fellow, Infectious Disease and Immunology
             - Co-lead, Single Cell and Spatial Biology Research Node
@@ -151,6 +155,12 @@ experiences:
         time: 2017 - 2022
         company: Sydney Cytometry Core Research Facility, The University of Sydney
         details: |
+            Achievements:
+            - Management of high-dimensional flow and mass cytometry (CyTOF)
+            - Introduced Australia's first Imaging Mass Cytometer, and the University of Sydney's first spectral cytometry systems
+            - Aided important discoveries in the immune response against COVID-19
+            - Introduced the Spectre computational toolkit for high-dimensional cytometry analysis
+            Roles:
             - Honorary Research Fellow, Infectious Disease and Immunology (2021-present)
             - Co-lead, Single Cell and Spatial Biology Research Node (2021-present)
             - Systems Cytometry and NSW representative, Systems Immunology specialist interest group of the Australia and New Zealand Society for Immunology (2020 – 2023)
@@ -159,11 +169,17 @@ experiences:
         time: 2012 - 2017
         company: Discipline of Pathology, The University of Sydney
         details: |
+            Achievements:
             - "Mobilisation of the murine haematopoietic system in the bone marrow during viral encephalitis"
+            - Mapping inflammatory changes to haematopoiesis during viral encephalitis in Australia's first CyTOF experiments
+            Roles:
             - Visiting Scientist, Stanford University (2014)
       - role: Bachelor of Science (hons)
         time: 2008 - 2011
         company: The University of Sydney
+        details: |
+            - Majors: Immunobiology, Virology
+            - Honours: Cell Pathology
 
 footer: >
     Page template by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
