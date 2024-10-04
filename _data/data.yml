@@ -81,7 +81,7 @@ projects:
     title: Interests
     assignments:
       - title: High dimensional cytometry
-        tagline: "Platforms for high-throughput immune profiling, including high-dimensional flow (<a href="https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpim.37">Ashhurst et al 2017</a>), mass (<a href="https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12">Ashhurst et al 2019</a>, <a href="https://link.springer.com/book/10.1007/978-1-4939-9454-0">McGuire and Ashhurst (eds) 2019</a>), and spectral cytometry (<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.24211">Niewold et al 2020</a>)."
+        tagline: "Platforms for high-throughput immune profiling, including high-dimensional flow, mass, and spectral cytometry."
       - title: Single cell and spatial multiomics
         tagline: "Deep cellular profiling through <a href="https://sydneycytometry.org.au/genomic-cytometry">single-cell</a> and <a href="https://sydneycytometry.org.au/genomic-cytometry">spatial genomics</a> technologies."
       - title: Computational data analysis
