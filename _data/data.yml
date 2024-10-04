@@ -50,7 +50,7 @@ sidebar:
 career-profile:
     title: Overview
     summary: |
-      I am a Senior Cytometry Scientist with the <a href="https://sydneycytometry.org.au/">Sydney Cytometry Core Research Facility</a>, co-leader of the Single Cell and Spatial Biology Research Node with the Charles Perkins Centre, and an Honorary Research Fellow in Infection, Immunity, and Inflammation at the University of Sydney. In these roles I specialise in the use of cutting edge high-dimensional cytometry, single-cell, and spatial multiomics technologies for interrogating cellular systems. My work involves the development of new computational and experimental methods to better understand immune development and pathology across the human lifespan, with a particular interest in the pathogenesis of severe respiratory and neuroinvasive infectious diseases. 
+      I am a Senior Cytometry Scientist with the <a href="https://sydneycytometry.org.au/">Sydney Cytometry Core Research Facility</a>, co-leader of the <a href="https://www.sydney.edu.au/charles-perkins-centre/our-research/integrative-systems-and-modelling/single-cell-biology.html">Single Cell and Spatial Biology Research Node</a> with the Charles Perkins Centre, and an Honorary Research Fellow in <a href="https://www.sydney.edu.au/medicine-health/schools/sydney-medical-school/discipline-of-infectious-diseases-and-immunology.html">infectious disease and immunology</a> at the University of Sydney. In these roles I specialise in the use of cutting edge high-dimensional cytometry, single-cell, and spatial multiomics technologies for interrogating cellular systems. My work involves the development of new computational and experimental methods to better understand immune development and pathology across the human lifespan, with a particular interest in the pathogenesis of severe respiratory and neuroinvasive infectious diseases. 
 
 education:
     title: Affiliations
@@ -80,19 +80,23 @@ certifications:
 projects:
     title: Interests
     assignments:
+      - title: High-dimensional cytometry
+        tagline: "Platforms for high-throughput immune profiling, including high-dimensional flow (<a href="https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpim.37">Ashhurst et al 2017</a>), mass (<a href="https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12">Ashhurst et al 2019</a>, <a href="https://link.springer.com/book/10.1007/978-1-4939-9454-0">McGuire & Ashhurst (eds) 2019</a>), and spectral cytometry (<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.24211">Niewold et al 2020</a>). 
+      - title: Single-cell and spatial multiomics
+        tagline: "Deep cellular profiling through <a href="https://sydneycytometry.org.au/genomic-cytometry">single-cell</a> and <a href="https://sydneycytometry.org.au/genomic-cytometry">spatial genomics</a> technologies."
       - title: Computational data analysis
-        link: "https://immunedynamics.io/spectre/"
-        tagline: "Scalable integration and analysis of high-dimensional cytometry and spatial data"
+        tagline: "Developing tools for scalable integration and analysis of high-dimensional cytometry and spatial data (<a href="https://onlinelibrary.wiley.com/doi/10.1002/cyto.a.24350">Ashhurst et al 2022</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/36218032/">Jalali et al 2023</a>, <a href="https://onlinelibrary.wiley.com/doi/10.1002/cyto.a.24668">Putri et al 2023</a>, <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03229-3">Putri et al 2024</a>)."
       - title: Respiratory and neuroinvasive infectious disease
-        link: "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7"
-        tagline: "Undestanding the determinats of immune mediated protection and pathology in viral encephalitis and COVID-19"
+        tagline: "Undestanding the determinats of immune mediated protection and pathology in viral encephalitis (<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.24211">Niewold et al 2020</a>, <a href="https://link.springer.com/article/10.1186/s12974-019-1566-5">Hayashida et al 2019</a>) and COVID-19 (<a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7">Koutsakous et al 2021</a>, <a href="https://www.nature.com/articles/s41467-022-30088-y">Zhang et al 2022</a>, <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/cti2.1463">Baird et al 2023</a>)."
       - title: Adult and paediatric immunology
-        link: "https://onlinelibrary.wiley.com/doi/full/10.1111/imcb.12594"
-        tagline: "Development of the immune system over the human lifetime, and consequences for responses to infectious challenges"
+        tagline: "Development of the immune system over the human lifetime, and consequences for responses to infectious challenges (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/imcb.12594">Jalali et al 2022</a>, <a href="https://essopenarchive.org/doi/full/10.22541/au.170664389.93239678">Ni et al 2024</a>, <a href="https://www.biorxiv.org/content/10.1101/2024.08.14.608020v1.abstract">Taheri et al 2024</a>)."
 
 oss:
     title: Resources
     contributions:
+      - title: Sydney Cytometry Website
+        link: "https://sydneycytometry.org.au/"
+        tagline: "Resources and services for cytometry, single-cell, and spatial multiomics"
       - title: Spectre
         link: "https://immunedynamics.io/spectre/"
         tagline: "A computational toolkit for high-dimensional cytometry and spatial analysis."
