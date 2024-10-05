@@ -40,12 +40,10 @@ sidebar:
     #       level: Native
 
     interests:
-        title: Education
+        title: Qualifications
         info:
-          - item: Ph.D in Medicine (Immunology) 2019
-            link:
-          - item: Bachelor of Science (hons) 2011
-            link:
+          - item: Ph.D in Medicine (Immunology)
+          - item: Bachelor of Science (hons)
 
 career-profile:
     title: Overview
@@ -58,11 +56,11 @@ education:
       - degree: Senior Cytometry Scientist
         university: Sydney Cytometry Core Research Facility, The University of Sydney
         time: 2022-present
-      - degree: Co-leader
-        university: Single Cell and Spatial Biology Node, The University of Sydney
-        time: 2021-present
       - degree: Honorary Research Fellow
         university: Infection, Immunity, and Inflammation, The University of Sydney
+        time: 2021-present
+      - degree: Co-leader
+        university: Single Cell and Spatial Biology Node, The University of Sydney
         time: 2021-present
 
 certifications:
